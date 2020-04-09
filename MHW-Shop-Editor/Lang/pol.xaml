@@ -2505,8 +2505,8 @@
         <local:Item Key="item09A3" Value="Sztandar 5. Floty"/>
         <local:Item Key="item09A4" Value="Opromieniony obraz"/>
         <local:Item Key="item09A5" Value="Obraz Astery"/>
-        <local:Item Key="item09A6" Value="Portret "Zebranie rady""/>
-        <local:Item Key="item09A7" Value="Portret "Zabawa""/>
+        <local:Item Key="item09A6" Value="Portret &quot;Zebranie rady&quot;"/>
+        <local:Item Key="item09A7" Value="Portret &quot;Zabawa&quot;"/>
         <local:Item Key="item09A8" Value="Wspaniałe dywany (parter)"/>
         <local:Item Key="item09A9" Value="Wspaniałe dywany (1. piętro)"/>
         <local:Item Key="item09AA" Value="Papierowa latarnia"/>
