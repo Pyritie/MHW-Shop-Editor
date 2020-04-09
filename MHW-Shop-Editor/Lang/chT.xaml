@@ -1321,10 +1321,10 @@
         <local:Item Key="item0503" Value="碎龍的剛鐵拳"/>
         <local:Item Key="item0504" Value="碎龍的韌尾"/>
         <local:Item Key="item0505" Value="碎龍的天殼"/>
-        <local:Item Key="item0506" Value="Unavailable"/>
-        <local:Item Key="item0507" Value="Unavailable"/>
-        <local:Item Key="item0508" Value="Unavailable"/>
-        <local:Item Key="item0509" Value="Unavailable"/>
+        <local:Item Key="item0506" Value="碎龍的彈頭殼"/>
+        <local:Item Key="item0507" Value="臨界點的黏菌"/>
+        <local:Item Key="item0508" Value="碎龍的擊滅拳"/>
+        <local:Item Key="item0509" Value="不滅的爐心殼"/>
         <local:Item Key="item050A" Value="黑狼鳥的厚鱗"/>
         <local:Item Key="item050B" Value="黑狼鳥的重殼"/>
         <local:Item Key="item050C" Value="黑狼鳥的地獄耳"/>
@@ -1368,10 +1368,10 @@
         <local:Item Key="item0532" Value="金獅子的剛爪"/>
         <local:Item Key="item0533" Value="金獅子的尾巴"/>
         <local:Item Key="item0534" Value="黃金的煌毛"/>
-        <local:Item Key="item0535" Value="Unavailable"/>
+        <local:Item Key="item0535" Value="金獅子的怒髮天"/>
         <local:Item Key="item0536" Value="金獅子的剛角"/>
-        <local:Item Key="item0537" Value="Unavailable"/>
-        <local:Item Key="item0538" Value="Unavailable"/>
+        <local:Item Key="item0537" Value="羅剎的金剛角"/>
+        <local:Item Key="item0538" Value="金獅子心"/>
         <local:Item Key="item0539" Value="麒麟的特上皮"/>
         <local:Item Key="item053A" Value="麒麟的韌雷尾"/>
         <local:Item Key="item053B" Value="麒麟的銀鬃毛"/>
@@ -1450,7 +1450,7 @@
         <local:Item Key="item0584" Value="凋零的龍鱗"/>
         <local:Item Key="item0585" Value="閃爍的龍鱗"/>
         <local:Item Key="item0586" Value="古老龍秘寶"/>
-        <local:Item Key="item0587" Value="Unavailable"/>
+        <local:Item Key="item0587" Value="不壞的黑曜甲"/>
         <local:Item Key="item0588" Value="Unavailable"/>
         <local:Item Key="item0589" Value="？？？的厚鱗"/>
         <local:Item Key="item058A" Value="？？？的岩殼"/>
@@ -1579,7 +1579,7 @@
         <local:Item Key="item0605" Value="Unavailable"/>
         <local:Item Key="item0606" Value="Unavailable"/>
         <local:Item Key="item0607" Value="高級澆水器"/>
-        <local:Item Key="item0608" Value="Unavailable"/>
+        <local:Item Key="item0608" Value="高級壺子"/>
         <local:Item Key="item0609" Value="質樸壺具組"/>
         <local:Item Key="item060A" Value="麻袋"/>
         <local:Item Key="item060B" Value="酒瓶"/>
@@ -1590,7 +1590,7 @@
         <local:Item Key="item0610" Value="化石擺飾"/>
         <local:Item Key="item0611" Value="質樸的土鍋"/>
         <local:Item Key="item0612" Value="鍋具組"/>
-        <local:Item Key="item0613" Value="Unavailable"/>
+        <local:Item Key="item0613" Value="盤繪組【小】"/>
         <local:Item Key="item0614" Value="盤繪組【大】"/>
         <local:Item Key="item0615" Value="裝有礦石的籃子"/>
         <local:Item Key="item0616" Value="酒樽"/>
@@ -1603,7 +1603,7 @@
         <local:Item Key="item061D" Value="仙人掌盆栽"/>
         <local:Item Key="item061E" Value="繽紛的盆栽"/>
         <local:Item Key="item061F" Value="裝滿菇類的籃子"/>
-        <local:Item Key="item0620" Value="Unavailable"/>
+        <local:Item Key="item0620" Value="水果拚盤"/>
         <local:Item Key="item0621" Value="蔬菜拼盤"/>
         <local:Item Key="item0622" Value="奇面族的面具【威】"/>
         <local:Item Key="item0623" Value="奇面族的面具【嘆】"/>
@@ -1699,7 +1699,7 @@
         <local:Item Key="item067D" Value="可愛的地毯（2樓）"/>
         <local:Item Key="item067E" Value="毛皮的地毯（2樓）"/>
         <local:Item Key="item067F" Value="提燈"/>
-        <local:Item Key="item0680" Value="Unavailable"/>
+        <local:Item Key="item0680" Value="古典桌燈"/>
         <local:Item Key="item0681" Value="油燈"/>
         <local:Item Key="item0682" Value="蠟燭"/>
         <local:Item Key="item0683" Value="燭台"/>
@@ -1744,13 +1744,13 @@
         <local:Item Key="item06AA" Value="格子圖案【綠】"/>
         <local:Item Key="item06AB" Value="隨從圖案【桃】"/>
         <local:Item Key="item06AC" Value="隨從圖案【茶】"/>
-        <local:Item Key="item06AD" Value="Unavailable"/>
-        <local:Item Key="item06AE" Value="Unavailable"/>
+        <local:Item Key="item06AD" Value="艾路圖案【黃】"/>
+        <local:Item Key="item06AE" Value="艾路圖案【藍】"/>
         <local:Item Key="item06AF" Value="生命圖案‧小【白】"/>
         <local:Item Key="item06B0" Value="生命圖案‧小【藍】"/>
         <local:Item Key="item06B1" Value="生命圖案‧小【桃】"/>
-        <local:Item Key="item06B2" Value="Unavailable"/>
-        <local:Item Key="item06B3" Value="Unavailable"/>
+        <local:Item Key="item06B2" Value="生命圖案‧大【白】"/>
+        <local:Item Key="item06B3" Value="生命圖案‧大【黃】"/>
         <local:Item Key="item06B4" Value="條紋圖案"/>
         <local:Item Key="item06B5" Value="Unavailable"/>
         <local:Item Key="item06B6" Value="Unavailable"/>
@@ -1761,13 +1761,13 @@
         <local:Item Key="item06BB" Value="鐵(淺)"/>
         <local:Item Key="item06BC" Value="鐵(暗)"/>
         <local:Item Key="item06BD" Value="銀"/>
-        <local:Item Key="item06BE" Value="Unavailable"/>
+        <local:Item Key="item06BE" Value="金"/>
         <local:Item Key="item06BF" Value="石"/>
         <local:Item Key="item06C0" Value="懷舊的房間"/>
         <local:Item Key="item06C1" Value="傳統的房間"/>
         <local:Item Key="item06C2" Value="典雅的房間"/>
         <local:Item Key="item06C3" Value="可愛的房間"/>
-        <local:Item Key="item06C4" Value="Unavailable"/>
+        <local:Item Key="item06C4" Value="豪華絢麗的房間"/>
         <local:Item Key="item06C5" Value="侘寂的房間"/>
         <local:Item Key="item06C6" Value="木質地板"/>
         <local:Item Key="item06C7" Value="洗鍊的木質地板"/>
@@ -2429,35 +2429,35 @@
         <local:Item Key="item0957" Value="Spark of Blue - Zinogre: Sebastian Schwartz Remix"/>
         <local:Item Key="item0958" Value="Brutish Indigo - Brachydios: The Sound Room Remix"/>
         <local:Item Key="item0959" Value="To The Ones With Life: The Sound Room Remix"/>
-        <local:Item Key="item095A" Value="Unavailable"/>
-        <local:Item Key="item095B" Value="Unavailable"/>
-        <local:Item Key="item095C" Value="Unavailable"/>
-        <local:Item Key="item095D" Value="Unavailable"/>
-        <local:Item Key="item095E" Value="Unavailable"/>
-        <local:Item Key="item095F" Value="Unavailable"/>
-        <local:Item Key="item0960" Value="Unavailable"/>
-        <local:Item Key="item0961" Value="Unavailable"/>
-        <local:Item Key="item0962" Value="Unavailable"/>
-        <local:Item Key="item0963" Value="Unavailable"/>
-        <local:Item Key="item0964" Value="Unavailable"/>
-        <local:Item Key="item0965" Value="Unavailable"/>
-        <local:Item Key="item0966" Value="Unavailable"/>
-        <local:Item Key="item0967" Value="Unavailable"/>
-        <local:Item Key="item0968" Value="Unavailable"/>
+        <local:Item Key="item095A" Value="Barley Field Walkway"/>
+        <local:Item Key="item095B" Value="Hunter of the Violent Sands"/>
+        <local:Item Key="item095C" Value="Cazador Del Monstruo"/>
+        <local:Item Key="item095D" Value="Gather Up, Everyone! ~ Sunsnug Isle"/>
+        <local:Item Key="item095E" Value="Red Glare in the Darkness - Nargacuga: World Version"/>
+        <local:Item Key="item095F" Value="Spark of Blue - Zinogre: World Version"/>
+        <local:Item Key="item0960" Value="The Howling Lone Wolf - Yian Garuga: World Version"/>
+        <local:Item Key="item0961" Value="Morning Star of the Dark Tide - Namielle"/>
+        <local:Item Key="item0962" Value="World's End - Arch-Tempered Nergigante"/>
+        <local:Item Key="item0963" Value="Brutish Indigo Rages"/>
+        <local:Item Key="item0964" Value="The Emperor Emerges From Under the Veil"/>
+        <local:Item Key="item0965" Value="For the Emperor's Amusement"/>
+        <local:Item Key="item0966" Value="Proof of a Hero (MH Swing)"/>
+        <local:Item Key="item0967" Value="Ruler of the Flame - Teostra (MH Swing)"/>
+        <local:Item Key="item0968" Value="豪華的床鋪"/>
         <local:Item Key="item0969" Value="蛋糕塔組合"/>
         <local:Item Key="item096A" Value="梅拉路玩偶"/>
-        <local:Item Key="item096B" Value="Unavailable"/>
-        <local:Item Key="item096C" Value="Unavailable"/>
+        <local:Item Key="item096B" Value="豪華的壺子【銀】"/>
+        <local:Item Key="item096C" Value="豪華的壺子【金】"/>
         <local:Item Key="item096D" Value="梅花盆栽"/>
         <local:Item Key="item096E" Value="點綴裝飾的盆栽"/>
-        <local:Item Key="item096F" Value="Unavailable"/>
-        <local:Item Key="item0970" Value="Unavailable"/>
+        <local:Item Key="item096F" Value="花飾【小】"/>
+        <local:Item Key="item0970" Value="花飾【大】"/>
         <local:Item Key="item0971" Value="Unavailable"/>
         <local:Item Key="item0972" Value="Unavailable"/>
-        <local:Item Key="item0973" Value="Unavailable"/>
-        <local:Item Key="item0974" Value="Unavailable"/>
-        <local:Item Key="item0975" Value="Unavailable"/>
-        <local:Item Key="item0976" Value="Unavailable"/>
+        <local:Item Key="item0973" Value="模型【第五期團的船】"/>
+        <local:Item Key="item0974" Value="模型【改造船】"/>
+        <local:Item Key="item0975" Value="模型【研究基地】"/>
+        <local:Item Key="item0976" Value="模型【營地】"/>
         <local:Item Key="item0977" Value="優雅茶具組"/>
         <local:Item Key="item0978" Value="Unavailable"/>
         <local:Item Key="item0979" Value="Unavailable"/>
@@ -2473,29 +2473,29 @@
         <local:Item Key="item0983" Value="Unavailable"/>
         <local:Item Key="item0984" Value="Unavailable"/>
         <local:Item Key="item0985" Value="畫作【艾路②】"/>
-        <local:Item Key="item0986" Value="Unavailable"/>
+        <local:Item Key="item0986" Value="畫作【艾路③】"/>
         <local:Item Key="item0987" Value="Unavailable"/>
         <local:Item Key="item0988" Value="畫作【狩獵的空閒時光】"/>
         <local:Item Key="item0989" Value="畫作【古代樹植物】"/>
         <local:Item Key="item098A" Value="畫作【水壺與水果】"/>
-        <local:Item Key="item098B" Value="Unavailable"/>
+        <local:Item Key="item098B" Value="豪華的櫃子"/>
         <local:Item Key="item098C" Value="懷舊的燈具【黃】"/>
-        <local:Item Key="item098D" Value="Unavailable"/>
+        <local:Item Key="item098D" Value="懷舊的燈具【白】"/>
         <local:Item Key="item098E" Value="幽暗的燈具"/>
         <local:Item Key="item098F" Value="高級燈具【白】 "/>
-        <local:Item Key="item0990" Value="Unavailable"/>
+        <local:Item Key="item0990" Value="可愛的燈具【藍】"/>
         <local:Item Key="item0991" Value="可愛的燈具【白】 "/>
         <local:Item Key="item0992" Value="質樸燈具【黃】"/>
         <local:Item Key="item0993" Value="質樸燈具【白】"/>
-        <local:Item Key="item0994" Value="Unavailable"/>
-        <local:Item Key="item0995" Value="Unavailable"/>
+        <local:Item Key="item0994" Value="豪華的燈具"/>
+        <local:Item Key="item0995" Value="吊燈"/>
         <local:Item Key="item0996" Value="Unavailable"/>
         <local:Item Key="item0997" Value="萬福提燈"/>
         <local:Item Key="item0998" Value="天燈燈具"/>
-        <local:Item Key="item0999" Value="Unavailable"/>
-        <local:Item Key="item099A" Value="Unavailable"/>
-        <local:Item Key="item099B" Value="Unavailable"/>
-        <local:Item Key="item099C" Value="Unavailable"/>
+        <local:Item Key="item0999" Value="豪華壁掛牆架【大】"/>
+        <local:Item Key="item099A" Value="豪華壁掛牆架【小】"/>
+        <local:Item Key="item099B" Value="畫作【永霜凍土②】"/>
+        <local:Item Key="item099C" Value="大張的地圖"/>
         <local:Item Key="item099D" Value="Unavailable"/>
         <local:Item Key="item099E" Value="Unavailable"/>
         <local:Item Key="item099F" Value="團旗【第一期團】"/>
@@ -2505,10 +2505,10 @@
         <local:Item Key="item09A3" Value="團旗【第五期團】"/>
         <local:Item Key="item09A4" Value="畫作【生命之森】"/>
         <local:Item Key="item09A5" Value="畫作【星辰】"/>
-        <local:Item Key="item09A6" Value="Unavailable"/>
-        <local:Item Key="item09A7" Value="Unavailable"/>
-        <local:Item Key="item09A8" Value="Unavailable"/>
-        <local:Item Key="item09A9" Value="Unavailable"/>
+        <local:Item Key="item09A6" Value="畫作【作戰會議】"/>
+        <local:Item Key="item09A7" Value="畫作【遊戲】"/>
+        <local:Item Key="item09A8" Value="豪華的地毯（1樓）"/>
+        <local:Item Key="item09A9" Value="豪華的地毯（2樓）"/>
         <local:Item Key="item09AA" Value="燈籠"/>
         <local:Item Key="item09AB" Value="Unavailable"/>
         <local:Item Key="item09AC" Value="立燈①"/>
@@ -2516,8 +2516,8 @@
         <local:Item Key="item09AE" Value="研究組合"/>
         <local:Item Key="item09AF" Value="廚房組合"/>
         <local:Item Key="item09B0" Value="石像【火龍】"/>
-        <local:Item Key="item09B1" Value="Unavailable"/>
-        <local:Item Key="item09B2" Value="Unavailable"/>
+        <local:Item Key="item09B1" Value="寶箱"/>
+        <local:Item Key="item09B2" Value="花飾【特大】"/>
         <local:Item Key="item09B3" Value="巨大的艾路玩偶"/>
         <local:Item Key="item09B4" Value="巨大的噗吱豬玩偶"/>
         <local:Item Key="item09B5" Value="巨大的德特爾玩偶"/>
@@ -2535,7 +2535,7 @@
         <local:Item Key="item09C1" Value="典雅圖案地板【藍】"/>
         <local:Item Key="item09C2" Value="典雅圖案地板【綠】"/>
         <local:Item Key="item09C3" Value="典雅圖案地板【白】"/>
-        <local:Item Key="item09C4" Value="Unavailable"/>
+        <local:Item Key="item09C4" Value="典雅圖案地板【金】"/>
         <local:Item Key="item09C5" Value="可愛圖案地板【藍】"/>
         <local:Item Key="item09C6" Value="可愛圖案地板【綠】"/>
         <local:Item Key="item09C7" Value="可愛圖案地板【灰】"/>
@@ -2554,20 +2554,20 @@
         <local:Item Key="item09D4" Value="磁磚壁面【藍】"/>
         <local:Item Key="item09D5" Value="磁磚壁面【灰】"/>
         <local:Item Key="item09D6" Value="磁磚壁面【水】"/>
-        <local:Item Key="item09D7" Value="Unavailable"/>
+        <local:Item Key="item09D7" Value="高級圖案的壁面【金】"/>
         <local:Item Key="item09D8" Value="高級圖案的壁面【藍】"/>
         <local:Item Key="item09D9" Value="高級圖案的壁面【赤】"/>
         <local:Item Key="item09DA" Value="高級圖案的壁面【綠】"/>
-        <local:Item Key="item09DB" Value="Unavailable"/>
+        <local:Item Key="item09DB" Value="豪華圖案的壁面"/>
         <local:Item Key="item09DC" Value="木質壁面【黑】"/>
         <local:Item Key="item09DD" Value="灰泥壁面【黃土】"/>
         <local:Item Key="item09DE" Value="竹製壁面【綠】"/>
         <local:Item Key="item09DF" Value="竹製壁面【茶】"/>
         <local:Item Key="item09E0" Value="大理石壁面【灰】"/>
-        <local:Item Key="item09E1" Value="Unavailable"/>
+        <local:Item Key="item09E1" Value="豪華的沙發"/>
         <local:Item Key="item09E2" Value="萬福料理組合"/>
         <local:Item Key="item09E3" Value="高級料理拼盤"/>
-        <local:Item Key="item09E4" Value="Unavailable"/>
+        <local:Item Key="item09E4" Value="盛放料理組合"/>
         <local:Item Key="item09E5" Value="Unavailable"/>
         <local:Item Key="item09E6" Value="模型【飛雷龍】"/>
         <local:Item Key="item09E7" Value="模型【冰牙龍】"/>
@@ -2582,15 +2582,15 @@
         <local:Item Key="item09F0" Value="模型【斬龍】"/>
         <local:Item Key="item09F1" Value="模型【雌火龍】"/>
         <local:Item Key="item09F2" Value="模型【搔鳥】"/>
-        <local:Item Key="item09F3" Value="Unavailable"/>
-        <local:Item Key="item09F4" Value="Unavailable"/>
-        <local:Item Key="item09F5" Value="Unavailable"/>
+        <local:Item Key="item09F3" Value="模型【雷狼龍】"/>
+        <local:Item Key="item09F4" Value="模型【黑狼鳥】"/>
+        <local:Item Key="item09F5" Value="模型【大凶顎龍】"/>
         <local:Item Key="item09F6" Value="Unavailable"/>
         <local:Item Key="item09F7" Value="Unavailable"/>
         <local:Item Key="item09F8" Value="Unavailable"/>
-        <local:Item Key="item09F9" Value="Unavailable"/>
-        <local:Item Key="item09FA" Value="Unavailable"/>
-        <local:Item Key="item09FB" Value="Unavailable"/>
+        <local:Item Key="item09F9" Value="模型【溟波龍】"/>
+        <local:Item Key="item09FA" Value="模型【浮空龍】"/>
+        <local:Item Key="item09FB" Value="模型【眩鳥】"/>
         <local:Item Key="item09FC" Value="Unavailable"/>
         <local:Item Key="item09FD" Value="Unavailable"/>
         <local:Item Key="item09FE" Value="Unavailable"/>
@@ -2601,8 +2601,8 @@
         <local:Item Key="item0A03" Value="Unavailable"/>
         <local:Item Key="item0A04" Value="Unavailable"/>
         <local:Item Key="item0A05" Value="模型【大感謝】"/>
-        <local:Item Key="item0A06" Value="Unavailable"/>
-        <local:Item Key="item0A07" Value="Unavailable"/>
+        <local:Item Key="item0A06" Value="大理石壁面【白】"/>
+        <local:Item Key="item0A07" Value="大理石磚地板【白】"/>
         <local:Item Key="item0A08" Value="綠色藥草"/>
         <local:Item Key="item0A09" Value="紅色藥草"/>
         <local:Item Key="item0A0A" Value="藍色藥草"/>
@@ -2618,29 +2618,29 @@
         <local:Item Key="item0A14" Value="Unavailable"/>
         <local:Item Key="item0A15" Value="雪人【萬福】"/>
         <local:Item Key="item0A16" Value="雪人【大感謝】"/>
-        <local:Item Key="item0A17" Value="Unavailable"/>
+        <local:Item Key="item0A17" Value="雪人【盛放】"/>
         <local:Item Key="item0A18" Value="Unavailable"/>
         <local:Item Key="item0A19" Value="Unavailable"/>
         <local:Item Key="item0A1A" Value="天燈"/>
-        <local:Item Key="item0A1B" Value="Unavailable"/>
-        <local:Item Key="item0A1C" Value="Unavailable"/>
+        <local:Item Key="item0A1B" Value="豪華的旗幟吊飾"/>
+        <local:Item Key="item0A1C" Value="紅花吊掛盆栽"/>
         <local:Item Key="item0A1D" Value="Unavailable"/>
-        <local:Item Key="item0A1E" Value="Unavailable"/>
-        <local:Item Key="item0A1F" Value="Unavailable"/>
-        <local:Item Key="item0A20" Value="Unavailable"/>
+        <local:Item Key="item0A1E" Value="浮雕"/>
+        <local:Item Key="item0A1F" Value="繪畫【大團長】"/>
+        <local:Item Key="item0A20" Value="豪華的壁飾"/>
         <local:Item Key="item0A21" Value="Unavailable"/>
         <local:Item Key="item0A22" Value="Unavailable"/>
         <local:Item Key="item0A23" Value="畫作【巨匠們的極品】"/>
-        <local:Item Key="item0A24" Value="Unavailable"/>
-        <local:Item Key="item0A25" Value="Unavailable"/>
+        <local:Item Key="item0A24" Value="華麗的地毯（1樓）"/>
+        <local:Item Key="item0A25" Value="華麗的地毯（2樓）"/>
         <local:Item Key="item0A26" Value="Unavailable"/>
         <local:Item Key="item0A27" Value="Unavailable"/>
-        <local:Item Key="item0A28" Value="Unavailable"/>
-        <local:Item Key="item0A29" Value="Unavailable"/>
-        <local:Item Key="item0A2A" Value="Unavailable"/>
-        <local:Item Key="item0A2B" Value="Unavailable"/>
-        <local:Item Key="item0A2C" Value="Unavailable"/>
-        <local:Item Key="item0A2D" Value="Unavailable"/>
+        <local:Item Key="item0A28" Value="模型【泥魚龍】"/>
+        <local:Item Key="item0A29" Value="模型【土砂龍】"/>
+        <local:Item Key="item0A2A" Value="模型【角龍】"/>
+        <local:Item Key="item0A2B" Value="模型【冥赤龍】"/>
+        <local:Item Key="item0A2C" Value="模型【冥燈龍】"/>
+        <local:Item Key="item0A2D" Value="模型【冰豺狼】"/>
         <local:Item Key="item0A2E" Value="Unavailable"/>
         <local:Item Key="item0A2F" Value="Unavailable"/>
         <local:Item Key="item0A30" Value="Unavailable"/>
@@ -2649,9 +2649,9 @@
         <local:Item Key="item0A33" Value="Unavailable"/>
         <local:Item Key="item0A34" Value="Unavailable"/>
         <local:Item Key="item0A35" Value="Unavailable"/>
-        <local:Item Key="item0A36" Value="Unavailable"/>
-        <local:Item Key="item0A37" Value="Unavailable"/>
-        <local:Item Key="item0A38" Value="Unavailable"/>
+        <local:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
+        <local:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
+        <local:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
         <local:Item Key="item0A39" Value="Unavailable"/>
         <local:Item Key="item0A3A" Value="Unavailable"/>
         <local:Item Key="item0A3B" Value="Unavailable"/>
@@ -2754,11 +2754,11 @@
         <local:Item Key="item0A9C" Value="龍人族票"/>
         <local:Item Key="item0A9D" Value="祭典票"/>
         <local:Item Key="item0A9E" Value="用餐地區票【肉】"/>
-        <local:Item Key="item0A9F" Value="Unavailable"/>
+        <local:Item Key="item0A9F" Value="蒼世之証"/>
         <local:Item Key="item0AA0" Value="Unavailable"/>
-        <local:Item Key="item0AA1" Value="Unavailable"/>
-        <local:Item Key="item0AA2" Value="Unavailable"/>
-        <local:Item Key="item0AA3" Value="Unavailable"/>
+        <local:Item Key="item0AA1" Value="盛放票"/>
+        <local:Item Key="item0AA2" Value="堅硬竹筴魚票"/>
+        <local:Item Key="item0AA3" Value="鬆軟票Ⅱ"/>
         <local:Item Key="item0AA4" Value="Unavailable"/>
         <local:Item Key="item0AA5" Value="Unavailable"/>
         <local:Item Key="item0AA6" Value="Unavailable"/>
@@ -2772,10 +2772,10 @@
         <local:Item Key="item0AAE" Value="美好的毛皮"/>
         <local:Item Key="item0AAF" Value="萬福票ＳＰ"/>
         <local:Item Key="item0AB0" Value="大感謝票ＳＰ"/>
-        <local:Item Key="item0AB1" Value="Unavailable"/>
+        <local:Item Key="item0AB1" Value="盛放票ＳＰ"/>
         <local:Item Key="item0AB2" Value="Unavailable"/>
         <local:Item Key="item0AB3" Value="Unavailable"/>
-        <local:Item Key="item0AB4" Value="Unavailable"/>
+        <local:Item Key="item0AB4" Value="投射器撤退彈"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
         <local:Item Key="item0AB6" Value="蘊藏龍力的凝塊‧大劍"/>
         <local:Item Key="item0AB7" Value="蘊藏龍力的凝塊‧太刀"/>

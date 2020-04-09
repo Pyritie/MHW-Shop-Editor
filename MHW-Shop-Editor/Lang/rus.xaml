@@ -1321,10 +1321,10 @@
         <local:Item Key="item0503" Value="Ударник брахидиоса+"/>
         <local:Item Key="item0504" Value="Плеть брахидиоса"/>
         <local:Item Key="item0505" Value="Мантия брахидиоса"/>
-        <local:Item Key="item0506" Value="Unavailable"/>
-        <local:Item Key="item0507" Value="Unavailable"/>
-        <local:Item Key="item0508" Value="Unavailable"/>
-        <local:Item Key="item0509" Value="Unavailable"/>
+        <local:Item Key="item0506" Value="Нарост брахи"/>
+        <local:Item Key="item0507" Value="Горячая слизь"/>
+        <local:Item Key="item0508" Value="Опустошитель брахидиоса"/>
+        <local:Item Key="item0509" Value="Бессмертный реактор"/>
         <local:Item Key="item050A" Value="Осколок гаруги"/>
         <local:Item Key="item050B" Value="Сердечник гаруги"/>
         <local:Item Key="item050C" Value="Ушная раковина гаруги"/>
@@ -1368,10 +1368,10 @@
         <local:Item Key="item0532" Value="Когтище раянга"/>
         <local:Item Key="item0533" Value="Хвост раянга"/>
         <local:Item Key="item0534" Value="Золотая шкура раянга+"/>
-        <local:Item Key="item0535" Value="Unavailable"/>
+        <local:Item Key="item0535" Value="Грива бешеного раянга"/>
         <local:Item Key="item0536" Value="Крепкий рог раянга"/>
-        <local:Item Key="item0537" Value="Unavailable"/>
-        <local:Item Key="item0538" Value="Unavailable"/>
+        <local:Item Key="item0537" Value="Золотой рог злобы"/>
+        <local:Item Key="item0538" Value="Сердце раянга"/>
         <local:Item Key="item0539" Value="Тонкая шкура кирина"/>
         <local:Item Key="item053A" Value="Грозовой хвост кирина+"/>
         <local:Item Key="item053B" Value="Серебряная грива кирина"/>
@@ -1450,7 +1450,7 @@
         <local:Item Key="item0584" Value="Разложившаяся чешуя"/>
         <local:Item Key="item0585" Value="Сияющая чешуя"/>
         <local:Item Key="item0586" Value="Сокровище древнего дракона"/>
-        <local:Item Key="item0587" Value="Unavailable"/>
+        <local:Item Key="item0587" Value="Несокрушимая эбеновая оболочка"/>
         <local:Item Key="item0588" Value="Unavailable"/>
         <local:Item Key="item0589" Value="Осколок (???)"/>
         <local:Item Key="item058A" Value="Каменная пластина (???)"/>
@@ -1579,7 +1579,7 @@
         <local:Item Key="item0605" Value="Unavailable"/>
         <local:Item Key="item0606" Value="Unavailable"/>
         <local:Item Key="item0607" Value="Роскошный кувшин"/>
-        <local:Item Key="item0608" Value="Unavailable"/>
+        <local:Item Key="item0608" Value="Роскошная ваза"/>
         <local:Item Key="item0609" Value="Набор простых ваз"/>
         <local:Item Key="item060A" Value="Джутовые мешки"/>
         <local:Item Key="item060B" Value="Алкоголь в бутылке"/>
@@ -1590,7 +1590,7 @@
         <local:Item Key="item0610" Value="Образец окаменелости"/>
         <local:Item Key="item0611" Value="Простая утварь"/>
         <local:Item Key="item0612" Value="Набор ваз"/>
-        <local:Item Key="item0613" Value="Unavailable"/>
+        <local:Item Key="item0613" Value="Набор тарелок с узором (малый)"/>
         <local:Item Key="item0614" Value="Тарелка с узором (бол.)"/>
         <local:Item Key="item0615" Value="Корзина руды"/>
         <local:Item Key="item0616" Value="Бочка саке"/>
@@ -1603,7 +1603,7 @@
         <local:Item Key="item061D" Value="Кактус в горшке"/>
         <local:Item Key="item061E" Value="Яркие цветы"/>
         <local:Item Key="item061F" Value="Грибная корзина"/>
-        <local:Item Key="item0620" Value="Unavailable"/>
+        <local:Item Key="item0620" Value="Чаша фруктов"/>
         <local:Item Key="item0621" Value="Миска с овощами"/>
         <local:Item Key="item0622" Value="Свирепая маска гаялака"/>
         <local:Item Key="item0623" Value="Искаженная маска гаялака"/>
@@ -1699,7 +1699,7 @@
         <local:Item Key="item067D" Value="Симпатичные ковры (2Э)"/>
         <local:Item Key="item067E" Value="Меховые ковры (2Э)"/>
         <local:Item Key="item067F" Value="Фонарь"/>
-        <local:Item Key="item0680" Value="Unavailable"/>
+        <local:Item Key="item0680" Value="Подвесной фонарь"/>
         <local:Item Key="item0681" Value="Лампа"/>
         <local:Item Key="item0682" Value="Свеча"/>
         <local:Item Key="item0683" Value="Подсвечник"/>
@@ -1744,13 +1744,13 @@
         <local:Item Key="item06AA" Value="Клетка (зеленая)"/>
         <local:Item Key="item06AB" Value="Узор палико (розовый)"/>
         <local:Item Key="item06AC" Value="Узор палико (коричневый)"/>
-        <local:Item Key="item06AD" Value="Unavailable"/>
-        <local:Item Key="item06AE" Value="Unavailable"/>
+        <local:Item Key="item06AD" Value="Узор котта (желтый)"/>
+        <local:Item Key="item06AE" Value="Узор котта (синий)"/>
         <local:Item Key="item06AF" Value="Узор жизни: малый (белый)"/>
         <local:Item Key="item06B0" Value="Узор жизни: малый (синий)"/>
         <local:Item Key="item06B1" Value="Узор жизни: малый (розовый)"/>
-        <local:Item Key="item06B2" Value="Unavailable"/>
-        <local:Item Key="item06B3" Value="Unavailable"/>
+        <local:Item Key="item06B2" Value="Узор жизни: большой (белый)"/>
+        <local:Item Key="item06B3" Value="Узор жизни: большой (желтый)"/>
         <local:Item Key="item06B4" Value="Полосы"/>
         <local:Item Key="item06B5" Value="Unavailable"/>
         <local:Item Key="item06B6" Value="Unavailable"/>
@@ -1761,13 +1761,13 @@
         <local:Item Key="item06BB" Value="Светлое железо"/>
         <local:Item Key="item06BC" Value="Темное железо"/>
         <local:Item Key="item06BD" Value="Серебро"/>
-        <local:Item Key="item06BE" Value="Unavailable"/>
+        <local:Item Key="item06BE" Value="Золото"/>
         <local:Item Key="item06BF" Value="Камень"/>
         <local:Item Key="item06C0" Value="Дом, милый дом"/>
         <local:Item Key="item06C1" Value="Традиционная комната"/>
         <local:Item Key="item06C2" Value="Элегантная утонченность"/>
         <local:Item Key="item06C3" Value="Сладкоежка"/>
-        <local:Item Key="item06C4" Value="Unavailable"/>
+        <local:Item Key="item06C4" Value="Чистая роскошь"/>
         <local:Item Key="item06C5" Value="Минималист"/>
         <local:Item Key="item06C6" Value="Деревянный пол"/>
         <local:Item Key="item06C7" Value="Шикарный деревянный пол"/>
@@ -2429,35 +2429,35 @@
         <local:Item Key="item0957" Value="Spark of Blue - Zinogre: Sebastian Schwartz Remix"/>
         <local:Item Key="item0958" Value="Brutish Indigo - Brachydios: The Sound Room Remix"/>
         <local:Item Key="item0959" Value="To The Ones With Life: The Sound Room Remix"/>
-        <local:Item Key="item095A" Value="Unavailable"/>
-        <local:Item Key="item095B" Value="Unavailable"/>
-        <local:Item Key="item095C" Value="Unavailable"/>
-        <local:Item Key="item095D" Value="Unavailable"/>
-        <local:Item Key="item095E" Value="Unavailable"/>
-        <local:Item Key="item095F" Value="Unavailable"/>
-        <local:Item Key="item0960" Value="Unavailable"/>
-        <local:Item Key="item0961" Value="Unavailable"/>
-        <local:Item Key="item0962" Value="Unavailable"/>
-        <local:Item Key="item0963" Value="Unavailable"/>
-        <local:Item Key="item0964" Value="Unavailable"/>
-        <local:Item Key="item0965" Value="Unavailable"/>
-        <local:Item Key="item0966" Value="Unavailable"/>
-        <local:Item Key="item0967" Value="Unavailable"/>
-        <local:Item Key="item0968" Value="Unavailable"/>
+        <local:Item Key="item095A" Value="Barley Field Walkway"/>
+        <local:Item Key="item095B" Value="Hunter of the Violent Sands"/>
+        <local:Item Key="item095C" Value="Cazador Del Monstruo"/>
+        <local:Item Key="item095D" Value="Gather Up, Everyone! ~ Sunsnug Isle"/>
+        <local:Item Key="item095E" Value="Red Glare in the Darkness - Nargacuga: World Version"/>
+        <local:Item Key="item095F" Value="Spark of Blue - Zinogre: World Version"/>
+        <local:Item Key="item0960" Value="The Howling Lone Wolf - Yian Garuga: World Version"/>
+        <local:Item Key="item0961" Value="Morning Star of the Dark Tide - Namielle"/>
+        <local:Item Key="item0962" Value="World's End - Arch-Tempered Nergigante"/>
+        <local:Item Key="item0963" Value="Brutish Indigo Rages"/>
+        <local:Item Key="item0964" Value="The Emperor Emerges From Under the Veil"/>
+        <local:Item Key="item0965" Value="For the Emperor's Amusement"/>
+        <local:Item Key="item0966" Value="Proof of a Hero (MH Swing)"/>
+        <local:Item Key="item0967" Value="Ruler of the Flame - Teostra (MH Swing)"/>
+        <local:Item Key="item0968" Value="Шикарная кровать"/>
         <local:Item Key="item0969" Value="Гора лакомств"/>
         <local:Item Key="item096A" Value="Кукла-мелинкс"/>
-        <local:Item Key="item096B" Value="Unavailable"/>
-        <local:Item Key="item096C" Value="Unavailable"/>
+        <local:Item Key="item096B" Value="Шикарный серебряный котел"/>
+        <local:Item Key="item096C" Value="Шикарный золотой котел"/>
         <local:Item Key="item096D" Value="Горшок для цветка сливы"/>
         <local:Item Key="item096E" Value="Декоративное дерево"/>
-        <local:Item Key="item096F" Value="Unavailable"/>
-        <local:Item Key="item0970" Value="Unavailable"/>
+        <local:Item Key="item096F" Value="Цветочное украшение (маленькое)"/>
+        <local:Item Key="item0970" Value="Цветочное украшение (большое)"/>
         <local:Item Key="item0971" Value="Unavailable"/>
         <local:Item Key="item0972" Value="Unavailable"/>
-        <local:Item Key="item0973" Value="Unavailable"/>
-        <local:Item Key="item0974" Value="Unavailable"/>
-        <local:Item Key="item0975" Value="Unavailable"/>
-        <local:Item Key="item0976" Value="Unavailable"/>
+        <local:Item Key="item0973" Value="Модель корабля Пятого флота"/>
+        <local:Item Key="item0974" Value="Модель измененного корабля"/>
+        <local:Item Key="item0975" Value="Модель исследовательской базы"/>
+        <local:Item Key="item0976" Value="Модель лагеря"/>
         <local:Item Key="item0977" Value="Изящный набор для чаепития"/>
         <local:Item Key="item0978" Value="Unavailable"/>
         <local:Item Key="item0979" Value="Unavailable"/>
@@ -2473,29 +2473,29 @@
         <local:Item Key="item0983" Value="Unavailable"/>
         <local:Item Key="item0984" Value="Unavailable"/>
         <local:Item Key="item0985" Value="Портреты палико 2"/>
-        <local:Item Key="item0986" Value="Unavailable"/>
+        <local:Item Key="item0986" Value="Портреты палико 3"/>
         <local:Item Key="item0987" Value="Unavailable"/>
         <local:Item Key="item0988" Value="Рисунок пикника"/>
         <local:Item Key="item0989" Value="Картина &quot;Растения Древнего леса&quot;"/>
         <local:Item Key="item098A" Value="Натюрморт с фруктами"/>
-        <local:Item Key="item098B" Value="Unavailable"/>
+        <local:Item Key="item098B" Value="Шикарный комод"/>
         <local:Item Key="item098C" Value="Привычные светильники (желтые)"/>
-        <local:Item Key="item098D" Value="Unavailable"/>
+        <local:Item Key="item098D" Value="Привычные светильники (белые)"/>
         <local:Item Key="item098E" Value="Тусклые светильники"/>
         <local:Item Key="item098F" Value="Роскошные светильники (белые)"/>
-        <local:Item Key="item0990" Value="Unavailable"/>
+        <local:Item Key="item0990" Value="Симпатичные светильники (синие)"/>
         <local:Item Key="item0991" Value="Симпатичные светильники (белые)"/>
         <local:Item Key="item0992" Value="Простые светильники (желтые)"/>
         <local:Item Key="item0993" Value="Простые светильники (белые)"/>
-        <local:Item Key="item0994" Value="Unavailable"/>
-        <local:Item Key="item0995" Value="Unavailable"/>
+        <local:Item Key="item0994" Value="Шикарные светильники"/>
+        <local:Item Key="item0995" Value="Канделябры"/>
         <local:Item Key="item0996" Value="Unavailable"/>
         <local:Item Key="item0997" Value="Радостные фонари"/>
         <local:Item Key="item0998" Value="Небесные фонарики"/>
-        <local:Item Key="item0999" Value="Unavailable"/>
-        <local:Item Key="item099A" Value="Unavailable"/>
-        <local:Item Key="item099B" Value="Unavailable"/>
-        <local:Item Key="item099C" Value="Unavailable"/>
+        <local:Item Key="item0999" Value="Шикарная подвесная полка (большая)"/>
+        <local:Item Key="item099A" Value="Шикарная подвесная полка (малая)"/>
+        <local:Item Key="item099B" Value="Картина &quot;Морозный простор&quot; 2"/>
+        <local:Item Key="item099C" Value="Карты Нового Света"/>
         <local:Item Key="item099D" Value="Unavailable"/>
         <local:Item Key="item099E" Value="Unavailable"/>
         <local:Item Key="item099F" Value="Знамя Первого флота"/>
@@ -2505,10 +2505,10 @@
         <local:Item Key="item09A3" Value="Знамя Пятого флота"/>
         <local:Item Key="item09A4" Value="Солнечная картина"/>
         <local:Item Key="item09A5" Value="Пейзаж Астеры"/>
-        <local:Item Key="item09A6" Value="Unavailable"/>
-        <local:Item Key="item09A7" Value="Unavailable"/>
-        <local:Item Key="item09A8" Value="Unavailable"/>
-        <local:Item Key="item09A9" Value="Unavailable"/>
+        <local:Item Key="item09A6" Value="Картина собрания совета"/>
+        <local:Item Key="item09A7" Value="Портрет играющих"/>
+        <local:Item Key="item09A8" Value="Шикарные ковры (1Э)"/>
+        <local:Item Key="item09A9" Value="Шикарные ковры (2Э)"/>
         <local:Item Key="item09AA" Value="Бумажный фонарь"/>
         <local:Item Key="item09AB" Value="Unavailable"/>
         <local:Item Key="item09AC" Value="Круглые бумажные фонари"/>
@@ -2516,8 +2516,8 @@
         <local:Item Key="item09AE" Value="Набор исследователя"/>
         <local:Item Key="item09AF" Value="Набор повара"/>
         <local:Item Key="item09B0" Value="Бюст раталоса"/>
-        <local:Item Key="item09B1" Value="Unavailable"/>
-        <local:Item Key="item09B2" Value="Unavailable"/>
+        <local:Item Key="item09B1" Value="Сундук с сокровищами"/>
+        <local:Item Key="item09B2" Value="Цветочное украшение (огромное)"/>
         <local:Item Key="item09B3" Value="Гигантская кукла-котт"/>
         <local:Item Key="item09B4" Value="Гигантская кукла-хрюшка"/>
         <local:Item Key="item09B5" Value="Гигантская кукла-грималкин"/>
@@ -2535,7 +2535,7 @@
         <local:Item Key="item09C1" Value="Элегантный пол (синий)"/>
         <local:Item Key="item09C2" Value="Элегантный пол (зеленый)"/>
         <local:Item Key="item09C3" Value="Элегантный пол (белый)"/>
-        <local:Item Key="item09C4" Value="Unavailable"/>
+        <local:Item Key="item09C4" Value="Элегантный пол (золотой)"/>
         <local:Item Key="item09C5" Value="Симпатичный пол (синий)"/>
         <local:Item Key="item09C6" Value="Симпатичный пол (зеленый)"/>
         <local:Item Key="item09C7" Value="Симпатичный пол (серый)"/>
@@ -2554,20 +2554,20 @@
         <local:Item Key="item09D4" Value="Стена из керамич. плитки (синяя)"/>
         <local:Item Key="item09D5" Value="Стена из керамич. плитки (серая)"/>
         <local:Item Key="item09D6" Value="Стена из керамич. плитки (пастель)"/>
-        <local:Item Key="item09D7" Value="Unavailable"/>
+        <local:Item Key="item09D7" Value="Роскошная стена с узором (золотая)"/>
         <local:Item Key="item09D8" Value="Роскошная стена с узором (синяя)"/>
         <local:Item Key="item09D9" Value="Роскошная стена с узором (красная)"/>
         <local:Item Key="item09DA" Value="Роскошная стена с узором (зеленая)"/>
-        <local:Item Key="item09DB" Value="Unavailable"/>
+        <local:Item Key="item09DB" Value="Шикарная стена"/>
         <local:Item Key="item09DC" Value="Деревянная стена (черная)"/>
         <local:Item Key="item09DD" Value="Оштукатуренная стена (глина)"/>
         <local:Item Key="item09DE" Value="Бамбуковая стена (зеленая)"/>
         <local:Item Key="item09DF" Value="Бамбуковая стена (коричневая)"/>
         <local:Item Key="item09E0" Value="Мраморная стена (серая)"/>
-        <local:Item Key="item09E1" Value="Unavailable"/>
+        <local:Item Key="item09E1" Value="Шикарный диван"/>
         <local:Item Key="item09E2" Value="Блюдо радости"/>
         <local:Item Key="item09E3" Value="Роскошное блюдо"/>
-        <local:Item Key="item09E4" Value="Unavailable"/>
+        <local:Item Key="item09E4" Value="Тарелка Полноцветия"/>
         <local:Item Key="item09E5" Value="Unavailable"/>
         <local:Item Key="item09E6" Value="Фигурка тоби-кадачи"/>
         <local:Item Key="item09E7" Value="Фигурка бариота"/>
@@ -2582,15 +2582,15 @@
         <local:Item Key="item09F0" Value="Фигурка главенуса"/>
         <local:Item Key="item09F1" Value="Фигурка ратианы"/>
         <local:Item Key="item09F2" Value="Фигурка кулу-йа-ку"/>
-        <local:Item Key="item09F3" Value="Unavailable"/>
-        <local:Item Key="item09F4" Value="Unavailable"/>
-        <local:Item Key="item09F5" Value="Unavailable"/>
+        <local:Item Key="item09F3" Value="Фигурка зиногра"/>
+        <local:Item Key="item09F4" Value="Фигурка йан-гаруги"/>
+        <local:Item Key="item09F5" Value="Фигурка большого гирроса"/>
         <local:Item Key="item09F6" Value="Unavailable"/>
         <local:Item Key="item09F7" Value="Unavailable"/>
         <local:Item Key="item09F8" Value="Unavailable"/>
-        <local:Item Key="item09F9" Value="Unavailable"/>
-        <local:Item Key="item09FA" Value="Unavailable"/>
-        <local:Item Key="item09FB" Value="Unavailable"/>
+        <local:Item Key="item09F9" Value="Фигурка намиэля"/>
+        <local:Item Key="item09FA" Value="Фигурка паолуму"/>
+        <local:Item Key="item09FB" Value="Фигурка цици-йа-ку"/>
         <local:Item Key="item09FC" Value="Unavailable"/>
         <local:Item Key="item09FD" Value="Unavailable"/>
         <local:Item Key="item09FE" Value="Unavailable"/>
@@ -2601,8 +2601,8 @@
         <local:Item Key="item0A03" Value="Unavailable"/>
         <local:Item Key="item0A04" Value="Unavailable"/>
         <local:Item Key="item0A05" Value="Фигурка великой благодарности"/>
-        <local:Item Key="item0A06" Value="Unavailable"/>
-        <local:Item Key="item0A07" Value="Unavailable"/>
+        <local:Item Key="item0A06" Value="Мраморная стена (белая)"/>
+        <local:Item Key="item0A07" Value="Мраморный пол (белый)"/>
         <local:Item Key="item0A08" Value="Зеленая трава"/>
         <local:Item Key="item0A09" Value="Красная трава"/>
         <local:Item Key="item0A0A" Value="Синяя трава"/>
@@ -2618,29 +2618,29 @@
         <local:Item Key="item0A14" Value="Unavailable"/>
         <local:Item Key="item0A15" Value="Радостный снеговик"/>
         <local:Item Key="item0A16" Value="Благодарный снеговик"/>
-        <local:Item Key="item0A17" Value="Unavailable"/>
+        <local:Item Key="item0A17" Value="Цветочный снеговик"/>
         <local:Item Key="item0A18" Value="Unavailable"/>
         <local:Item Key="item0A19" Value="Unavailable"/>
         <local:Item Key="item0A1A" Value="Небесные фонарики"/>
-        <local:Item Key="item0A1B" Value="Unavailable"/>
-        <local:Item Key="item0A1C" Value="Unavailable"/>
+        <local:Item Key="item0A1B" Value="Шикарный флаг"/>
+        <local:Item Key="item0A1C" Value="Подвесные цветы"/>
         <local:Item Key="item0A1D" Value="Unavailable"/>
-        <local:Item Key="item0A1E" Value="Unavailable"/>
-        <local:Item Key="item0A1F" Value="Unavailable"/>
-        <local:Item Key="item0A20" Value="Unavailable"/>
+        <local:Item Key="item0A1E" Value="Барельеф"/>
+        <local:Item Key="item0A1F" Value="Портрет Адмирала"/>
+        <local:Item Key="item0A20" Value="Шикарная драпировка на стену"/>
         <local:Item Key="item0A21" Value="Unavailable"/>
         <local:Item Key="item0A22" Value="Unavailable"/>
         <local:Item Key="item0A23" Value="Шедевральные наброски"/>
-        <local:Item Key="item0A24" Value="Unavailable"/>
-        <local:Item Key="item0A25" Value="Unavailable"/>
+        <local:Item Key="item0A24" Value="Пышные ковры (1Э)"/>
+        <local:Item Key="item0A25" Value="Пышные ковры (2Э)"/>
         <local:Item Key="item0A26" Value="Unavailable"/>
         <local:Item Key="item0A27" Value="Unavailable"/>
-        <local:Item Key="item0A28" Value="Unavailable"/>
-        <local:Item Key="item0A29" Value="Unavailable"/>
-        <local:Item Key="item0A2A" Value="Unavailable"/>
-        <local:Item Key="item0A2B" Value="Unavailable"/>
-        <local:Item Key="item0A2C" Value="Unavailable"/>
-        <local:Item Key="item0A2D" Value="Unavailable"/>
+        <local:Item Key="item0A28" Value="Фигурка юратода"/>
+        <local:Item Key="item0A29" Value="Фигурка баррота"/>
+        <local:Item Key="item0A2A" Value="Фигурка диаблос"/>
+        <local:Item Key="item0A2B" Value="Фигурка сафи'джиивы"/>
+        <local:Item Key="item0A2C" Value="Фигурка ксено'джиивы"/>
+        <local:Item Key="item0A2D" Value="Фигурки вальгов"/>
         <local:Item Key="item0A2E" Value="Unavailable"/>
         <local:Item Key="item0A2F" Value="Unavailable"/>
         <local:Item Key="item0A30" Value="Unavailable"/>
@@ -2649,9 +2649,9 @@
         <local:Item Key="item0A33" Value="Unavailable"/>
         <local:Item Key="item0A34" Value="Unavailable"/>
         <local:Item Key="item0A35" Value="Unavailable"/>
-        <local:Item Key="item0A36" Value="Unavailable"/>
-        <local:Item Key="item0A37" Value="Unavailable"/>
-        <local:Item Key="item0A38" Value="Unavailable"/>
+        <local:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
+        <local:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
+        <local:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
         <local:Item Key="item0A39" Value="Unavailable"/>
         <local:Item Key="item0A3A" Value="Unavailable"/>
         <local:Item Key="item0A3B" Value="Unavailable"/>
@@ -2754,11 +2754,11 @@
         <local:Item Key="item0A9C" Value="Виверианский билет"/>
         <local:Item Key="item0A9D" Value="Билет фестиваля"/>
         <local:Item Key="item0A9E" Value="Билет сытного обеда"/>
-        <local:Item Key="item0A9F" Value="Unavailable"/>
+        <local:Item Key="item0A9F" Value="Знак лазурной эры"/>
         <local:Item Key="item0AA0" Value="Unavailable"/>
-        <local:Item Key="item0AA1" Value="Unavailable"/>
-        <local:Item Key="item0AA2" Value="Unavailable"/>
-        <local:Item Key="item0AA3" Value="Unavailable"/>
+        <local:Item Key="item0AA1" Value="Билет Полноцветия"/>
+        <local:Item Key="item0AA2" Value="Билет точильной рыбы"/>
+        <local:Item Key="item0AA3" Value="Билет пухового коростеля 2"/>
         <local:Item Key="item0AA4" Value="Unavailable"/>
         <local:Item Key="item0AA5" Value="Unavailable"/>
         <local:Item Key="item0AA6" Value="Unavailable"/>
@@ -2772,10 +2772,10 @@
         <local:Item Key="item0AAE" Value="Дивная шкура"/>
         <local:Item Key="item0AAF" Value="Радостный VIP-билет"/>
         <local:Item Key="item0AB0" Value="VIP-билет признательности"/>
-        <local:Item Key="item0AB1" Value="Unavailable"/>
+        <local:Item Key="item0AB1" Value="VIP-билет Полноцветия"/>
         <local:Item Key="item0AB2" Value="Unavailable"/>
         <local:Item Key="item0AB3" Value="Unavailable"/>
-        <local:Item Key="item0AB4" Value="Unavailable"/>
+        <local:Item Key="item0AB4" Value="Изгоняющий мяч"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
         <local:Item Key="item0AB6" Value="Фрагмент силы дракона (Резак)"/>
         <local:Item Key="item0AB7" Value="Фрагмент силы дракона (Клинок)"/>

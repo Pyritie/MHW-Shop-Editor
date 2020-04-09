@@ -470,7 +470,7 @@
         <local:Item Key="item01B0" Value="نسيج راذالوس"/>
         <local:Item Key="item01B1" Value="ذيل راذالوس"/>
         <local:Item Key="item01B2" Value="برثن جناح راذ"/>
-        <local:Item Key="item01B3" Value="نخاع راذالوس"/>
+        <local:Item Key="item01B3" Value="لُب راذالوس"/>
         <local:Item Key="item01B4" Value="لوحة راذالوس"/>
         <local:Item Key="item01B5" Value="قشرة راذالوس+"/>
         <local:Item Key="item01B6" Value="درقة راذالوس"/>
@@ -1321,10 +1321,10 @@
         <local:Item Key="item0503" Value="مدق براكيديوس+"/>
         <local:Item Key="item0504" Value="سوط براكيديوس"/>
         <local:Item Key="item0505" Value="طيلسان براكيديوس"/>
-        <local:Item Key="item0506" Value="Unavailable"/>
-        <local:Item Key="item0507" Value="Unavailable"/>
-        <local:Item Key="item0508" Value="Unavailable"/>
-        <local:Item Key="item0509" Value="Unavailable"/>
+        <local:Item Key="item0506" Value="رأس براك"/>
+        <local:Item Key="item0507" Value="مادة فلاشبوينت لزجة"/>
+        <local:Item Key="item0508" Value="بارود براك"/>
+        <local:Item Key="item0509" Value="مُفاعل سرمدي"/>
         <local:Item Key="item050A" Value="شظية غاروغا"/>
         <local:Item Key="item050B" Value="غلاف غاروغا"/>
         <local:Item Key="item050C" Value="صوان غاروغا"/>
@@ -1368,10 +1368,10 @@
         <local:Item Key="item0532" Value="مخلب راجانغ صلب"/>
         <local:Item Key="item0533" Value="ذيل راجانغ"/>
         <local:Item Key="item0534" Value="فراء راجانغ ذهبي+"/>
-        <local:Item Key="item0535" Value="Unavailable"/>
+        <local:Item Key="item0535" Value="عُرف راجانغ"/>
         <local:Item Key="item0536" Value="قرن راجانغ صلب"/>
-        <local:Item Key="item0537" Value="Unavailable"/>
-        <local:Item Key="item0538" Value="Unavailable"/>
+        <local:Item Key="item0537" Value="قرن غول ذهبي"/>
+        <local:Item Key="item0538" Value="قلب راجانغ"/>
         <local:Item Key="item0539" Value="جلد كيرين رقيق"/>
         <local:Item Key="item053A" Value="ذيل رعد كيرين+"/>
         <local:Item Key="item053B" Value="عُرف كيرين الفضي"/>
@@ -1450,7 +1450,7 @@
         <local:Item Key="item0584" Value="قشرة متحللة"/>
         <local:Item Key="item0585" Value="قشرة مضيئة"/>
         <local:Item Key="item0586" Value="كنز التنين القديم"/>
-        <local:Item Key="item0587" Value="Unavailable"/>
+        <local:Item Key="item0587" Value="صدفة سمراء لا تتحطم"/>
         <local:Item Key="item0588" Value="Unavailable"/>
         <local:Item Key="item0589" Value="شظية ؟؟؟"/>
         <local:Item Key="item058A" Value="لوح ؟؟؟ صخري"/>
@@ -1579,7 +1579,7 @@
         <local:Item Key="item0605" Value="Unavailable"/>
         <local:Item Key="item0606" Value="Unavailable"/>
         <local:Item Key="item0607" Value="إبريق فاخر"/>
-        <local:Item Key="item0608" Value="Unavailable"/>
+        <local:Item Key="item0608" Value="مزهرية فاخرة"/>
         <local:Item Key="item0609" Value="مجموعة جرّات بسيطة"/>
         <local:Item Key="item060A" Value="أكياس من الخيش"/>
         <local:Item Key="item060B" Value="قنينة شراب"/>
@@ -1590,7 +1590,7 @@
         <local:Item Key="item0610" Value="أحفورة بارزة"/>
         <local:Item Key="item0611" Value="إناء خزفي بسيط"/>
         <local:Item Key="item0612" Value="مجموعة أوان خزفية"/>
-        <local:Item Key="item0613" Value="Unavailable"/>
+        <local:Item Key="item0613" Value="مجموعة أطباق مزيّنة (صغيرة)"/>
         <local:Item Key="item0614" Value="لوحة مزيّنة (كبيرة)"/>
         <local:Item Key="item0615" Value="سلة من الخامات"/>
         <local:Item Key="item0616" Value="برميل ساكي"/>
@@ -1603,7 +1603,7 @@
         <local:Item Key="item061D" Value="صبار منزلي"/>
         <local:Item Key="item061E" Value="مزروعات ملونة"/>
         <local:Item Key="item061F" Value="سلة من الفطر"/>
-        <local:Item Key="item0620" Value="Unavailable"/>
+        <local:Item Key="item0620" Value="وعاء فاكهة"/>
         <local:Item Key="item0621" Value="خضراوات معروضة"/>
         <local:Item Key="item0622" Value="قناع غاجالاكا القاسي"/>
         <local:Item Key="item0623" Value="قناع غاجالاكا العبوس"/>
@@ -1699,7 +1699,7 @@
         <local:Item Key="item067D" Value="سجاد لطيف (ط1)"/>
         <local:Item Key="item067E" Value="سجاد من الفراء (الطابق الأول)"/>
         <local:Item Key="item067F" Value="مَوقِد"/>
-        <local:Item Key="item0680" Value="Unavailable"/>
+        <local:Item Key="item0680" Value="مَوقِد معلق"/>
         <local:Item Key="item0681" Value="مصباح"/>
         <local:Item Key="item0682" Value="شمعة"/>
         <local:Item Key="item0683" Value="حامل شموع"/>
@@ -1744,13 +1744,13 @@
         <local:Item Key="item06AA" Value="مربعات (خضراء)"/>
         <local:Item Key="item06AB" Value="أثر الباليكو (وردي)"/>
         <local:Item Key="item06AC" Value="أثر الباليكو (بني)"/>
-        <local:Item Key="item06AD" Value="Unavailable"/>
-        <local:Item Key="item06AE" Value="Unavailable"/>
+        <local:Item Key="item06AD" Value="أثر الفيلاين (أصفر)"/>
+        <local:Item Key="item06AE" Value="أثر الفيلاين (أزرق)"/>
         <local:Item Key="item06AF" Value="بصمة حياة: صغيرة (بيضاء)"/>
         <local:Item Key="item06B0" Value="بصمة حياة: صغيرة (زرقاء)"/>
         <local:Item Key="item06B1" Value="بصمة حياة: صغيرة (وردية)"/>
-        <local:Item Key="item06B2" Value="Unavailable"/>
-        <local:Item Key="item06B3" Value="Unavailable"/>
+        <local:Item Key="item06B2" Value="بصمة الحياة: كبيرة (بيضاء)"/>
+        <local:Item Key="item06B3" Value="بصمة الحياة: كبيرة (صفراء)"/>
         <local:Item Key="item06B4" Value="خطوط"/>
         <local:Item Key="item06B5" Value="Unavailable"/>
         <local:Item Key="item06B6" Value="Unavailable"/>
@@ -1761,13 +1761,13 @@
         <local:Item Key="item06BB" Value="حديد فاتح"/>
         <local:Item Key="item06BC" Value="حديد غامق"/>
         <local:Item Key="item06BD" Value="فضي"/>
-        <local:Item Key="item06BE" Value="Unavailable"/>
+        <local:Item Key="item06BE" Value="ذهبي"/>
         <local:Item Key="item06BF" Value="حجري"/>
         <local:Item Key="item06C0" Value="المنزل الجميل"/>
         <local:Item Key="item06C1" Value="غرفة تقليدية"/>
         <local:Item Key="item06C2" Value="تحسين أنيق"/>
         <local:Item Key="item06C3" Value="ذوق رائع"/>
-        <local:Item Key="item06C4" Value="Unavailable"/>
+        <local:Item Key="item06C4" Value="رفاهية خالصة"/>
         <local:Item Key="item06C5" Value="بساطة"/>
         <local:Item Key="item06C6" Value="أرضية خشبية"/>
         <local:Item Key="item06C7" Value="أرضية خشبية أنيقة"/>
@@ -2429,35 +2429,35 @@
         <local:Item Key="item0957" Value="Spark of Blue - Zinogre: Sebastian Schwartz Remix"/>
         <local:Item Key="item0958" Value="Brutish Indigo - Brachydios: The Sound Room Remix"/>
         <local:Item Key="item0959" Value="To The Ones With Life: The Sound Room Remix"/>
-        <local:Item Key="item095A" Value="Unavailable"/>
-        <local:Item Key="item095B" Value="Unavailable"/>
-        <local:Item Key="item095C" Value="Unavailable"/>
-        <local:Item Key="item095D" Value="Unavailable"/>
-        <local:Item Key="item095E" Value="Unavailable"/>
-        <local:Item Key="item095F" Value="Unavailable"/>
-        <local:Item Key="item0960" Value="Unavailable"/>
-        <local:Item Key="item0961" Value="Unavailable"/>
-        <local:Item Key="item0962" Value="Unavailable"/>
-        <local:Item Key="item0963" Value="Unavailable"/>
-        <local:Item Key="item0964" Value="Unavailable"/>
-        <local:Item Key="item0965" Value="Unavailable"/>
-        <local:Item Key="item0966" Value="Unavailable"/>
-        <local:Item Key="item0967" Value="Unavailable"/>
-        <local:Item Key="item0968" Value="Unavailable"/>
+        <local:Item Key="item095A" Value="Barley Field Walkway"/>
+        <local:Item Key="item095B" Value="Hunter of the Violent Sands"/>
+        <local:Item Key="item095C" Value="Cazador Del Monstruo"/>
+        <local:Item Key="item095D" Value="Gather Up, Everyone! ~ Sunsnug Isle"/>
+        <local:Item Key="item095E" Value="Red Glare in the Darkness - Nargacuga: World Version"/>
+        <local:Item Key="item095F" Value="Spark of Blue - Zinogre: World Version"/>
+        <local:Item Key="item0960" Value="The Howling Lone Wolf - Yian Garuga: World Version"/>
+        <local:Item Key="item0961" Value="Morning Star of the Dark Tide - Namielle"/>
+        <local:Item Key="item0962" Value="World's End - Arch-Tempered Nergigante"/>
+        <local:Item Key="item0963" Value="Brutish Indigo Rages"/>
+        <local:Item Key="item0964" Value="The Emperor Emerges From Under the Veil"/>
+        <local:Item Key="item0965" Value="For the Emperor's Amusement"/>
+        <local:Item Key="item0966" Value="Proof of a Hero (MH Swing)"/>
+        <local:Item Key="item0967" Value="Ruler of the Flame - Teostra (MH Swing)"/>
+        <local:Item Key="item0968" Value="فراش مذهل"/>
         <local:Item Key="item0969" Value="الحلوى الشاهقة"/>
         <local:Item Key="item096A" Value="دمية ميلينكس"/>
-        <local:Item Key="item096B" Value="Unavailable"/>
-        <local:Item Key="item096C" Value="Unavailable"/>
+        <local:Item Key="item096B" Value="إناء مذهل من الفضة"/>
+        <local:Item Key="item096C" Value="إناء مذهل من الذهب"/>
         <local:Item Key="item096D" Value="وعاء زهور برقوق"/>
         <local:Item Key="item096E" Value="شجرة مزخرفة"/>
-        <local:Item Key="item096F" Value="Unavailable"/>
-        <local:Item Key="item0970" Value="Unavailable"/>
+        <local:Item Key="item096F" Value="زخرفة أزهار (صغيرة)"/>
+        <local:Item Key="item0970" Value="زخرفة أزهار (كبيرة)"/>
         <local:Item Key="item0971" Value="Unavailable"/>
         <local:Item Key="item0972" Value="Unavailable"/>
-        <local:Item Key="item0973" Value="Unavailable"/>
-        <local:Item Key="item0974" Value="Unavailable"/>
-        <local:Item Key="item0975" Value="Unavailable"/>
-        <local:Item Key="item0976" Value="Unavailable"/>
+        <local:Item Key="item0973" Value="نموذج سفينة الأسطول الخامس"/>
+        <local:Item Key="item0974" Value="نموذج سفينة معدلة"/>
+        <local:Item Key="item0975" Value="نموذج قاعدة البحث"/>
+        <local:Item Key="item0976" Value="نموذج معسكر القاعدة"/>
         <local:Item Key="item0977" Value="طقم شاي جميل"/>
         <local:Item Key="item0978" Value="Unavailable"/>
         <local:Item Key="item0979" Value="Unavailable"/>
@@ -2473,29 +2473,29 @@
         <local:Item Key="item0983" Value="Unavailable"/>
         <local:Item Key="item0984" Value="Unavailable"/>
         <local:Item Key="item0985" Value="لوحات باليكو الشخصية 2"/>
-        <local:Item Key="item0986" Value="Unavailable"/>
+        <local:Item Key="item0986" Value="لوحات باليكو الشخصية 3"/>
         <local:Item Key="item0987" Value="Unavailable"/>
         <local:Item Key="item0988" Value="رسم وقت الاستراحة"/>
         <local:Item Key="item0989" Value="لوحة أزهار الغابة العتيقة"/>
         <local:Item Key="item098A" Value="لوحة فواكه"/>
-        <local:Item Key="item098B" Value="Unavailable"/>
+        <local:Item Key="item098B" Value="خزانة مذهلة"/>
         <local:Item Key="item098C" Value="مصابيح مألوفة (صفراء)"/>
-        <local:Item Key="item098D" Value="Unavailable"/>
+        <local:Item Key="item098D" Value="أضواء مألوفة (بيضاء)"/>
         <local:Item Key="item098E" Value="أضواء خافتة"/>
         <local:Item Key="item098F" Value="أضواء فاخرة (بيضاء)"/>
-        <local:Item Key="item0990" Value="Unavailable"/>
+        <local:Item Key="item0990" Value="أضواء لطيفة (زرقاء)"/>
         <local:Item Key="item0991" Value="أضواء لطيفة (بيضاء)"/>
         <local:Item Key="item0992" Value="مصابيح بسيطة (صفراء)"/>
         <local:Item Key="item0993" Value="مصابيح بسيطة (بيضاء)"/>
-        <local:Item Key="item0994" Value="Unavailable"/>
-        <local:Item Key="item0995" Value="Unavailable"/>
+        <local:Item Key="item0994" Value="أضواء مذهلة"/>
+        <local:Item Key="item0995" Value="ثريات"/>
         <local:Item Key="item0996" Value="Unavailable"/>
         <local:Item Key="item0997" Value="المصابيح المبتهجة"/>
         <local:Item Key="item0998" Value="أضواء مصابيح سماوية"/>
-        <local:Item Key="item0999" Value="Unavailable"/>
-        <local:Item Key="item099A" Value="Unavailable"/>
-        <local:Item Key="item099B" Value="Unavailable"/>
-        <local:Item Key="item099C" Value="Unavailable"/>
+        <local:Item Key="item0999" Value="رف حائط مذهل (كبير)"/>
+        <local:Item Key="item099A" Value="رف حائط مذهل (صغير)"/>
+        <local:Item Key="item099B" Value="لوحة نطاق الصقيع 2"/>
+        <local:Item Key="item099C" Value="خرائط العالم الجديد"/>
         <local:Item Key="item099D" Value="Unavailable"/>
         <local:Item Key="item099E" Value="Unavailable"/>
         <local:Item Key="item099F" Value="شعار الأسطول الأول"/>
@@ -2505,10 +2505,10 @@
         <local:Item Key="item09A3" Value="شعار الأسطول الخامس"/>
         <local:Item Key="item09A4" Value="لوحة بإضاءة الشمس"/>
         <local:Item Key="item09A5" Value="لوحة أستيرا"/>
-        <local:Item Key="item09A6" Value="Unavailable"/>
-        <local:Item Key="item09A7" Value="Unavailable"/>
-        <local:Item Key="item09A8" Value="Unavailable"/>
-        <local:Item Key="item09A9" Value="Unavailable"/>
+        <local:Item Key="item09A6" Value="لوحة اجتماع مجلس"/>
+        <local:Item Key="item09A7" Value="لوحة المرح"/>
+        <local:Item Key="item09A8" Value="سجاجيد مذهلة (الطابق الأرضي)"/>
+        <local:Item Key="item09A9" Value="سجاجيد مذهلة (الطابق الأول)"/>
         <local:Item Key="item09AA" Value="مصباح ورقي"/>
         <local:Item Key="item09AB" Value="Unavailable"/>
         <local:Item Key="item09AC" Value="مصابيح ورقية مستديرة"/>
@@ -2516,8 +2516,8 @@
         <local:Item Key="item09AE" Value="مجموعة أبحاث"/>
         <local:Item Key="item09AF" Value="طقم مطبخ"/>
         <local:Item Key="item09B0" Value="تمثال راذالوس"/>
-        <local:Item Key="item09B1" Value="Unavailable"/>
-        <local:Item Key="item09B2" Value="Unavailable"/>
+        <local:Item Key="item09B1" Value="صندوق كنز"/>
+        <local:Item Key="item09B2" Value="زخرفة زهور (XL)"/>
         <local:Item Key="item09B3" Value="دمية فيلاين محشوة ضخمة"/>
         <local:Item Key="item09B4" Value="دمية بوغي محشوة ضخمة"/>
         <local:Item Key="item09B5" Value="دمية غريمالكين محشوة ضخمة"/>
@@ -2535,7 +2535,7 @@
         <local:Item Key="item09C1" Value="أرضية أنيقة (زرقاء)"/>
         <local:Item Key="item09C2" Value="أرضية أنيقة (خضراء)"/>
         <local:Item Key="item09C3" Value="أرضية أنيقة (بيضاء)"/>
-        <local:Item Key="item09C4" Value="Unavailable"/>
+        <local:Item Key="item09C4" Value="أرضية أنيقة (ذهبية)"/>
         <local:Item Key="item09C5" Value="أرضية لطيفة (زرقاء)"/>
         <local:Item Key="item09C6" Value="أرضية لطيفة (خضراء)"/>
         <local:Item Key="item09C7" Value="أرضية لطيفة (رمادية)"/>
@@ -2554,20 +2554,20 @@
         <local:Item Key="item09D4" Value="جدار خزفي (أزرق)"/>
         <local:Item Key="item09D5" Value="جدار خزفي (رمادي)"/>
         <local:Item Key="item09D6" Value="جدار خزفي (أزرق مائي)"/>
-        <local:Item Key="item09D7" Value="Unavailable"/>
+        <local:Item Key="item09D7" Value="حائط نمطي فاخر (ذهبي)"/>
         <local:Item Key="item09D8" Value="حائط نمطي فاخر (أزرق)"/>
         <local:Item Key="item09D9" Value="حائط نمطي فاخر (أحمر)"/>
         <local:Item Key="item09DA" Value="حائط نمطي فاخر (أخضر)"/>
-        <local:Item Key="item09DB" Value="Unavailable"/>
+        <local:Item Key="item09DB" Value="جدار مذهل"/>
         <local:Item Key="item09DC" Value="جدار خشبي (أسود)"/>
         <local:Item Key="item09DD" Value="جدار جبس (طين)"/>
         <local:Item Key="item09DE" Value="جدار خيزران (أخضر)"/>
         <local:Item Key="item09DF" Value="جدار خيزران (بني)"/>
         <local:Item Key="item09E0" Value="جدار رخامي (رمادي)"/>
-        <local:Item Key="item09E1" Value="Unavailable"/>
+        <local:Item Key="item09E1" Value="أريكة مذهلة"/>
         <local:Item Key="item09E2" Value="الطبق المبهج"/>
         <local:Item Key="item09E3" Value="الطبق الفاخر"/>
-        <local:Item Key="item09E4" Value="Unavailable"/>
+        <local:Item Key="item09E4" Value="صحن الازدهار الكامل"/>
         <local:Item Key="item09E5" Value="Unavailable"/>
         <local:Item Key="item09E6" Value="تمثال توبي-كاداتشي"/>
         <local:Item Key="item09E7" Value="تمثال باريوث"/>
@@ -2582,15 +2582,15 @@
         <local:Item Key="item09F0" Value="تمثال غلافنيوس"/>
         <local:Item Key="item09F1" Value="تمثال راثيان"/>
         <local:Item Key="item09F2" Value="تمثال كولو-يا-كو"/>
-        <local:Item Key="item09F3" Value="Unavailable"/>
-        <local:Item Key="item09F4" Value="Unavailable"/>
-        <local:Item Key="item09F5" Value="Unavailable"/>
+        <local:Item Key="item09F3" Value="تمثال زينغر"/>
+        <local:Item Key="item09F4" Value="تمثال إيان غاروغا"/>
+        <local:Item Key="item09F5" Value="تمثال غيروس العظيم"/>
         <local:Item Key="item09F6" Value="Unavailable"/>
         <local:Item Key="item09F7" Value="Unavailable"/>
         <local:Item Key="item09F8" Value="Unavailable"/>
-        <local:Item Key="item09F9" Value="Unavailable"/>
-        <local:Item Key="item09FA" Value="Unavailable"/>
-        <local:Item Key="item09FB" Value="Unavailable"/>
+        <local:Item Key="item09F9" Value="تمثال ناميال"/>
+        <local:Item Key="item09FA" Value="تمثال باولومو"/>
+        <local:Item Key="item09FB" Value="تمثال تسيتسي-يا-كو"/>
         <local:Item Key="item09FC" Value="Unavailable"/>
         <local:Item Key="item09FD" Value="Unavailable"/>
         <local:Item Key="item09FE" Value="Unavailable"/>
@@ -2601,8 +2601,8 @@
         <local:Item Key="item0A03" Value="Unavailable"/>
         <local:Item Key="item0A04" Value="Unavailable"/>
         <local:Item Key="item0A05" Value="مجسم التقدير الكبير"/>
-        <local:Item Key="item0A06" Value="Unavailable"/>
-        <local:Item Key="item0A07" Value="Unavailable"/>
+        <local:Item Key="item0A06" Value="جدار رخامي (أبيض)"/>
+        <local:Item Key="item0A07" Value="أرضية رخامية (بيضاء)"/>
         <local:Item Key="item0A08" Value="عشب أخضر"/>
         <local:Item Key="item0A09" Value="عشب أحمر"/>
         <local:Item Key="item0A0A" Value="عشب أزرق"/>
@@ -2618,29 +2618,29 @@
         <local:Item Key="item0A14" Value="Unavailable"/>
         <local:Item Key="item0A15" Value="رجل الثلج المبتهج"/>
         <local:Item Key="item0A16" Value="رجل الثلج بالغ التقدير"/>
-        <local:Item Key="item0A17" Value="Unavailable"/>
+        <local:Item Key="item0A17" Value="رجل ثلج مزدهر"/>
         <local:Item Key="item0A18" Value="Unavailable"/>
         <local:Item Key="item0A19" Value="Unavailable"/>
         <local:Item Key="item0A1A" Value="مصابيح السماء"/>
-        <local:Item Key="item0A1B" Value="Unavailable"/>
-        <local:Item Key="item0A1C" Value="Unavailable"/>
+        <local:Item Key="item0A1B" Value="علم مذهل"/>
+        <local:Item Key="item0A1C" Value="زهور مشكّلة مُعلقة"/>
         <local:Item Key="item0A1D" Value="Unavailable"/>
-        <local:Item Key="item0A1E" Value="Unavailable"/>
-        <local:Item Key="item0A1F" Value="Unavailable"/>
-        <local:Item Key="item0A20" Value="Unavailable"/>
+        <local:Item Key="item0A1E" Value="مجسّم"/>
+        <local:Item Key="item0A1F" Value="لوحة الأميرال"/>
+        <local:Item Key="item0A20" Value="زينة حائط مذهلة"/>
         <local:Item Key="item0A21" Value="Unavailable"/>
         <local:Item Key="item0A22" Value="Unavailable"/>
         <local:Item Key="item0A23" Value="رسومات رائعة"/>
-        <local:Item Key="item0A24" Value="Unavailable"/>
-        <local:Item Key="item0A25" Value="Unavailable"/>
+        <local:Item Key="item0A24" Value="سجاجيد استعراضية (الطابق الأرضي)"/>
+        <local:Item Key="item0A25" Value="سجاجيد استعراضية (الطابق الأول)"/>
         <local:Item Key="item0A26" Value="Unavailable"/>
         <local:Item Key="item0A27" Value="Unavailable"/>
-        <local:Item Key="item0A28" Value="Unavailable"/>
-        <local:Item Key="item0A29" Value="Unavailable"/>
-        <local:Item Key="item0A2A" Value="Unavailable"/>
-        <local:Item Key="item0A2B" Value="Unavailable"/>
-        <local:Item Key="item0A2C" Value="Unavailable"/>
-        <local:Item Key="item0A2D" Value="Unavailable"/>
+        <local:Item Key="item0A28" Value="تمثال جيوراتودوس"/>
+        <local:Item Key="item0A29" Value="تمثال باروث"/>
+        <local:Item Key="item0A2A" Value="تمثال ديابلوس"/>
+        <local:Item Key="item0A2B" Value="تمثال صافيجيفا"/>
+        <local:Item Key="item0A2C" Value="تمثال زينوجيفا"/>
+        <local:Item Key="item0A2D" Value="تماثيل وولغ"/>
         <local:Item Key="item0A2E" Value="Unavailable"/>
         <local:Item Key="item0A2F" Value="Unavailable"/>
         <local:Item Key="item0A30" Value="Unavailable"/>
@@ -2649,9 +2649,9 @@
         <local:Item Key="item0A33" Value="Unavailable"/>
         <local:Item Key="item0A34" Value="Unavailable"/>
         <local:Item Key="item0A35" Value="Unavailable"/>
-        <local:Item Key="item0A36" Value="Unavailable"/>
-        <local:Item Key="item0A37" Value="Unavailable"/>
-        <local:Item Key="item0A38" Value="Unavailable"/>
+        <local:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
+        <local:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
+        <local:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
         <local:Item Key="item0A39" Value="Unavailable"/>
         <local:Item Key="item0A3A" Value="Unavailable"/>
         <local:Item Key="item0A3B" Value="Unavailable"/>
@@ -2754,11 +2754,11 @@
         <local:Item Key="item0A9C" Value="تذكرة البشري التنين"/>
         <local:Item Key="item0A9D" Value="تذكرة الاحتفال"/>
         <local:Item Key="item0A9E" Value="تذكرة مطعم اللحم"/>
-        <local:Item Key="item0A9F" Value="Unavailable"/>
+        <local:Item Key="item0A9F" Value="ختم عصر اللازورد"/>
         <local:Item Key="item0AA0" Value="Unavailable"/>
-        <local:Item Key="item0AA1" Value="Unavailable"/>
-        <local:Item Key="item0AA2" Value="Unavailable"/>
-        <local:Item Key="item0AA3" Value="Unavailable"/>
+        <local:Item Key="item0AA1" Value="تذكرة الازدهار الكامل"/>
+        <local:Item Key="item0AA2" Value="تذكرة سمكة وِت"/>
+        <local:Item Key="item0AA3" Value="تذكرة كراك ناعم II"/>
         <local:Item Key="item0AA4" Value="Unavailable"/>
         <local:Item Key="item0AA5" Value="Unavailable"/>
         <local:Item Key="item0AA6" Value="Unavailable"/>
@@ -2772,10 +2772,10 @@
         <local:Item Key="item0AAE" Value="فراء مهيب"/>
         <local:Item Key="item0AAF" Value="تذكرة مبهجة للشخصيات المهمة"/>
         <local:Item Key="item0AB0" Value="تذكرة امتنان للشخصيات المهمة"/>
-        <local:Item Key="item0AB1" Value="Unavailable"/>
+        <local:Item Key="item0AB1" Value="تذكرة ازدهار كامل للشخصيات المهمة"/>
         <local:Item Key="item0AB2" Value="Unavailable"/>
         <local:Item Key="item0AB3" Value="Unavailable"/>
-        <local:Item Key="item0AB4" Value="Unavailable"/>
+        <local:Item Key="item0AB4" Value="كرة الإبعاد"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
         <local:Item Key="item0AB6" Value="قطعة قوة التنين (سيف عظيم)"/>
         <local:Item Key="item0AB7" Value="قطعة قوة التنين (نصل)"/>

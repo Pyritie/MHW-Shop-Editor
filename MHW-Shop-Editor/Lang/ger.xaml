@@ -1321,10 +1321,10 @@
         <local:Item Key="item0503" Value="Brachydios-Stampfer+"/>
         <local:Item Key="item0504" Value="Brachydios-Peitsche"/>
         <local:Item Key="item0505" Value="Brachydios-Pallium"/>
-        <local:Item Key="item0506" Value="Unavailable"/>
-        <local:Item Key="item0507" Value="Unavailable"/>
-        <local:Item Key="item0508" Value="Unavailable"/>
-        <local:Item Key="item0509" Value="Unavailable"/>
+        <local:Item Key="item0506" Value="Brachydios-Sprengkopf"/>
+        <local:Item Key="item0507" Value="Flammpunkt-Schleim"/>
+        <local:Item Key="item0508" Value="Brachydios-Auslöscher"/>
+        <local:Item Key="item0509" Value="Unsterblicher Reaktor"/>
         <local:Item Key="item050A" Value="Garuga-Scherbe"/>
         <local:Item Key="item050B" Value="Garuga-Kortex"/>
         <local:Item Key="item050C" Value="Garuga-Ohrmuschel"/>
@@ -1368,10 +1368,10 @@
         <local:Item Key="item0532" Value="Rajang-Hartklaue"/>
         <local:Item Key="item0533" Value="Rajang-Schwanz"/>
         <local:Item Key="item0534" Value="Rajang-Goldpelz+"/>
-        <local:Item Key="item0535" Value="Unavailable"/>
+        <local:Item Key="item0535" Value="Rajang-Apoplexie"/>
         <local:Item Key="item0536" Value="Rajang-Harthorn"/>
-        <local:Item Key="item0537" Value="Unavailable"/>
-        <local:Item Key="item0538" Value="Unavailable"/>
+        <local:Item Key="item0537" Value="Unheimlicher Goldschlitzer"/>
+        <local:Item Key="item0538" Value="Rajang-Herz"/>
         <local:Item Key="item0539" Value="Kirin-Feinhaut"/>
         <local:Item Key="item053A" Value="Kirin-Donnerschwanz+"/>
         <local:Item Key="item053B" Value="Kirin-Silbermähne"/>
@@ -1450,7 +1450,7 @@
         <local:Item Key="item0584" Value="Verweste Schuppe"/>
         <local:Item Key="item0585" Value="Leuchtende Schuppe"/>
         <local:Item Key="item0586" Value="Uralter Drachenschatz"/>
-        <local:Item Key="item0587" Value="Unavailable"/>
+        <local:Item Key="item0587" Value="Unzerstörbarer Schwarzpanzer"/>
         <local:Item Key="item0588" Value="Unavailable"/>
         <local:Item Key="item0589" Value="???-Scherbe"/>
         <local:Item Key="item058A" Value="???-Felsplatte"/>
@@ -1579,7 +1579,7 @@
         <local:Item Key="item0605" Value="Unavailable"/>
         <local:Item Key="item0606" Value="Unavailable"/>
         <local:Item Key="item0607" Value="Luxuskrug"/>
-        <local:Item Key="item0608" Value="Unavailable"/>
+        <local:Item Key="item0608" Value="Luxusvase"/>
         <local:Item Key="item0609" Value="Standardurnen-Set"/>
         <local:Item Key="item060A" Value="Jutesäcke"/>
         <local:Item Key="item060B" Value="Spirituose"/>
@@ -1590,7 +1590,7 @@
         <local:Item Key="item0610" Value="Ausstellungsfossil"/>
         <local:Item Key="item0611" Value="Einfache Keramik"/>
         <local:Item Key="item0612" Value="Keramik-Set"/>
-        <local:Item Key="item0613" Value="Unavailable"/>
+        <local:Item Key="item0613" Value="Schmuckteller (klein)"/>
         <local:Item Key="item0614" Value="Schmuckteller (groß)"/>
         <local:Item Key="item0615" Value="Korb mit Erz"/>
         <local:Item Key="item0616" Value="Weinfass"/>
@@ -1603,7 +1603,7 @@
         <local:Item Key="item061D" Value="Topfkaktus"/>
         <local:Item Key="item061E" Value="Topfblumen"/>
         <local:Item Key="item061F" Value="Korb mit Pilzen"/>
-        <local:Item Key="item0620" Value="Unavailable"/>
+        <local:Item Key="item0620" Value="Überquillende Obstschale"/>
         <local:Item Key="item0621" Value="Gemüseauswahl"/>
         <local:Item Key="item0622" Value="Grimmige Gajalaka-Maske"/>
         <local:Item Key="item0623" Value="Grimassen-Gajalaka-Maske"/>
@@ -1699,7 +1699,7 @@
         <local:Item Key="item067D" Value="Niedliche Läufer"/>
         <local:Item Key="item067E" Value="Felle"/>
         <local:Item Key="item067F" Value="Laterne"/>
-        <local:Item Key="item0680" Value="Unavailable"/>
+        <local:Item Key="item0680" Value="Hängelaterne"/>
         <local:Item Key="item0681" Value="Lampe"/>
         <local:Item Key="item0682" Value="Kerzen"/>
         <local:Item Key="item0683" Value="Kerzenständer"/>
@@ -1744,13 +1744,13 @@
         <local:Item Key="item06AA" Value="Karos (grün)"/>
         <local:Item Key="item06AB" Value="Palico (rosa)"/>
         <local:Item Key="item06AC" Value="Palico (braun)"/>
-        <local:Item Key="item06AD" Value="Unavailable"/>
-        <local:Item Key="item06AE" Value="Unavailable"/>
+        <local:Item Key="item06AD" Value="Felyne (gelb)"/>
+        <local:Item Key="item06AE" Value="Felyne (hellblau)"/>
         <local:Item Key="item06AF" Value="Leben: klein (weiß)"/>
         <local:Item Key="item06B0" Value="Leben: klein (blau)"/>
         <local:Item Key="item06B1" Value="Leben: klein (rosa)"/>
-        <local:Item Key="item06B2" Value="Unavailable"/>
-        <local:Item Key="item06B3" Value="Unavailable"/>
+        <local:Item Key="item06B2" Value="Leben: groß (weiß)"/>
+        <local:Item Key="item06B3" Value="Leben: groß (gelb)"/>
         <local:Item Key="item06B4" Value="Streifen"/>
         <local:Item Key="item06B5" Value="Unavailable"/>
         <local:Item Key="item06B6" Value="Unavailable"/>
@@ -1761,13 +1761,13 @@
         <local:Item Key="item06BB" Value="Helles Eisen"/>
         <local:Item Key="item06BC" Value="Dunkles Eisen"/>
         <local:Item Key="item06BD" Value="Silber"/>
-        <local:Item Key="item06BE" Value="Unavailable"/>
+        <local:Item Key="item06BE" Value="Gold"/>
         <local:Item Key="item06BF" Value="Stein"/>
         <local:Item Key="item06C0" Value="Trautes Heim"/>
         <local:Item Key="item06C1" Value="Mein Raum ist meine Burg"/>
         <local:Item Key="item06C2" Value="Gehobene Eleganz"/>
         <local:Item Key="item06C3" Value="Kinderzimmer"/>
-        <local:Item Key="item06C4" Value="Unavailable"/>
+        <local:Item Key="item06C4" Value="Pure Dekadenz"/>
         <local:Item Key="item06C5" Value="Wabi-Sabi"/>
         <local:Item Key="item06C6" Value="Holzboden"/>
         <local:Item Key="item06C7" Value="Dunkler Parkettboden"/>
@@ -2429,35 +2429,35 @@
         <local:Item Key="item0957" Value="Spark of Blue - Zinogre: Sebastian Schwartz Remix"/>
         <local:Item Key="item0958" Value="Brutish Indigo - Brachydios: The Sound Room Remix"/>
         <local:Item Key="item0959" Value="To The Ones With Life: The Sound Room Remix"/>
-        <local:Item Key="item095A" Value="Unavailable"/>
-        <local:Item Key="item095B" Value="Unavailable"/>
-        <local:Item Key="item095C" Value="Unavailable"/>
-        <local:Item Key="item095D" Value="Unavailable"/>
-        <local:Item Key="item095E" Value="Unavailable"/>
-        <local:Item Key="item095F" Value="Unavailable"/>
-        <local:Item Key="item0960" Value="Unavailable"/>
-        <local:Item Key="item0961" Value="Unavailable"/>
-        <local:Item Key="item0962" Value="Unavailable"/>
-        <local:Item Key="item0963" Value="Unavailable"/>
-        <local:Item Key="item0964" Value="Unavailable"/>
-        <local:Item Key="item0965" Value="Unavailable"/>
-        <local:Item Key="item0966" Value="Unavailable"/>
-        <local:Item Key="item0967" Value="Unavailable"/>
-        <local:Item Key="item0968" Value="Unavailable"/>
+        <local:Item Key="item095A" Value="Barley Field Walkway"/>
+        <local:Item Key="item095B" Value="Hunter of the Violent Sands"/>
+        <local:Item Key="item095C" Value="Cazador Del Monstruo"/>
+        <local:Item Key="item095D" Value="Gather Up, Everyone! ~ Sunsnug Isle"/>
+        <local:Item Key="item095E" Value="Red Glare in the Darkness - Nargacuga: World Version"/>
+        <local:Item Key="item095F" Value="Spark of Blue - Zinogre: World Version"/>
+        <local:Item Key="item0960" Value="The Howling Lone Wolf - Yian Garuga: World Version"/>
+        <local:Item Key="item0961" Value="Morning Star of the Dark Tide - Namielle"/>
+        <local:Item Key="item0962" Value="World's End - Arch-Tempered Nergigante"/>
+        <local:Item Key="item0963" Value="Brutish Indigo Rages"/>
+        <local:Item Key="item0964" Value="The Emperor Emerges From Under the Veil"/>
+        <local:Item Key="item0965" Value="For the Emperor's Amusement"/>
+        <local:Item Key="item0966" Value="Proof of a Hero (MH Swing)"/>
+        <local:Item Key="item0967" Value="Ruler of the Flame - Teostra (MH Swing)"/>
+        <local:Item Key="item0968" Value="Dekadentes Bett"/>
         <local:Item Key="item0969" Value="Torte und Törtchen"/>
         <local:Item Key="item096A" Value="Melynx-Puppe"/>
-        <local:Item Key="item096B" Value="Unavailable"/>
-        <local:Item Key="item096C" Value="Unavailable"/>
+        <local:Item Key="item096B" Value="Dekadentes Gefäß (silber)"/>
+        <local:Item Key="item096C" Value="Dekadentes Gefäß (gold)"/>
         <local:Item Key="item096D" Value="Pflaumen-Bonsai"/>
         <local:Item Key="item096E" Value="Deko-Bäumchen"/>
-        <local:Item Key="item096F" Value="Unavailable"/>
-        <local:Item Key="item0970" Value="Unavailable"/>
+        <local:Item Key="item096F" Value="Dekadente Vase (klein)"/>
+        <local:Item Key="item0970" Value="Dekadente Vase (groß)"/>
         <local:Item Key="item0971" Value="Unavailable"/>
         <local:Item Key="item0972" Value="Unavailable"/>
-        <local:Item Key="item0973" Value="Unavailable"/>
-        <local:Item Key="item0974" Value="Unavailable"/>
-        <local:Item Key="item0975" Value="Unavailable"/>
-        <local:Item Key="item0976" Value="Unavailable"/>
+        <local:Item Key="item0973" Value="Schiff der 5. Flotte (Modell)"/>
+        <local:Item Key="item0974" Value="Modifiziertes Schiff (Modell)"/>
+        <local:Item Key="item0975" Value="Forschungsbasis (Modell)"/>
+        <local:Item Key="item0976" Value="Basislager (Modell)"/>
         <local:Item Key="item0977" Value="Edles Tee-Set"/>
         <local:Item Key="item0978" Value="Unavailable"/>
         <local:Item Key="item0979" Value="Unavailable"/>
@@ -2473,29 +2473,29 @@
         <local:Item Key="item0983" Value="Unavailable"/>
         <local:Item Key="item0984" Value="Unavailable"/>
         <local:Item Key="item0985" Value="Begleiter-Porträts"/>
-        <local:Item Key="item0986" Value="Unavailable"/>
+        <local:Item Key="item0986" Value="Kleines Palico-Gruppenporträt"/>
         <local:Item Key="item0987" Value="Unavailable"/>
         <local:Item Key="item0988" Value="Pausenzeichnung"/>
         <local:Item Key="item0989" Value="Flora-des-Uralten-Waldes-Gemälde"/>
         <local:Item Key="item098A" Value="Stillleben-Gemälde"/>
-        <local:Item Key="item098B" Value="Unavailable"/>
+        <local:Item Key="item098B" Value="Dekadenter Schrank"/>
         <local:Item Key="item098C" Value="Standardkronleuchter (gelb)"/>
-        <local:Item Key="item098D" Value="Unavailable"/>
+        <local:Item Key="item098D" Value="Standardkronleuchter (weiß)"/>
         <local:Item Key="item098E" Value="Düstere Kronleuchter"/>
         <local:Item Key="item098F" Value="Silberne Kronleuchter"/>
-        <local:Item Key="item0990" Value="Unavailable"/>
+        <local:Item Key="item0990" Value="Niedliche Kronleuchter (blau)"/>
         <local:Item Key="item0991" Value="Niedliche Kronleuchter (weiß)"/>
         <local:Item Key="item0992" Value="Luxuskronleuchter (gelb)"/>
         <local:Item Key="item0993" Value="Luxuskronleuchter (weiß)"/>
-        <local:Item Key="item0994" Value="Unavailable"/>
-        <local:Item Key="item0995" Value="Unavailable"/>
+        <local:Item Key="item0994" Value="Dekadente Kronleuchter"/>
+        <local:Item Key="item0995" Value="Kristallkronleuchter"/>
         <local:Item Key="item0996" Value="Unavailable"/>
         <local:Item Key="item0997" Value="Denglong-Laternen"/>
         <local:Item Key="item0998" Value="Himmelskerzen"/>
-        <local:Item Key="item0999" Value="Unavailable"/>
-        <local:Item Key="item099A" Value="Unavailable"/>
-        <local:Item Key="item099B" Value="Unavailable"/>
-        <local:Item Key="item099C" Value="Unavailable"/>
+        <local:Item Key="item0999" Value="Dekadentes großes Wandregal"/>
+        <local:Item Key="item099A" Value="Dekadentes kleines Wandregal"/>
+        <local:Item Key="item099B" Value="Düsteres Raureif-Weiten-Gemälde"/>
+        <local:Item Key="item099C" Value="Karten der Neuen Welt"/>
         <local:Item Key="item099D" Value="Unavailable"/>
         <local:Item Key="item099E" Value="Unavailable"/>
         <local:Item Key="item099F" Value="Banner der 1. Flotte"/>
@@ -2505,10 +2505,10 @@
         <local:Item Key="item09A3" Value="Banner der 5. Flotte"/>
         <local:Item Key="item09A4" Value="Wildnis-Gemälde"/>
         <local:Item Key="item09A5" Value="Astera-Gemälde"/>
-        <local:Item Key="item09A6" Value="Unavailable"/>
-        <local:Item Key="item09A7" Value="Unavailable"/>
-        <local:Item Key="item09A8" Value="Unavailable"/>
-        <local:Item Key="item09A9" Value="Unavailable"/>
+        <local:Item Key="item09A6" Value="Ratssitzung"/>
+        <local:Item Key="item09A7" Value="Katzmeraden"/>
+        <local:Item Key="item09A8" Value="Dekadente Läufer"/>
+        <local:Item Key="item09A9" Value="Dekadente Läufer"/>
         <local:Item Key="item09AA" Value="Andon"/>
         <local:Item Key="item09AB" Value="Unavailable"/>
         <local:Item Key="item09AC" Value="Runde Papierlampen"/>
@@ -2516,8 +2516,8 @@
         <local:Item Key="item09AE" Value="Laboratorium"/>
         <local:Item Key="item09AF" Value="Feldküche"/>
         <local:Item Key="item09B0" Value="Rathalos-Büste"/>
-        <local:Item Key="item09B1" Value="Unavailable"/>
-        <local:Item Key="item09B2" Value="Unavailable"/>
+        <local:Item Key="item09B1" Value="Schatztruhe"/>
+        <local:Item Key="item09B2" Value="Blumendekoration"/>
         <local:Item Key="item09B3" Value="Riesige Felynen-Puppe"/>
         <local:Item Key="item09B4" Value="Riesige Poogie-Puppe"/>
         <local:Item Key="item09B5" Value="Riesige Grimalkynen-Puppe"/>
@@ -2535,7 +2535,7 @@
         <local:Item Key="item09C1" Value="Eleganter Boden (blau)"/>
         <local:Item Key="item09C2" Value="Eleganter Boden (grau)"/>
         <local:Item Key="item09C3" Value="Eleganter Boden (weiß)"/>
-        <local:Item Key="item09C4" Value="Unavailable"/>
+        <local:Item Key="item09C4" Value="Eleganter Boden (gold)"/>
         <local:Item Key="item09C5" Value="Niedlicher Boden (blau)"/>
         <local:Item Key="item09C6" Value="Niedlicher Boden (grün)"/>
         <local:Item Key="item09C7" Value="Niedlicher Boden (grau)"/>
@@ -2554,20 +2554,20 @@
         <local:Item Key="item09D4" Value="Keramikfliesen (blau)"/>
         <local:Item Key="item09D5" Value="Keramikfliesen (grau)"/>
         <local:Item Key="item09D6" Value="Keramikfliesen (blau-rosa)"/>
-        <local:Item Key="item09D7" Value="Unavailable"/>
+        <local:Item Key="item09D7" Value="Edle Stofftapete (gold)"/>
         <local:Item Key="item09D8" Value="Edle Stofftapete (blau)"/>
         <local:Item Key="item09D9" Value="Edle Stofftapete (rot)"/>
         <local:Item Key="item09DA" Value="Edle Stofftapete (grün)"/>
-        <local:Item Key="item09DB" Value="Unavailable"/>
+        <local:Item Key="item09DB" Value="Dekadente Goldwand"/>
         <local:Item Key="item09DC" Value="Farbige Holzwand (schwarz)"/>
         <local:Item Key="item09DD" Value="Wabi-Sabi-Wand"/>
         <local:Item Key="item09DE" Value="Bambus-Wand (grün)"/>
         <local:Item Key="item09DF" Value="Bambus-Wand (braun)"/>
         <local:Item Key="item09E0" Value="Marmorwand (hell)"/>
-        <local:Item Key="item09E1" Value="Unavailable"/>
+        <local:Item Key="item09E1" Value="Dekadentes Sofa"/>
         <local:Item Key="item09E2" Value="Reichtümer der Mitte"/>
         <local:Item Key="item09E3" Value="Reichtümer der Meere"/>
-        <local:Item Key="item09E4" Value="Unavailable"/>
+        <local:Item Key="item09E4" Value="Flor-Festmahl"/>
         <local:Item Key="item09E5" Value="Unavailable"/>
         <local:Item Key="item09E6" Value="Tobi-Kadachi-Modell"/>
         <local:Item Key="item09E7" Value="Barioth-Modell"/>
@@ -2582,15 +2582,15 @@
         <local:Item Key="item09F0" Value="Glavenus-Modell"/>
         <local:Item Key="item09F1" Value="Rathian-Modell"/>
         <local:Item Key="item09F2" Value="Kulu-Ya-Ku-Modell"/>
-        <local:Item Key="item09F3" Value="Unavailable"/>
-        <local:Item Key="item09F4" Value="Unavailable"/>
-        <local:Item Key="item09F5" Value="Unavailable"/>
+        <local:Item Key="item09F3" Value="Zinogre-Modell"/>
+        <local:Item Key="item09F4" Value="Yian-Garuga-Modell"/>
+        <local:Item Key="item09F5" Value="Groß-Girros-Modell"/>
         <local:Item Key="item09F6" Value="Unavailable"/>
         <local:Item Key="item09F7" Value="Unavailable"/>
         <local:Item Key="item09F8" Value="Unavailable"/>
-        <local:Item Key="item09F9" Value="Unavailable"/>
-        <local:Item Key="item09FA" Value="Unavailable"/>
-        <local:Item Key="item09FB" Value="Unavailable"/>
+        <local:Item Key="item09F9" Value="Namielle-Modell"/>
+        <local:Item Key="item09FA" Value="Paolumu-Modell"/>
+        <local:Item Key="item09FB" Value="Tzitzi-Ya-Ku-Modell"/>
         <local:Item Key="item09FC" Value="Unavailable"/>
         <local:Item Key="item09FD" Value="Unavailable"/>
         <local:Item Key="item09FE" Value="Unavailable"/>
@@ -2601,8 +2601,8 @@
         <local:Item Key="item0A03" Value="Unavailable"/>
         <local:Item Key="item0A04" Value="Unavailable"/>
         <local:Item Key="item0A05" Value="Wahre Liebe (Modell)"/>
-        <local:Item Key="item0A06" Value="Unavailable"/>
-        <local:Item Key="item0A07" Value="Unavailable"/>
+        <local:Item Key="item0A06" Value="Marmorwand (weiß)"/>
+        <local:Item Key="item0A07" Value="Marmorboden (weiß)"/>
         <local:Item Key="item0A08" Value="Grünes Kraut"/>
         <local:Item Key="item0A09" Value="Rotes Kraut"/>
         <local:Item Key="item0A0A" Value="Blaues Kraut"/>
@@ -2618,29 +2618,29 @@
         <local:Item Key="item0A14" Value="Unavailable"/>
         <local:Item Key="item0A15" Value="Mini-Schneemann"/>
         <local:Item Key="item0A16" Value="Astral-Schneemann"/>
-        <local:Item Key="item0A17" Value="Unavailable"/>
+        <local:Item Key="item0A17" Value="Flor-Schneemann"/>
         <local:Item Key="item0A18" Value="Unavailable"/>
         <local:Item Key="item0A19" Value="Unavailable"/>
         <local:Item Key="item0A1A" Value="Schwebende Laternen"/>
-        <local:Item Key="item0A1B" Value="Unavailable"/>
-        <local:Item Key="item0A1C" Value="Unavailable"/>
+        <local:Item Key="item0A1B" Value="Dekadente Flagge"/>
+        <local:Item Key="item0A1C" Value="Hängende Blumen"/>
         <local:Item Key="item0A1D" Value="Unavailable"/>
-        <local:Item Key="item0A1E" Value="Unavailable"/>
-        <local:Item Key="item0A1F" Value="Unavailable"/>
-        <local:Item Key="item0A20" Value="Unavailable"/>
+        <local:Item Key="item0A1E" Value="Rathalos-Relief"/>
+        <local:Item Key="item0A1F" Value="Porträt des Admirals"/>
+        <local:Item Key="item0A20" Value="Dekadentes Banner"/>
         <local:Item Key="item0A21" Value="Unavailable"/>
         <local:Item Key="item0A22" Value="Unavailable"/>
         <local:Item Key="item0A23" Value="Meisterhafte Skizzen"/>
-        <local:Item Key="item0A24" Value="Unavailable"/>
-        <local:Item Key="item0A25" Value="Unavailable"/>
+        <local:Item Key="item0A24" Value="Florale Läufer"/>
+        <local:Item Key="item0A25" Value="Florale Läufer"/>
         <local:Item Key="item0A26" Value="Unavailable"/>
         <local:Item Key="item0A27" Value="Unavailable"/>
-        <local:Item Key="item0A28" Value="Unavailable"/>
-        <local:Item Key="item0A29" Value="Unavailable"/>
-        <local:Item Key="item0A2A" Value="Unavailable"/>
-        <local:Item Key="item0A2B" Value="Unavailable"/>
-        <local:Item Key="item0A2C" Value="Unavailable"/>
-        <local:Item Key="item0A2D" Value="Unavailable"/>
+        <local:Item Key="item0A28" Value="Jyuratodus-Modell"/>
+        <local:Item Key="item0A29" Value="Barroth-Modell"/>
+        <local:Item Key="item0A2A" Value="Diablos-Modell"/>
+        <local:Item Key="item0A2B" Value="Safi'jiiva-Modell"/>
+        <local:Item Key="item0A2C" Value="Xeno'jiiva-Modell"/>
+        <local:Item Key="item0A2D" Value="Wulg-Rotte-Modell"/>
         <local:Item Key="item0A2E" Value="Unavailable"/>
         <local:Item Key="item0A2F" Value="Unavailable"/>
         <local:Item Key="item0A30" Value="Unavailable"/>
@@ -2649,9 +2649,9 @@
         <local:Item Key="item0A33" Value="Unavailable"/>
         <local:Item Key="item0A34" Value="Unavailable"/>
         <local:Item Key="item0A35" Value="Unavailable"/>
-        <local:Item Key="item0A36" Value="Unavailable"/>
-        <local:Item Key="item0A37" Value="Unavailable"/>
-        <local:Item Key="item0A38" Value="Unavailable"/>
+        <local:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
+        <local:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
+        <local:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
         <local:Item Key="item0A39" Value="Unavailable"/>
         <local:Item Key="item0A3A" Value="Unavailable"/>
         <local:Item Key="item0A3B" Value="Unavailable"/>
@@ -2754,11 +2754,11 @@
         <local:Item Key="item0A9C" Value="Wyverianer-Ticket"/>
         <local:Item Key="item0A9D" Value="Fest-Ticket"/>
         <local:Item Key="item0A9E" Value="Fleischmahlzeit-Ticket"/>
-        <local:Item Key="item0A9F" Value="Unavailable"/>
+        <local:Item Key="item0A9F" Value="Azurära-Siegel"/>
         <local:Item Key="item0AA0" Value="Unavailable"/>
-        <local:Item Key="item0AA1" Value="Unavailable"/>
-        <local:Item Key="item0AA2" Value="Unavailable"/>
-        <local:Item Key="item0AA3" Value="Unavailable"/>
+        <local:Item Key="item0AA1" Value="Flor-Ticket"/>
+        <local:Item Key="item0AA2" Value="Wetzfisch-Ticket"/>
+        <local:Item Key="item0AA3" Value="Flauschhuhn-Ticket II"/>
         <local:Item Key="item0AA4" Value="Unavailable"/>
         <local:Item Key="item0AA5" Value="Unavailable"/>
         <local:Item Key="item0AA6" Value="Unavailable"/>
@@ -2772,10 +2772,10 @@
         <local:Item Key="item0AAE" Value="Schöner Pelz"/>
         <local:Item Key="item0AAF" Value="VIP Lunar-Ticket"/>
         <local:Item Key="item0AB0" Value="VIP Astral-Ticket"/>
-        <local:Item Key="item0AB1" Value="Unavailable"/>
+        <local:Item Key="item0AB1" Value="VIP Flor-Ticket"/>
         <local:Item Key="item0AB2" Value="Unavailable"/>
         <local:Item Key="item0AB3" Value="Unavailable"/>
-        <local:Item Key="item0AB4" Value="Unavailable"/>
+        <local:Item Key="item0AB4" Value="Bannball"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
         <local:Item Key="item0AB6" Value="Drachenmacht-Klumpen (Spalter)"/>
         <local:Item Key="item0AB7" Value="Drachenmacht-Klumpen (Klinge)"/>
