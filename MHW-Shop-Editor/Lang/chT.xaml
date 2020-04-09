@@ -31,6 +31,8 @@
     <system:String x:Key="filterHide">Hide Matching</system:String>
     <system:String x:Key="count">物品數量:</system:String>
     <system:String x:Key="results">Results:</system:String>
+    <system:String x:Key="error">Error</system:String>
+    <system:String x:Key="tooManyItems">Too many items in the output box! Can't load this preset.</system:String>
 
 
     <!--itemlist-->

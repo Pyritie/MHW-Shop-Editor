@@ -31,6 +31,8 @@
     <system:String x:Key="filterHide">隐藏匹配</system:String>
     <system:String x:Key="count">道具数目:</system:String>
     <system:String x:Key="results">结果:</system:String>
+    <system:String x:Key="error">错误</system:String>
+    <system:String x:Key="tooManyItems">已选择的道具过多！ 无法加载此预设.</system:String>
 
 
     <!--itemlist-->

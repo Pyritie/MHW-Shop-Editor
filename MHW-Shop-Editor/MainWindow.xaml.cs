@@ -427,7 +427,7 @@ namespace MHWShopEditor
 
         private void TooManyItemsError()
         {
-            MessageBox.Show("已选择的道具过多！ 无法加载此预设.", "错误");
+            MessageBox.Show((String)Application.Current.FindResource("tooManyItems"), (String)Application.Current.FindResource("error"));
         }
 
         public ObservableCollection<Item> filteredInput
