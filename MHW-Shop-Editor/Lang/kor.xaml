@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="???의 암석"/>
         <local:Item Key="item058D" Value="???의 억센발톱"/>
         <local:Item Key="item058E" Value="???의 대보옥"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="난휘룡의 중금린"/>
+        <local:Item Key="item0590" Value="난휘룡의 중금갑각"/>
+        <local:Item Key="item0591" Value="난휘룡의 중금괴"/>
+        <local:Item Key="item0592" Value="난휘룡의 중금권각"/>
+        <local:Item Key="item0593" Value="난휘룡의 중금미각"/>
+        <local:Item Key="item0594" Value="금색 용신옥"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="하늘 용인증서"/>
@@ -1701,7 +1701,7 @@
         <local:Item Key="item067D" Value="가련한 융단(2층)"/>
         <local:Item Key="item067E" Value="모피 융단(2층)"/>
         <local:Item Key="item067F" Value="랜턴"/>
-        <local:Item Key="item0680" Value="등불"/>
+        <local:Item Key="item0680" Value="등불②"/>
         <local:Item Key="item0681" Value="램프"/>
         <local:Item Key="item0682" Value="촛불"/>
         <local:Item Key="item0683" Value="촛대"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="은천원숭이 세트"/>
         <local:Item Key="item0A75" Value="눈덩이"/>
         <local:Item Key="item0A76" Value="눈사람"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="명룡 티켓"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="축제 티켓"/>
         <local:Item Key="item0A9E" Value="식당 티켓【고기】"/>
         <local:Item Key="item0A9F" Value="푸른빛 증표"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="푸른빛 대보옥"/>
         <local:Item Key="item0AA1" Value="만개 티켓"/>
         <local:Item Key="item0AA2" Value="예리어 티켓"/>
         <local:Item Key="item0AA3" Value="폭신폭신 티켓Ⅱ"/>

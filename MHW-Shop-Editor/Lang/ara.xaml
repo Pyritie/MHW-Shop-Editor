@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="صخرة ؟؟؟"/>
         <local:Item Key="item058D" Value="مخلب ؟؟؟ الصلب"/>
         <local:Item Key="item058E" Value="جوهرة ؟؟؟ كبيرة"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="قشرة كولف تاروث الذهبية+"/>
+        <local:Item Key="item0590" Value="صدفة كولف تاروث الذهبية+"/>
+        <local:Item Key="item0591" Value="سبيكة كولف تاروث الذهبية+"/>
+        <local:Item Key="item0592" Value="قرن حلزوني ذهبي لكولف تاروث+"/>
+        <local:Item Key="item0593" Value="صدفة ذيل كولف تاروث الذهبية+"/>
+        <local:Item Key="item0594" Value="حجر زفير تنيني ذهبي"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="بصمة بشري تنين سماوي"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="تذكرة ينبوع اللؤلؤ"/>
         <local:Item Key="item0A75" Value="كرة ثلج"/>
         <local:Item Key="item0A76" Value="رجل ثلج"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="تذكرة ناميال"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="تذكرة الاحتفال"/>
         <local:Item Key="item0A9E" Value="تذكرة مطعم اللحم"/>
         <local:Item Key="item0A9F" Value="ختم عصر اللازورد"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="جوهرة عصر اللازورد كبيرة"/>
         <local:Item Key="item0AA1" Value="تذكرة الازدهار الكامل"/>
         <local:Item Key="item0AA2" Value="تذكرة سمكة وِت"/>
         <local:Item Key="item0AA3" Value="تذكرة كراك ناعم II"/>

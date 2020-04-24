@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="???: roccia"/>
         <local:Item Key="item058D" Value="???: artiglio duro"/>
         <local:Item Key="item058E" Value="???: gemma enorme"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="Kulve Taroth: scaglia dorata+"/>
+        <local:Item Key="item0590" Value="Kulve Taroth: corazza dorata+"/>
+        <local:Item Key="item0591" Value="Kulve Taroth: pepita dorata+"/>
+        <local:Item Key="item0592" Value="Kulve Taroth: corno dorato+"/>
+        <local:Item Key="item0593" Value="Kulve Taroth: coda dorata+"/>
+        <local:Item Key="item0594" Value="Gemma drago dorata"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="Stampa wyvern celeste"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="Buono argentato"/>
         <local:Item Key="item0A75" Value="Palla di neve"/>
         <local:Item Key="item0A76" Value="Pupazzo di neve"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="Buono Namielle"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="Buono festival"/>
         <local:Item Key="item0A9E" Value="Buono carne sostanziosa"/>
         <local:Item Key="item0A9F" Value="Sigillo era azzurra"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="Gemma era azzurra"/>
         <local:Item Key="item0AA1" Value="Buono fioritura"/>
         <local:Item Key="item0AA2" Value="Buono sgombro-coltello"/>
         <local:Item Key="item0AA3" Value="Buono Rallus mollis II"/>

@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="Roca ???"/>
         <local:Item Key="item058D" Value="Garra dura de ???"/>
         <local:Item Key="item058E" Value="Gran gema desconocida"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="Escama dorada de Kulve Taroth+"/>
+        <local:Item Key="item0590" Value="Caparazón dorado Kulve Taroth+"/>
+        <local:Item Key="item0591" Value="Garra dorada de Kulve Taroth+"/>
+        <local:Item Key="item0592" Value="Espiracorno dorado Kulve Taroth+"/>
+        <local:Item Key="item0593" Value="Caparazón de cola Kulve Taroth+"/>
+        <local:Item Key="item0594" Value="Dracoespira dorada"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="Sello wyveriano celestial"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="Vale termargénteo"/>
         <local:Item Key="item0A75" Value="Bola de nieve"/>
         <local:Item Key="item0A76" Value="Muñeco de nieve"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="Vale de Namielle"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="Vale festivo"/>
         <local:Item Key="item0A9E" Value="Vale carnívoro de la cantina"/>
         <local:Item Key="item0A9F" Value="Sello Era Celeste"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="Gran gema Era Celeste"/>
         <local:Item Key="item0AA1" Value="Vale floral"/>
         <local:Item Key="item0AA2" Value="Vale de caballa cuchillo"/>
         <local:Item Key="item0AA3" Value="Vale de carrao algodón II"/>

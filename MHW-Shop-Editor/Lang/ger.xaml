@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="???-Stein"/>
         <local:Item Key="item058D" Value="???-Hartklaue"/>
         <local:Item Key="item058E" Value="Großer ???-Edelstein"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="KT Goldene Schuppe+"/>
+        <local:Item Key="item0590" Value="KT Goldener Panzer+"/>
+        <local:Item Key="item0591" Value="KT Goldener Klumpen+"/>
+        <local:Item Key="item0592" Value="KT Goldenes Spiralhorn+"/>
+        <local:Item Key="item0593" Value="KT Goldener Schwanzpanzer+"/>
+        <local:Item Key="item0594" Value="Goldener Drachengottstein"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="Himmlischer Wyverianer-Druck"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="Perlenquell-Ticket"/>
         <local:Item Key="item0A75" Value="Schneeball"/>
         <local:Item Key="item0A76" Value="Schneemann"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="Namielle-Ticket"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="Fest-Ticket"/>
         <local:Item Key="item0A9E" Value="Fleischmahlzeit-Ticket"/>
         <local:Item Key="item0A9F" Value="Azurära-Siegel"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="Großer Azurära-Edelstein"/>
         <local:Item Key="item0AA1" Value="Flor-Ticket"/>
         <local:Item Key="item0AA2" Value="Wetzfisch-Ticket"/>
         <local:Item Key="item0AA3" Value="Flauschhuhn-Ticket II"/>

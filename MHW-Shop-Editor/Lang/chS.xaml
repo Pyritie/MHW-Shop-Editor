@@ -349,11 +349,11 @@
         <local:Item Key="item0135" Value="搔鸟的鳞"/>
         <local:Item Key="item0136" Value="搔鸟的皮"/>
         <local:Item Key="item0137" Value="搔鸟的饰羽"/>
-        <local:Item Key="item0138" Value="搔鸟的啄"/>
+        <local:Item Key="item0138" Value="搔鸟的喙"/>
         <local:Item Key="item0139" Value="搔鸟的上鳞"/>
         <local:Item Key="item013A" Value="搔鸟的上皮"/>
         <local:Item Key="item013B" Value="搔鸟的大饰羽"/>
-        <local:Item Key="item013C" Value="搔鸟的大啄"/>
+        <local:Item Key="item013C" Value="搔鸟的大喙"/>
         <local:Item Key="item013D" Value="毒妖鸟的鳞"/>
         <local:Item Key="item013E" Value="毒妖鸟的甲壳"/>
         <local:Item Key="item013F" Value="毒妖鸟的羽毛"/>
@@ -1330,7 +1330,7 @@
         <local:Item Key="item050A" Value="黑狼鸟的厚鳞"/>
         <local:Item Key="item050B" Value="黑狼鸟的重壳"/>
         <local:Item Key="item050C" Value="黑狼鸟的地狱耳"/>
-        <local:Item Key="item050D" Value="帅气的啄"/>
+        <local:Item Key="item050D" Value="帅气的喙"/>
         <local:Item Key="item050E" Value="黑狼鸟的刚翼"/>
         <local:Item Key="item050F" Value="黑狼鸟的韧尾"/>
         <local:Item Key="item0510" Value="黑狼鸟的银狼毛"/>
@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="？？？的岩石"/>
         <local:Item Key="item058D" Value="？？？的刚爪"/>
         <local:Item Key="item058E" Value="？？？的大宝玉"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="绚辉龙的重金鳞"/>
+        <local:Item Key="item0590" Value="绚辉龙的重金壳"/>
+        <local:Item Key="item0591" Value="绚辉龙的重金块"/>
+        <local:Item Key="item0592" Value="绚辉龙的重金卷角"/>
+        <local:Item Key="item0593" Value="绚辉龙的重金尾壳"/>
+        <local:Item Key="item0594" Value="金色的龙神玉"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="天之龙人票据"/>
@@ -1701,7 +1701,7 @@
         <local:Item Key="item067D" Value="可爱的地毯（2楼）"/>
         <local:Item Key="item067E" Value="毛皮的地毯（2楼）"/>
         <local:Item Key="item067F" Value="提灯"/>
-        <local:Item Key="item0680" Value="古典桌灯"/>
+        <local:Item Key="item0680" Value="立灯②"/>
         <local:Item Key="item0681" Value="油灯"/>
         <local:Item Key="item0682" Value="蜡烛"/>
         <local:Item Key="item0683" Value="烛台"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="银猴票券"/>
         <local:Item Key="item0A75" Value="雪球"/>
         <local:Item Key="item0A76" Value="雪人"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="溟波龙票"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="祭典票"/>
         <local:Item Key="item0A9E" Value="用餐地区票【肉】"/>
         <local:Item Key="item0A9F" Value="苍世之证"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="苍世的大宝玉"/>
         <local:Item Key="item0AA1" Value="盛放票"/>
         <local:Item Key="item0AA2" Value="磨刀鲹鱼票"/>
         <local:Item Key="item0AA3" Value="松软票2"/>
@@ -2777,7 +2777,7 @@
         <local:Item Key="item0AB1" Value="特别盛放票"/>
         <local:Item Key="item0AB2" Value="Unavailable"/>
         <local:Item Key="item0AB3" Value="Unavailable"/>
-        <local:Item Key="item0AB4" Value="投射器撤退弹"/>
+        <local:Item Key="item0AB4" Value="撤退弹"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
         <local:Item Key="item0AB6" Value="蕴藏龙力的凝块·大剑"/>
         <local:Item Key="item0AB7" Value="蕴藏龙力的凝块·太刀"/>

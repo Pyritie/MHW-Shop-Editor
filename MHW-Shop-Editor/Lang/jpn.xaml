@@ -1461,12 +1461,12 @@
         <local:Item Key="item058C" Value="？？？の岩石"/>
         <local:Item Key="item058D" Value="？？？の剛爪"/>
         <local:Item Key="item058E" Value="？？？の大宝玉"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="爛輝龍の重金鱗"/>
+        <local:Item Key="item0590" Value="爛輝龍の重金殻"/>
+        <local:Item Key="item0591" Value="爛輝龍の重金塊"/>
+        <local:Item Key="item0592" Value="爛輝龍の重金巻角"/>
+        <local:Item Key="item0593" Value="爛輝龍の重金尾殻"/>
+        <local:Item Key="item0594" Value="金色の龍神玉"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="天の竜人手形"/>
@@ -1702,7 +1702,7 @@
         <local:Item Key="item067D" Value="可憐な絨毯（2階）"/>
         <local:Item Key="item067E" Value="毛皮の絨毯（2階）"/>
         <local:Item Key="item067F" Value="ランタン"/>
-        <local:Item Key="item0680" Value="行燈"/>
+        <local:Item Key="item0680" Value="行燈②"/>
         <local:Item Key="item0681" Value="ランプ"/>
         <local:Item Key="item0682" Value="ろうそく"/>
         <local:Item Key="item0683" Value="燭台"/>
@@ -2717,7 +2717,7 @@
         <local:Item Key="item0A74" Value="ギンセンチケット"/>
         <local:Item Key="item0A75" Value="雪玉"/>
         <local:Item Key="item0A76" Value="雪だるま"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="溟龍チケット"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2758,7 +2758,7 @@
         <local:Item Key="item0A9D" Value="祭典チケット"/>
         <local:Item Key="item0A9E" Value="食事場チケット【肉】"/>
         <local:Item Key="item0A9F" Value="蒼世の証"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="蒼世の大宝玉"/>
         <local:Item Key="item0AA1" Value="満開チケット"/>
         <local:Item Key="item0AA2" Value="キレアジチケット"/>
         <local:Item Key="item0AA3" Value="フワフワチケットⅡ"/>

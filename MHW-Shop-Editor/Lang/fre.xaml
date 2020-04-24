@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="Roche ???"/>
         <local:Item Key="item058D" Value="Serre ???"/>
         <local:Item Key="item058E" Value="Grande gemme ???"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="Écaille d'or Kulve Taroth +"/>
+        <local:Item Key="item0590" Value="Carapace d'or Kulve Taroth +"/>
+        <local:Item Key="item0591" Value="Pépite d'or Kulve Taroth +"/>
+        <local:Item Key="item0592" Value="Corne d'or Kulve Taroth +"/>
+        <local:Item Key="item0593" Value="Queue d'or Kulve Taroth +"/>
+        <local:Item Key="item0594" Value="Sphère-dragon d'or"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="Billet wyvérien céleste"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="Ticket singe d'argent"/>
         <local:Item Key="item0A75" Value="Boule de neige"/>
         <local:Item Key="item0A76" Value="Bonhomme de neige"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="Ticket Namielle"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="Ticket Festival"/>
         <local:Item Key="item0A9E" Value="Ticket Gros gigot"/>
         <local:Item Key="item0A9F" Value="Sceau Ère d'azur"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="Joyau Ère d'azur"/>
         <local:Item Key="item0AA1" Value="Ticket Floraison"/>
         <local:Item Key="item0AA2" Value="Ticket Poissaiguiseur"/>
         <local:Item Key="item0AA3" Value="Ticket Marouette douce II"/>

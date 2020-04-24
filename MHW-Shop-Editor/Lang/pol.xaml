@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="Skała: ???"/>
         <local:Item Key="item058D" Value="Pazurzysko: ???"/>
         <local:Item Key="item058E" Value="Duży klejnot: ???"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="Złota łuska Kulve Taroth+"/>
+        <local:Item Key="item0590" Value="Złota skorupa Kulve Taroth+"/>
+        <local:Item Key="item0591" Value="Złoty płat Kulve Taroth+"/>
+        <local:Item Key="item0592" Value="Złoty spiralny róg Kulve Taroth+"/>
+        <local:Item Key="item0593" Value="Zł. skor. ogon. Kulve Taroth+"/>
+        <local:Item Key="item0594" Value="Złoty Smokafir"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="Odcisk nieb. wiwerianina"/>
@@ -2507,8 +2507,8 @@
         <local:Item Key="item09A3" Value="Sztandar 5. Floty"/>
         <local:Item Key="item09A4" Value="Opromieniony obraz"/>
         <local:Item Key="item09A5" Value="Obraz Astery"/>
-        <local:Item Key="item09A6" Value="Portret &quot;Zebranie rady&quot;"/>
-        <local:Item Key="item09A7" Value="Portret &quot;Zabawa&quot;"/>
+        <local:Item Key="item09A6" Value="Portret "Zebranie rady""/>
+        <local:Item Key="item09A7" Value="Portret "Zabawa""/>
         <local:Item Key="item09A8" Value="Wspaniałe dywany (parter)"/>
         <local:Item Key="item09A9" Value="Wspaniałe dywany (1. piętro)"/>
         <local:Item Key="item09AA" Value="Papierowa latarnia"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="Perłowy kwit"/>
         <local:Item Key="item0A75" Value="Śnieżka"/>
         <local:Item Key="item0A76" Value="Bałwan"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="Kwit z Namiellem"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="Kwit święta"/>
         <local:Item Key="item0A9E" Value="Mięsny kwit z Kantyny"/>
         <local:Item Key="item0A9F" Value="Pieczęć epoki lazuru"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="Duży klejnot z Epoki lazuru"/>
         <local:Item Key="item0AA1" Value="Kwit Rozkwitu"/>
         <local:Item Key="item0AA2" Value="Kwit ostrzalnika"/>
         <local:Item Key="item0AA3" Value="Kwit derkacza puchatego II"/>

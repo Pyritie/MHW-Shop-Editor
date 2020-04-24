@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="Камень (???)"/>
         <local:Item Key="item058D" Value="Когтище (???)"/>
         <local:Item Key="item058E" Value="Большой самоцвет (???)"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="Золотая чешуя кулве тарот+"/>
+        <local:Item Key="item0590" Value="Золотой панцирь кулве тарот+"/>
+        <local:Item Key="item0591" Value="Золотая крупица кулве тарот+"/>
+        <local:Item Key="item0592" Value="Золотой витой рог кулве тарот+"/>
+        <local:Item Key="item0593" Value="Золотой хвост кулве тарот+"/>
+        <local:Item Key="item0594" Value="Золотой драконий сапфир"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="Небесный виверианский знак"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="Билет жемчужного источника"/>
         <local:Item Key="item0A75" Value="Снежок"/>
         <local:Item Key="item0A76" Value="Снеговик"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="Билет намиэля"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="Билет фестиваля"/>
         <local:Item Key="item0A9E" Value="Билет сытного обеда"/>
         <local:Item Key="item0A9F" Value="Знак лазурной эры"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="Большой самоцвет лазурной эры"/>
         <local:Item Key="item0AA1" Value="Билет Полноцветия"/>
         <local:Item Key="item0AA2" Value="Билет точильной рыбы"/>
         <local:Item Key="item0AA3" Value="Билет пухового коростеля 2"/>

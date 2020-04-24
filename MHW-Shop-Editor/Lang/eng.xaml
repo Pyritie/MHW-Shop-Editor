@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="??? Rock"/>
         <local:Item Key="item058D" Value="??? Hardclaw"/>
         <local:Item Key="item058E" Value="Large ??? Gem"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="Kulve Taroth Golden Scale+"/>
+        <local:Item Key="item0590" Value="Kulve Taroth Golden Shell+"/>
+        <local:Item Key="item0591" Value="Kulve Taroth Golden Nugget+"/>
+        <local:Item Key="item0592" Value="Kulve Taroth Golden Spiralhorn+"/>
+        <local:Item Key="item0593" Value="Kulve Taroth Golden Tailshell+"/>
+        <local:Item Key="item0594" Value="Golden Dragonsphire"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="Celestial Wyverian Print"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="Pearlspring Ticket"/>
         <local:Item Key="item0A75" Value="Snowball"/>
         <local:Item Key="item0A76" Value="Snowman"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="Namielle Ticket"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="Fest Ticket"/>
         <local:Item Key="item0A9E" Value="Meaty Canteen Ticket"/>
         <local:Item Key="item0A9F" Value="Azure Era Seal"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="Large Azure Era Gem"/>
         <local:Item Key="item0AA1" Value="Full Bloom Ticket"/>
         <local:Item Key="item0AA2" Value="Whetfish Ticket"/>
         <local:Item Key="item0AA3" Value="Downy Crake Ticket II"/>

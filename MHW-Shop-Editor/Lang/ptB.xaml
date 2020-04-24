@@ -1460,12 +1460,12 @@
         <local:Item Key="item058C" Value="Rocha de ???"/>
         <local:Item Key="item058D" Value="Garrígida de ???"/>
         <local:Item Key="item058E" Value="Gema Grande de ???"/>
-        <local:Item Key="item058F" Value="Unavailable"/>
-        <local:Item Key="item0590" Value="Unavailable"/>
-        <local:Item Key="item0591" Value="Unavailable"/>
-        <local:Item Key="item0592" Value="Unavailable"/>
-        <local:Item Key="item0593" Value="Unavailable"/>
-        <local:Item Key="item0594" Value="Unavailable"/>
+        <local:Item Key="item058F" Value="Escama Dourada de Kulve Taroth+"/>
+        <local:Item Key="item0590" Value="Casco Dourado de Kulve Taroth+"/>
+        <local:Item Key="item0591" Value="Pepita de Ouro de Kulve Taroth+"/>
+        <local:Item Key="item0592" Value="Chifre Espiral de Kulve Taroth+"/>
+        <local:Item Key="item0593" Value="Cascauda Dourada Kulve Taroth+"/>
+        <local:Item Key="item0594" Value="Dragossafira Dourada"/>
         <local:Item Key="item0595" Value="Unavailable"/>
         <local:Item Key="item0596" Value="Unavailable"/>
         <local:Item Key="item0597" Value="Marca Serperiano Celestial"/>
@@ -2716,7 +2716,7 @@
         <local:Item Key="item0A74" Value="Bilhete da Fonte-pérola"/>
         <local:Item Key="item0A75" Value="Bola de Neve"/>
         <local:Item Key="item0A76" Value="Boneco de Neve"/>
-        <local:Item Key="item0A77" Value="Unavailable"/>
+        <local:Item Key="item0A77" Value="Bilhete Namielle"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
         <local:Item Key="item0A7A" Value="Unavailable"/>
@@ -2757,7 +2757,7 @@
         <local:Item Key="item0A9D" Value="Bilhete de Festival"/>
         <local:Item Key="item0A9E" Value="Bilhete de Carne da Cantina"/>
         <local:Item Key="item0A9F" Value="Selo da Era Lazúli"/>
-        <local:Item Key="item0AA0" Value="Unavailable"/>
+        <local:Item Key="item0AA0" Value="Gema Era Lazúli Grande"/>
         <local:Item Key="item0AA1" Value="Bilhete Florescente"/>
         <local:Item Key="item0AA2" Value="Bilhete de Peixe-amola"/>
         <local:Item Key="item0AA3" Value="Bilhete Saracura Plumosa II"/>
