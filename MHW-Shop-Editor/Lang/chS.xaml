@@ -11,6 +11,11 @@
     <system:String x:Key="save">保存</system:String>
     <system:String x:Key="lang">语言</system:String>
     <system:String x:Key="default">默认道具</system:String>
+    <system:String x:Key="preset">Add Preset</system:String>
+    <system:String x:Key="dlc_mats">DLC Materials</system:String>
+    <system:String x:Key="tickets">Tickets/Event Items</system:String>
+    <system:String x:Key="coins">Coins</system:String>
+    <system:String x:Key="aug_mats">Augment Materials</system:String>
     <system:String x:Key="hrgems">上位宝珠</system:String>
     <system:String x:Key="plusgems">高级宝珠</system:String>
     <system:String x:Key="fourgems">冰原宝珠</system:String>

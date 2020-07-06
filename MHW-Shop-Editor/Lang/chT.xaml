@@ -11,6 +11,11 @@
     <system:String x:Key="save">儲存</system:String>
     <system:String x:Key="lang">語言</system:String>
     <system:String x:Key="default">預設物品</system:String>
+    <system:String x:Key="preset">Add Preset</system:String>
+    <system:String x:Key="dlc_mats">DLC Materials</system:String>
+    <system:String x:Key="tickets">Tickets/Event Items</system:String>
+    <system:String x:Key="coins">Coins</system:String>
+    <system:String x:Key="aug_mats">Augment Materials</system:String>
     <system:String x:Key="hrgems">HR Gems</system:String>
     <system:String x:Key="plusgems">Jewel+ Gems</system:String>
     <system:String x:Key="fourgems">Jewel 4 Gems</system:String>
