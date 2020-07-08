@@ -272,13 +272,13 @@ namespace MHWShopEditor
                     PopulateBoxes(DLC_PARTS.ToList());
                     break;
                 case 11:
-                    PopulateBoxes(COINS.ToList());
+                    PopulateBoxes(AUGMENT_MATS.ToList());
                     break;
                 case 12:
-                    PopulateBoxes(TICKETS.ToList());
+                    PopulateBoxes(COINS.ToList());
                     break;
                 case 13:
-                    PopulateBoxes(AUGMENT_MATS.ToList());
+                    PopulateBoxes(TICKETS.ToList());
                     break;
                 default:
                     break;
