@@ -1444,13 +1444,13 @@
         <local:Item Key="item0577" Value="天地煌啼龙的散华石"/>
         <local:Item Key="item0578" Value="天地煌啼龙的慈爪"/>
         <local:Item Key="item0579" Value="天地煌啼龙的显玉"/>
-        <local:Item Key="item057A" Value="Unavailable"/>
-        <local:Item Key="item057B" Value="Unavailable"/>
-        <local:Item Key="item057C" Value="Unavailable"/>
-        <local:Item Key="item057D" Value="Unavailable"/>
-        <local:Item Key="item057E" Value="Unavailable"/>
-        <local:Item Key="item057F" Value="Unavailable"/>
-        <local:Item Key="item0580" Value="Unavailable"/>
+        <local:Item Key="item057A" Value="煌黑龙的天壳"/>
+        <local:Item Key="item057B" Value="煌黑龙的天鳞"/>
+        <local:Item Key="item057C" Value="煌黑龙的凶爪"/>
+        <local:Item Key="item057D" Value="煌黑龙的邪翼"/>
+        <local:Item Key="item057E" Value="煌黑龙的妖尾"/>
+        <local:Item Key="item057F" Value="统天角"/>
+        <local:Item Key="item0580" Value="琉璃色的龙神玉"/>
         <local:Item Key="item0581" Value="太古的宝珠"/>
         <local:Item Key="item0582" Value="刻印的宝珠"/>
         <local:Item Key="item0583" Value="封印的宝珠"/>
@@ -2459,29 +2459,29 @@
         <local:Item Key="item096E" Value="点缀装饰的盆栽"/>
         <local:Item Key="item096F" Value="花饰【小】"/>
         <local:Item Key="item0970" Value="花饰【大】"/>
-        <local:Item Key="item0971" Value="Unavailable"/>
+        <local:Item Key="item0971" Value="热带的盆栽"/>
         <local:Item Key="item0972" Value="Unavailable"/>
         <local:Item Key="item0973" Value="模型【第五期团的船】"/>
         <local:Item Key="item0974" Value="模型【改造船】"/>
         <local:Item Key="item0975" Value="模型【研究基地】"/>
         <local:Item Key="item0976" Value="模型【营地】"/>
         <local:Item Key="item0977" Value="优雅茶具组"/>
-        <local:Item Key="item0978" Value="Unavailable"/>
-        <local:Item Key="item0979" Value="Unavailable"/>
-        <local:Item Key="item097A" Value="Unavailable"/>
-        <local:Item Key="item097B" Value="Unavailable"/>
-        <local:Item Key="item097C" Value="Unavailable"/>
+        <local:Item Key="item0978" Value="壶子【黑】"/>
+        <local:Item Key="item0979" Value="壶子【黄】"/>
+        <local:Item Key="item097A" Value="面具【火龙】"/>
+        <local:Item Key="item097B" Value="面具【雌火龙】"/>
+        <local:Item Key="item097C" Value="面具【搔鸟】"/>
         <local:Item Key="item097D" Value="Unavailable"/>
         <local:Item Key="item097E" Value="艾露猫气球"/>
         <local:Item Key="item097F" Value="德特尔气球·白"/>
         <local:Item Key="item0980" Value="德特尔气球·黑"/>
         <local:Item Key="item0981" Value="奇面族气球"/>
-        <local:Item Key="item0982" Value="Unavailable"/>
-        <local:Item Key="item0983" Value="Unavailable"/>
-        <local:Item Key="item0984" Value="Unavailable"/>
+        <local:Item Key="item0982" Value="面具吊饰【火龙】"/>
+        <local:Item Key="item0983" Value="面具吊饰【雌火龙】"/>
+        <local:Item Key="item0984" Value="面具吊饰【搔鸟】"/>
         <local:Item Key="item0985" Value="画作【艾露猫2】"/>
         <local:Item Key="item0986" Value="画作【艾露猫③】"/>
-        <local:Item Key="item0987" Value="Unavailable"/>
+        <local:Item Key="item0987" Value="画作【艾露猫④】"/>
         <local:Item Key="item0988" Value="画作【狩猎的空闲时光】"/>
         <local:Item Key="item0989" Value="画作【古代树植物】"/>
         <local:Item Key="item098A" Value="画作【水壶与水果】"/>
@@ -2496,14 +2496,14 @@
         <local:Item Key="item0993" Value="质朴灯具【白】"/>
         <local:Item Key="item0994" Value="豪华的灯具"/>
         <local:Item Key="item0995" Value="吊灯"/>
-        <local:Item Key="item0996" Value="Unavailable"/>
+        <local:Item Key="item0996" Value="噗吱猪灯笼"/>
         <local:Item Key="item0997" Value="万福提灯"/>
         <local:Item Key="item0998" Value="天灯灯具"/>
         <local:Item Key="item0999" Value="豪华壁挂墙架【大】"/>
         <local:Item Key="item099A" Value="豪华壁挂墙架【小】"/>
         <local:Item Key="item099B" Value="画作【永霜冻土②】"/>
         <local:Item Key="item099C" Value="大张的地图"/>
-        <local:Item Key="item099D" Value="Unavailable"/>
+        <local:Item Key="item099D" Value="画作【艾露猫⑤】"/>
         <local:Item Key="item099E" Value="Unavailable"/>
         <local:Item Key="item099F" Value="团旗【第一期团】"/>
         <local:Item Key="item09A0" Value="团旗【第二期团】"/>
@@ -2517,7 +2517,7 @@
         <local:Item Key="item09A8" Value="豪华的地毯（1楼）"/>
         <local:Item Key="item09A9" Value="豪华的地毯（2楼）"/>
         <local:Item Key="item09AA" Value="灯笼"/>
-        <local:Item Key="item09AB" Value="Unavailable"/>
+        <local:Item Key="item09AB" Value="噗吱灯"/>
         <local:Item Key="item09AC" Value="立灯①"/>
         <local:Item Key="item09AD" Value="Unavailable"/>
         <local:Item Key="item09AE" Value="研究组合"/>
@@ -2575,7 +2575,7 @@
         <local:Item Key="item09E2" Value="万福料理组合"/>
         <local:Item Key="item09E3" Value="高级料理拼盘"/>
         <local:Item Key="item09E4" Value="盛放料理组合"/>
-        <local:Item Key="item09E5" Value="Unavailable"/>
+        <local:Item Key="item09E5" Value="热情料理组合"/>
         <local:Item Key="item09E6" Value="模型【飞雷龙】"/>
         <local:Item Key="item09E7" Value="模型【冰牙龙】"/>
         <local:Item Key="item09E8" Value="模型【猛牛龙】"/>
@@ -2592,21 +2592,21 @@
         <local:Item Key="item09F3" Value="模型【雷狼龙】"/>
         <local:Item Key="item09F4" Value="模型【黑狼鸟】"/>
         <local:Item Key="item09F5" Value="模型【大痹贼龙】"/>
-        <local:Item Key="item09F6" Value="Unavailable"/>
-        <local:Item Key="item09F7" Value="Unavailable"/>
-        <local:Item Key="item09F8" Value="Unavailable"/>
+        <local:Item Key="item09F6" Value="模型【轰龙】"/>
+        <local:Item Key="item09F7" Value="模型【惨爪龙】"/>
+        <local:Item Key="item09F8" Value="模型【骨锤龙】"/>
         <local:Item Key="item09F9" Value="模型【溟波龙】"/>
         <local:Item Key="item09FA" Value="模型【浮空龙】"/>
         <local:Item Key="item09FB" Value="模型【眩鸟】"/>
-        <local:Item Key="item09FC" Value="Unavailable"/>
-        <local:Item Key="item09FD" Value="Unavailable"/>
+        <local:Item Key="item09FC" Value="模型【金狮子】"/>
+        <local:Item Key="item09FD" Value="模型【幻兽】"/>
         <local:Item Key="item09FE" Value="Unavailable"/>
-        <local:Item Key="item09FF" Value="Unavailable"/>
-        <local:Item Key="item0A00" Value="Unavailable"/>
-        <local:Item Key="item0A01" Value="Unavailable"/>
-        <local:Item Key="item0A02" Value="Unavailable"/>
+        <local:Item Key="item09FF" Value="模型【尸套龙】"/>
+        <local:Item Key="item0A00" Value="模型【炎王龙】"/>
+        <local:Item Key="item0A01" Value="模型【奇面族】"/>
+        <local:Item Key="item0A02" Value="模型【碎龙】"/>
         <local:Item Key="item0A03" Value="Unavailable"/>
-        <local:Item Key="item0A04" Value="Unavailable"/>
+        <local:Item Key="item0A04" Value="模型【熔岩龙】"/>
         <local:Item Key="item0A05" Value="模型【大感谢】"/>
         <local:Item Key="item0A06" Value="大理石壁面【白】"/>
         <local:Item Key="item0A07" Value="大理石砖地板【白】"/>
@@ -2622,11 +2622,11 @@
         <local:Item Key="item0A11" Value="打字机"/>
         <local:Item Key="item0A12" Value="置物箱"/>
         <local:Item Key="item0A13" Value="Unavailable"/>
-        <local:Item Key="item0A14" Value="Unavailable"/>
+        <local:Item Key="item0A14" Value="噗吱猪黄金像"/>
         <local:Item Key="item0A15" Value="雪人【万福】"/>
         <local:Item Key="item0A16" Value="雪人【大感谢】"/>
         <local:Item Key="item0A17" Value="雪人【盛放】"/>
-        <local:Item Key="item0A18" Value="Unavailable"/>
+        <local:Item Key="item0A18" Value="雪人【热情】"/>
         <local:Item Key="item0A19" Value="Unavailable"/>
         <local:Item Key="item0A1A" Value="天灯"/>
         <local:Item Key="item0A1B" Value="豪华的旗帜吊饰"/>
@@ -2635,12 +2635,12 @@
         <local:Item Key="item0A1E" Value="浮雕"/>
         <local:Item Key="item0A1F" Value="绘画【大团长】"/>
         <local:Item Key="item0A20" Value="豪华的壁饰"/>
-        <local:Item Key="item0A21" Value="Unavailable"/>
-        <local:Item Key="item0A22" Value="Unavailable"/>
+        <local:Item Key="item0A21" Value="画作【艾露猫⑥】"/>
+        <local:Item Key="item0A22" Value="画作【噗吱猪②】"/>
         <local:Item Key="item0A23" Value="画作【巨匠们的极品】"/>
         <local:Item Key="item0A24" Value="华丽的地毯（1楼）"/>
         <local:Item Key="item0A25" Value="华丽的地毯（2楼）"/>
-        <local:Item Key="item0A26" Value="Unavailable"/>
+        <local:Item Key="item0A26" Value="毒妖鸟摆饰"/>
         <local:Item Key="item0A27" Value="Unavailable"/>
         <local:Item Key="item0A28" Value="模型【泥鱼龙】"/>
         <local:Item Key="item0A29" Value="模型【土砂龙】"/>
@@ -2648,7 +2648,7 @@
         <local:Item Key="item0A2B" Value="模型【冥赤龙】"/>
         <local:Item Key="item0A2C" Value="模型【冥灯龙】"/>
         <local:Item Key="item0A2D" Value="模型【冰豺狼】"/>
-        <local:Item Key="item0A2E" Value="Unavailable"/>
+        <local:Item Key="item0A2E" Value="模型【草食】"/>
         <local:Item Key="item0A2F" Value="Unavailable"/>
         <local:Item Key="item0A30" Value="Unavailable"/>
         <local:Item Key="item0A31" Value="Unavailable"/>
@@ -2659,31 +2659,31 @@
         <local:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
         <local:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
         <local:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
-        <local:Item Key="item0A39" Value="Unavailable"/>
-        <local:Item Key="item0A3A" Value="Unavailable"/>
-        <local:Item Key="item0A3B" Value="Unavailable"/>
-        <local:Item Key="item0A3C" Value="Unavailable"/>
-        <local:Item Key="item0A3D" Value="Unavailable"/>
-        <local:Item Key="item0A3E" Value="Unavailable"/>
-        <local:Item Key="item0A3F" Value="Unavailable"/>
-        <local:Item Key="item0A40" Value="Unavailable"/>
+        <local:Item Key="item0A39" Value="Scat Cat Fever"/>
+        <local:Item Key="item0A3A" Value="Felyne Soup Strategy!"/>
+        <local:Item Key="item0A3B" Value="Chime from a Shimmering Bell - Alatreon: World version"/>
+        <local:Item Key="item0A3C" Value="A Day on Pokke Farm (MH The Jazz)"/>
+        <local:Item Key="item0A3D" Value="Felynes of Yukumo Farm (MH The Jazz)"/>
+        <local:Item Key="item0A3E" Value="The Hunters' Secret Spring (MH The Jazz)"/>
+        <local:Item Key="item0A3F" Value="Winds of Adventure (MH The Jazz)"/>
+        <local:Item Key="item0A40" Value="Proof of a Hero (MH The Jazz)"/>
         <local:Item Key="item0A41" Value="Unavailable"/>
         <local:Item Key="item0A42" Value="Unavailable"/>
         <local:Item Key="item0A43" Value="Unavailable"/>
-        <local:Item Key="item0A44" Value="Unavailable"/>
-        <local:Item Key="item0A45" Value="Unavailable"/>
-        <local:Item Key="item0A46" Value="Unavailable"/>
-        <local:Item Key="item0A47" Value="Unavailable"/>
-        <local:Item Key="item0A48" Value="Unavailable"/>
-        <local:Item Key="item0A49" Value="Unavailable"/>
-        <local:Item Key="item0A4A" Value="Unavailable"/>
-        <local:Item Key="item0A4B" Value="Unavailable"/>
-        <local:Item Key="item0A4C" Value="Unavailable"/>
-        <local:Item Key="item0A4D" Value="Unavailable"/>
-        <local:Item Key="item0A4E" Value="Unavailable"/>
-        <local:Item Key="item0A4F" Value="Unavailable"/>
+        <local:Item Key="item0A44" Value="兽缠族的佳肴"/>
+        <local:Item Key="item0A45" Value="波波陶土烧"/>
+        <local:Item Key="item0A46" Value="兽缠族的竹筏"/>
+        <local:Item Key="item0A47" Value="友好的献礼"/>
+        <local:Item Key="item0A48" Value="妖鸟玩偶【绿】"/>
+        <local:Item Key="item0A49" Value="妖鸟玩偶【橙】"/>
+        <local:Item Key="item0A4A" Value="画作【艾露猫⑦】"/>
+        <local:Item Key="item0A4B" Value="画作【毒妖鸟】"/>
+        <local:Item Key="item0A4C" Value="兽缠族的宅邸"/>
+        <local:Item Key="item0A4D" Value="猫的石像"/>
+        <local:Item Key="item0A4E" Value="德特尔的泥玩偶"/>
+        <local:Item Key="item0A4F" Value="波波陶土烧【群像】"/>
         <local:Item Key="item0A50" Value="Unavailable"/>
-        <local:Item Key="item0A51" Value="Unavailable"/>
+        <local:Item Key="item0A51" Value="兽缠族的装备"/>
         <local:Item Key="item0A52" Value="Unavailable"/>
         <local:Item Key="item0A53" Value="Unavailable"/>
         <local:Item Key="item0A54" Value="Unavailable"/>
@@ -2724,7 +2724,7 @@
         <local:Item Key="item0A77" Value="溟波龙票"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
-        <local:Item Key="item0A7A" Value="Unavailable"/>
+        <local:Item Key="item0A7A" Value="冰牙龙票"/>
         <local:Item Key="item0A7B" Value="绿色药草"/>
         <local:Item Key="item0A7C" Value="红色药草"/>
         <local:Item Key="item0A7D" Value="混合药草（绿 + 红）"/>
@@ -2743,9 +2743,9 @@
         <local:Item Key="item0A8A" Value="大龙光石"/>
         <local:Item Key="item0A8B" Value="刚龙光石"/>
         <local:Item Key="item0A8C" Value="真龙光石"/>
-        <local:Item Key="item0A8D" Value="Unavailable"/>
-        <local:Item Key="item0A8E" Value="Unavailable"/>
-        <local:Item Key="item0A8F" Value="Unavailable"/>
+        <local:Item Key="item0A8D" Value="银白霜雪之毛皮"/>
+        <local:Item Key="item0A8E" Value="粉碎冰川之剑爪"/>
+        <local:Item Key="item0A8F" Value="白银之冰刃牙"/>
         <local:Item Key="item0A90" Value="黑鹰的设计图"/>
         <local:Item Key="item0A91" Value="摇曳鳗壶"/>
         <local:Item Key="item0A92" Value="S.T.A.R.S. 徽章"/>
@@ -2766,21 +2766,21 @@
         <local:Item Key="item0AA1" Value="盛放票"/>
         <local:Item Key="item0AA2" Value="磨刀鲹鱼票"/>
         <local:Item Key="item0AA3" Value="松软票2"/>
-        <local:Item Key="item0AA4" Value="Unavailable"/>
-        <local:Item Key="item0AA5" Value="Unavailable"/>
-        <local:Item Key="item0AA6" Value="Unavailable"/>
+        <local:Item Key="item0AA4" Value="热情票"/>
+        <local:Item Key="item0AA5" Value="向导兔票"/>
+        <local:Item Key="item0AA6" Value="用餐地区票【酒】"/>
         <local:Item Key="item0AA7" Value="Unavailable"/>
         <local:Item Key="item0AA8" Value="Unavailable"/>
         <local:Item Key="item0AA9" Value="Unavailable"/>
         <local:Item Key="item0AAA" Value="好友之证"/>
         <local:Item Key="item0AAB" Value="Unavailable"/>
-        <local:Item Key="item0AAC" Value="Unavailable"/>
+        <local:Item Key="item0AAC" Value="温泉金票"/>
         <local:Item Key="item0AAD" Value="大颗的牙兽泪"/>
         <local:Item Key="item0AAE" Value="美好的毛皮"/>
         <local:Item Key="item0AAF" Value="特別万福票"/>
         <local:Item Key="item0AB0" Value="特別大感谢票"/>
         <local:Item Key="item0AB1" Value="特别盛放票"/>
-        <local:Item Key="item0AB2" Value="Unavailable"/>
+        <local:Item Key="item0AB2" Value="特別热情票"/>
         <local:Item Key="item0AB3" Value="Unavailable"/>
         <local:Item Key="item0AB4" Value="撤退弹"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
@@ -2804,9 +2804,9 @@
         <local:Item Key="item0AC7" Value="Unavailable"/>
         <local:Item Key="item0AC8" Value="Unavailable"/>
         <local:Item Key="item0AC9" Value="Unavailable"/>
-        <local:Item Key="item0ACA" Value="Unavailable"/>
-        <local:Item Key="item0ACB" Value="Unavailable"/>
-        <local:Item Key="item0ACC" Value="Unavailable"/>
+        <local:Item Key="item0ACA" Value="草食票1"/>
+        <local:Item Key="item0ACB" Value="草食票2"/>
+        <local:Item Key="item0ACC" Value="三眼票"/>
         <local:Item Key="item0ACD" Value="Unavailable"/>
         <local:Item Key="item0ACE" Value="Unavailable"/>
         <local:Item Key="item0ACF" Value="Unavailable"/>

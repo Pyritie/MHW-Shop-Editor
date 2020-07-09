@@ -1444,13 +1444,13 @@
         <local:Item Key="item0577" Value="Shara Ishvalda Petalstone"/>
         <local:Item Key="item0578" Value="Shara Ishvalda Tenderclaw"/>
         <local:Item Key="item0579" Value="Shara Ishvalda Gem"/>
-        <local:Item Key="item057A" Value="Unavailable"/>
-        <local:Item Key="item057B" Value="Unavailable"/>
-        <local:Item Key="item057C" Value="Unavailable"/>
-        <local:Item Key="item057D" Value="Unavailable"/>
-        <local:Item Key="item057E" Value="Unavailable"/>
-        <local:Item Key="item057F" Value="Unavailable"/>
-        <local:Item Key="item0580" Value="Unavailable"/>
+        <local:Item Key="item057A" Value="Alatreon Pallium"/>
+        <local:Item Key="item057B" Value="Alatreon Mantle"/>
+        <local:Item Key="item057C" Value="Alatreon Riptalon"/>
+        <local:Item Key="item057D" Value="Alatreon Direwing"/>
+        <local:Item Key="item057E" Value="Alatreon Diretail"/>
+        <local:Item Key="item057F" Value="Skyswayer"/>
+        <local:Item Key="item0580" Value="Azure Dragonsphire"/>
         <local:Item Key="item0581" Value="Ancient Feystone"/>
         <local:Item Key="item0582" Value="Carved Feystone"/>
         <local:Item Key="item0583" Value="Sealed Feystone"/>
@@ -2459,29 +2459,29 @@
         <local:Item Key="item096E" Value="Decorative Tree"/>
         <local:Item Key="item096F" Value="Flower Decoration (Small)"/>
         <local:Item Key="item0970" Value="Flower Decoration (Large)"/>
-        <local:Item Key="item0971" Value="Unavailable"/>
+        <local:Item Key="item0971" Value="Tropical Planting"/>
         <local:Item Key="item0972" Value="Unavailable"/>
         <local:Item Key="item0973" Value="Model Fifth Fleet Ship"/>
         <local:Item Key="item0974" Value="Model Modified Ship"/>
         <local:Item Key="item0975" Value="Model Research Base"/>
         <local:Item Key="item0976" Value="Model Base Camp"/>
         <local:Item Key="item0977" Value="Graceful Tea Set"/>
-        <local:Item Key="item0978" Value="Unavailable"/>
-        <local:Item Key="item0979" Value="Unavailable"/>
-        <local:Item Key="item097A" Value="Unavailable"/>
-        <local:Item Key="item097B" Value="Unavailable"/>
-        <local:Item Key="item097C" Value="Unavailable"/>
+        <local:Item Key="item0978" Value="Dark Pot"/>
+        <local:Item Key="item0979" Value="Earth Tone Pot"/>
+        <local:Item Key="item097A" Value="Rathalos Mask"/>
+        <local:Item Key="item097B" Value="Rathian Mask"/>
+        <local:Item Key="item097C" Value="Kulu-Ya-Ku Mask"/>
         <local:Item Key="item097D" Value="Unavailable"/>
         <local:Item Key="item097E" Value="Felyne Balloon"/>
         <local:Item Key="item097F" Value="Grimalkyne Balloon (White)"/>
         <local:Item Key="item0980" Value="Grimalkyne Balloon (Black)"/>
         <local:Item Key="item0981" Value="Gajalaka Balloon"/>
-        <local:Item Key="item0982" Value="Unavailable"/>
-        <local:Item Key="item0983" Value="Unavailable"/>
-        <local:Item Key="item0984" Value="Unavailable"/>
+        <local:Item Key="item0982" Value="Hanging Rathalos Mask"/>
+        <local:Item Key="item0983" Value="Hanging Rathian Mask"/>
+        <local:Item Key="item0984" Value="Hanging Kulu-Ya-Ku Mask"/>
         <local:Item Key="item0985" Value="Palico Portraits 2"/>
         <local:Item Key="item0986" Value="Palico Portraits 3"/>
-        <local:Item Key="item0987" Value="Unavailable"/>
+        <local:Item Key="item0987" Value="Palico Portraits 4"/>
         <local:Item Key="item0988" Value="Break Time Sketch"/>
         <local:Item Key="item0989" Value="Ancient Forest Flora Painting"/>
         <local:Item Key="item098A" Value="Still Life Painting"/>
@@ -2496,14 +2496,14 @@
         <local:Item Key="item0993" Value="Simple Lights (White)"/>
         <local:Item Key="item0994" Value="Splendid Lights"/>
         <local:Item Key="item0995" Value="Chandeliers"/>
-        <local:Item Key="item0996" Value="Unavailable"/>
+        <local:Item Key="item0996" Value="Poogie Lanterns"/>
         <local:Item Key="item0997" Value="Joyful Lanterns"/>
         <local:Item Key="item0998" Value="Sky Lantern Lights"/>
         <local:Item Key="item0999" Value="Splendid Wall Shelf (Large)"/>
         <local:Item Key="item099A" Value="Splendid Wall Shelf (Small)"/>
         <local:Item Key="item099B" Value="Hoarfrost Reach Painting 2"/>
         <local:Item Key="item099C" Value="New World Maps"/>
-        <local:Item Key="item099D" Value="Unavailable"/>
+        <local:Item Key="item099D" Value="Palico Portraits 5"/>
         <local:Item Key="item099E" Value="Unavailable"/>
         <local:Item Key="item099F" Value="1st Fleet Banner"/>
         <local:Item Key="item09A0" Value="2nd Fleet Banner"/>
@@ -2517,7 +2517,7 @@
         <local:Item Key="item09A8" Value="Splendid Rugs (1F)"/>
         <local:Item Key="item09A9" Value="Splendid Rugs (2F)"/>
         <local:Item Key="item09AA" Value="Paper Lantern"/>
-        <local:Item Key="item09AB" Value="Unavailable"/>
+        <local:Item Key="item09AB" Value="Poogie Lamp"/>
         <local:Item Key="item09AC" Value="Round Paper Lanterns"/>
         <local:Item Key="item09AD" Value="Unavailable"/>
         <local:Item Key="item09AE" Value="Research Set"/>
@@ -2575,7 +2575,7 @@
         <local:Item Key="item09E2" Value="Joyful Platter"/>
         <local:Item Key="item09E3" Value="Luxury Platter"/>
         <local:Item Key="item09E4" Value="Full Bloom Platter"/>
-        <local:Item Key="item09E5" Value="Unavailable"/>
+        <local:Item Key="item09E5" Value="Sizzling Spice Platter"/>
         <local:Item Key="item09E6" Value="Tobi-Kadachi Figure"/>
         <local:Item Key="item09E7" Value="Barioth Figure"/>
         <local:Item Key="item09E8" Value="Banbaro Figure"/>
@@ -2592,21 +2592,21 @@
         <local:Item Key="item09F3" Value="Zinogre Figure"/>
         <local:Item Key="item09F4" Value="Yian Garuga Figure"/>
         <local:Item Key="item09F5" Value="Great Girros Figure"/>
-        <local:Item Key="item09F6" Value="Unavailable"/>
-        <local:Item Key="item09F7" Value="Unavailable"/>
-        <local:Item Key="item09F8" Value="Unavailable"/>
+        <local:Item Key="item09F6" Value="Tigrex Figure"/>
+        <local:Item Key="item09F7" Value="Odogaron Figure"/>
+        <local:Item Key="item09F8" Value="Radobaan Figure"/>
         <local:Item Key="item09F9" Value="Namielle Figure"/>
         <local:Item Key="item09FA" Value="Paolumu Figure"/>
         <local:Item Key="item09FB" Value="Tzitzi-Ya-Ku Figure"/>
-        <local:Item Key="item09FC" Value="Unavailable"/>
-        <local:Item Key="item09FD" Value="Unavailable"/>
+        <local:Item Key="item09FC" Value="Rajang Figure"/>
+        <local:Item Key="item09FD" Value="Kirin Figure"/>
         <local:Item Key="item09FE" Value="Unavailable"/>
-        <local:Item Key="item09FF" Value="Unavailable"/>
-        <local:Item Key="item0A00" Value="Unavailable"/>
-        <local:Item Key="item0A01" Value="Unavailable"/>
-        <local:Item Key="item0A02" Value="Unavailable"/>
+        <local:Item Key="item09FF" Value="Vaal Hazak Figure"/>
+        <local:Item Key="item0A00" Value="Teostra Figure"/>
+        <local:Item Key="item0A01" Value="Gajalaka Figures"/>
+        <local:Item Key="item0A02" Value="Brachydios Figure"/>
         <local:Item Key="item0A03" Value="Unavailable"/>
-        <local:Item Key="item0A04" Value="Unavailable"/>
+        <local:Item Key="item0A04" Value="Lavasioth Figure"/>
         <local:Item Key="item0A05" Value="Grand Appreciation Figure"/>
         <local:Item Key="item0A06" Value="Marble Wall (White)"/>
         <local:Item Key="item0A07" Value="Marble Floor (White)"/>
@@ -2622,11 +2622,11 @@
         <local:Item Key="item0A11" Value="Typewriter"/>
         <local:Item Key="item0A12" Value="Item Box"/>
         <local:Item Key="item0A13" Value="Unavailable"/>
-        <local:Item Key="item0A14" Value="Unavailable"/>
+        <local:Item Key="item0A14" Value="Gold Poogie"/>
         <local:Item Key="item0A15" Value="Joyful Snowman"/>
         <local:Item Key="item0A16" Value="Appreciative Snowman"/>
         <local:Item Key="item0A17" Value="Blooming Snowman"/>
-        <local:Item Key="item0A18" Value="Unavailable"/>
+        <local:Item Key="item0A18" Value="Sizzling Snowman"/>
         <local:Item Key="item0A19" Value="Unavailable"/>
         <local:Item Key="item0A1A" Value="Sky Lanterns"/>
         <local:Item Key="item0A1B" Value="Splendid Flag"/>
@@ -2635,12 +2635,12 @@
         <local:Item Key="item0A1E" Value="Relief"/>
         <local:Item Key="item0A1F" Value="Admiral Painting"/>
         <local:Item Key="item0A20" Value="Splendid Wall Hanging"/>
-        <local:Item Key="item0A21" Value="Unavailable"/>
-        <local:Item Key="item0A22" Value="Unavailable"/>
+        <local:Item Key="item0A21" Value="Palico Portraits 6"/>
+        <local:Item Key="item0A22" Value="Poogie Painting 2"/>
         <local:Item Key="item0A23" Value="Masterpiece Sketches"/>
         <local:Item Key="item0A24" Value="Showy Rugs (1F)"/>
         <local:Item Key="item0A25" Value="Showy Rugs (2F)"/>
-        <local:Item Key="item0A26" Value="Unavailable"/>
+        <local:Item Key="item0A26" Value="Pukei-Pukei Decoration"/>
         <local:Item Key="item0A27" Value="Unavailable"/>
         <local:Item Key="item0A28" Value="Jyuratodus Figure"/>
         <local:Item Key="item0A29" Value="Barroth Figure"/>
@@ -2648,7 +2648,7 @@
         <local:Item Key="item0A2B" Value="Safi'jiiva Figure"/>
         <local:Item Key="item0A2C" Value="Xeno'jiiva Figure"/>
         <local:Item Key="item0A2D" Value="Wulg Figures"/>
-        <local:Item Key="item0A2E" Value="Unavailable"/>
+        <local:Item Key="item0A2E" Value="Herbivore Figures"/>
         <local:Item Key="item0A2F" Value="Unavailable"/>
         <local:Item Key="item0A30" Value="Unavailable"/>
         <local:Item Key="item0A31" Value="Unavailable"/>
@@ -2659,31 +2659,31 @@
         <local:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
         <local:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
         <local:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
-        <local:Item Key="item0A39" Value="Unavailable"/>
-        <local:Item Key="item0A3A" Value="Unavailable"/>
-        <local:Item Key="item0A3B" Value="Unavailable"/>
-        <local:Item Key="item0A3C" Value="Unavailable"/>
-        <local:Item Key="item0A3D" Value="Unavailable"/>
-        <local:Item Key="item0A3E" Value="Unavailable"/>
-        <local:Item Key="item0A3F" Value="Unavailable"/>
-        <local:Item Key="item0A40" Value="Unavailable"/>
+        <local:Item Key="item0A39" Value="Scat Cat Fever"/>
+        <local:Item Key="item0A3A" Value="Felyne Soup Strategy!"/>
+        <local:Item Key="item0A3B" Value="Chime from a Shimmering Bell - Alatreon: World version"/>
+        <local:Item Key="item0A3C" Value="A Day on Pokke Farm (MH The Jazz)"/>
+        <local:Item Key="item0A3D" Value="Felynes of Yukumo Farm (MH The Jazz)"/>
+        <local:Item Key="item0A3E" Value="The Hunters' Secret Spring (MH The Jazz)"/>
+        <local:Item Key="item0A3F" Value="Winds of Adventure (MH The Jazz)"/>
+        <local:Item Key="item0A40" Value="Proof of a Hero (MH The Jazz)"/>
         <local:Item Key="item0A41" Value="Unavailable"/>
         <local:Item Key="item0A42" Value="Unavailable"/>
         <local:Item Key="item0A43" Value="Unavailable"/>
-        <local:Item Key="item0A44" Value="Unavailable"/>
-        <local:Item Key="item0A45" Value="Unavailable"/>
-        <local:Item Key="item0A46" Value="Unavailable"/>
-        <local:Item Key="item0A47" Value="Unavailable"/>
-        <local:Item Key="item0A48" Value="Unavailable"/>
-        <local:Item Key="item0A49" Value="Unavailable"/>
-        <local:Item Key="item0A4A" Value="Unavailable"/>
-        <local:Item Key="item0A4B" Value="Unavailable"/>
-        <local:Item Key="item0A4C" Value="Unavailable"/>
-        <local:Item Key="item0A4D" Value="Unavailable"/>
-        <local:Item Key="item0A4E" Value="Unavailable"/>
-        <local:Item Key="item0A4F" Value="Unavailable"/>
+        <local:Item Key="item0A44" Value="Boaboa Feast"/>
+        <local:Item Key="item0A45" Value="Popo Sculpture"/>
+        <local:Item Key="item0A46" Value="Boaboa Raft"/>
+        <local:Item Key="item0A47" Value="Friendly Gift"/>
+        <local:Item Key="item0A48" Value="Green Pukei-Pukei Plushie"/>
+        <local:Item Key="item0A49" Value="Coral Pukei-Pukei Plushie"/>
+        <local:Item Key="item0A4A" Value="Palico Portraits 7"/>
+        <local:Item Key="item0A4B" Value="Pukei-Pukei Portrait"/>
+        <local:Item Key="item0A4C" Value="Boaboa Hut"/>
+        <local:Item Key="item0A4D" Value="Felyne Statues"/>
+        <local:Item Key="item0A4E" Value="Grimalkyne Mud Sculptures"/>
+        <local:Item Key="item0A4F" Value="Popo Sculptures"/>
         <local:Item Key="item0A50" Value="Unavailable"/>
-        <local:Item Key="item0A51" Value="Unavailable"/>
+        <local:Item Key="item0A51" Value="Boaboa Gear"/>
         <local:Item Key="item0A52" Value="Unavailable"/>
         <local:Item Key="item0A53" Value="Unavailable"/>
         <local:Item Key="item0A54" Value="Unavailable"/>
@@ -2724,7 +2724,7 @@
         <local:Item Key="item0A77" Value="Namielle Ticket"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
         <local:Item Key="item0A79" Value="Unavailable"/>
-        <local:Item Key="item0A7A" Value="Unavailable"/>
+        <local:Item Key="item0A7A" Value="Frostfang Ticket"/>
         <local:Item Key="item0A7B" Value="Green Herb"/>
         <local:Item Key="item0A7C" Value="Red Herb"/>
         <local:Item Key="item0A7D" Value="Mixed Herb (G+R)"/>
@@ -2743,9 +2743,9 @@
         <local:Item Key="item0A8A" Value="Large Dracolite"/>
         <local:Item Key="item0A8B" Value="Rigid Dracolite"/>
         <local:Item Key="item0A8C" Value="Pure Dracolite"/>
-        <local:Item Key="item0A8D" Value="Unavailable"/>
-        <local:Item Key="item0A8E" Value="Unavailable"/>
-        <local:Item Key="item0A8F" Value="Unavailable"/>
+        <local:Item Key="item0A8D" Value="Silversnow Pelt"/>
+        <local:Item Key="item0A8E" Value="Bergcrusher Claw"/>
+        <local:Item Key="item0A8F" Value="Silverwhite Frostfang"/>
         <local:Item Key="item0A90" Value="Black Eagle Blueprint"/>
         <local:Item Key="item0A91" Value="Wiggler Pot"/>
         <local:Item Key="item0A92" Value="S.T.A.R.S. Badge"/>
@@ -2766,21 +2766,21 @@
         <local:Item Key="item0AA1" Value="Full Bloom Ticket"/>
         <local:Item Key="item0AA2" Value="Whetfish Ticket"/>
         <local:Item Key="item0AA3" Value="Downy Crake Ticket II"/>
-        <local:Item Key="item0AA4" Value="Unavailable"/>
-        <local:Item Key="item0AA5" Value="Unavailable"/>
-        <local:Item Key="item0AA6" Value="Unavailable"/>
+        <local:Item Key="item0AA4" Value="Sizzling Spice Ticket"/>
+        <local:Item Key="item0AA5" Value="Pilot Hare Ticket"/>
+        <local:Item Key="item0AA6" Value="Spirited Canteen Ticket"/>
         <local:Item Key="item0AA7" Value="Unavailable"/>
         <local:Item Key="item0AA8" Value="Unavailable"/>
         <local:Item Key="item0AA9" Value="Unavailable"/>
         <local:Item Key="item0AAA" Value="Unity Symbol"/>
         <local:Item Key="item0AAB" Value="Unavailable"/>
-        <local:Item Key="item0AAC" Value="Unavailable"/>
+        <local:Item Key="item0AAC" Value="Goldspring Ticket"/>
         <local:Item Key="item0AAD" Value="Large Beast Tear"/>
         <local:Item Key="item0AAE" Value="Magnificent Pelt"/>
         <local:Item Key="item0AAF" Value="VIP Joyful Ticket"/>
         <local:Item Key="item0AB0" Value="VIP Gratitude Ticket"/>
         <local:Item Key="item0AB1" Value="VIP Full Bloom Ticket"/>
-        <local:Item Key="item0AB2" Value="Unavailable"/>
+        <local:Item Key="item0AB2" Value="VIP Sizzling Spice Ticket"/>
         <local:Item Key="item0AB3" Value="Unavailable"/>
         <local:Item Key="item0AB4" Value="Banishing Ball"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
@@ -2804,9 +2804,9 @@
         <local:Item Key="item0AC7" Value="Unavailable"/>
         <local:Item Key="item0AC8" Value="Unavailable"/>
         <local:Item Key="item0AC9" Value="Unavailable"/>
-        <local:Item Key="item0ACA" Value="Unavailable"/>
-        <local:Item Key="item0ACB" Value="Unavailable"/>
-        <local:Item Key="item0ACC" Value="Unavailable"/>
+        <local:Item Key="item0ACA" Value="Herbivore Ticket I"/>
+        <local:Item Key="item0ACB" Value="Herbivore Ticket II"/>
+        <local:Item Key="item0ACC" Value="Inner Eye Ticket"/>
         <local:Item Key="item0ACD" Value="Unavailable"/>
         <local:Item Key="item0ACE" Value="Unavailable"/>
         <local:Item Key="item0ACF" Value="Unavailable"/>
