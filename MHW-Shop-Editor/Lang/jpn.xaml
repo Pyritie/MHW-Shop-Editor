@@ -972,9 +972,9 @@
         <local:Item Key="item039E" Value="HARDUMMY"/>
         <local:Item Key="item039F" Value="HARDUMMY"/>
         <local:Item Key="item03A0" Value="ロックマンチケット"/>
-        <local:Item Key="item03A1" Value="HARDUMMY"/>
-        <local:Item Key="item03A2" Value="HARDUMMY"/>
-        <local:Item Key="item03A3" Value="HARDUMMY"/>
+        <local:Item Key="item03A1" Value="ＳＦⅤチケット"/>
+        <local:Item Key="item03A2" Value="ＳＦⅤチケットⅡ'"/>
+        <local:Item Key="item03A3" Value="ＳＦⅤチケットⅡ"/>
         <local:Item Key="item03A4" Value="蒼星のかけら"/>
         <local:Item Key="item03A5" Value="蒼星の宝玉"/>
         <local:Item Key="item03A6" Value="レッドオーブ"/>
@@ -2316,9 +2316,9 @@
         <local:Item Key="item08DE" Value="環境珠【１】"/>
         <local:Item Key="item08DF" Value="Unavailable"/>
         <local:Item Key="item08E0" Value="耐寒珠【２】"/>
-        <local:Item Key="item08E1" Value="Unavailable"/>
-        <local:Item Key="item08E2" Value="Unavailable"/>
-        <local:Item Key="item08E3" Value="Unavailable"/>
+        <local:Item Key="item08E1" Value="陽動珠【３】"/>
+        <local:Item Key="item08E2" Value="受身珠【３】"/>
+        <local:Item Key="item08E3" Value="削撃珠【３】"/>
         <local:Item Key="item08E4" Value="Unavailable"/>
         <local:Item Key="item08E5" Value="Unavailable"/>
         <local:Item Key="item08E6" Value="Unavailable"/>
@@ -2461,7 +2461,7 @@
         <local:Item Key="item096F" Value="花飾り【小】"/>
         <local:Item Key="item0970" Value="花飾り【大】"/>
         <local:Item Key="item0971" Value="熱帯の鉢植え"/>
-        <local:Item Key="item0972" Value="Unavailable"/>
+        <local:Item Key="item0972" Value="ホラーなかぼちゃ"/>
         <local:Item Key="item0973" Value="模型【５期団船】"/>
         <local:Item Key="item0974" Value="模型【改造船】"/>
         <local:Item Key="item0975" Value="模型【研究基地】"/>
@@ -2472,7 +2472,7 @@
         <local:Item Key="item097A" Value="仮面【火竜】"/>
         <local:Item Key="item097B" Value="仮面【雌火竜】"/>
         <local:Item Key="item097C" Value="仮面【掻鳥】"/>
-        <local:Item Key="item097D" Value="Unavailable"/>
+        <local:Item Key="item097D" Value="ホラーな吊り飾り①"/>
         <local:Item Key="item097E" Value="アイルーバルーン"/>
         <local:Item Key="item097F" Value="テトルーバルーン・白"/>
         <local:Item Key="item0980" Value="テトルーバルーン・黒"/>
@@ -2505,7 +2505,7 @@
         <local:Item Key="item099B" Value="絵画【渡りの凍て地②】"/>
         <local:Item Key="item099C" Value="大きな地図"/>
         <local:Item Key="item099D" Value="絵画【アイルー⑤】"/>
-        <local:Item Key="item099E" Value="Unavailable"/>
+        <local:Item Key="item099E" Value="ホラーな布"/>
         <local:Item Key="item099F" Value="団旗【１期団】"/>
         <local:Item Key="item09A0" Value="団旗【２期団】"/>
         <local:Item Key="item09A1" Value="団旗【３期団】"/>
@@ -2515,12 +2515,12 @@
         <local:Item Key="item09A5" Value="絵画【アステラ】"/>
         <local:Item Key="item09A6" Value="絵画【作戦会議】"/>
         <local:Item Key="item09A7" Value="絵画【遊戯】"/>
-        <local:Item Key="item09A8" Value="豪華な絨毯(1階)"/>
-        <local:Item Key="item09A9" Value="豪華な絨毯(2階)"/>
+        <local:Item Key="item09A8" Value="豪華な絨毯（1階）"/>
+        <local:Item Key="item09A9" Value="豪華な絨毯（2階）"/>
         <local:Item Key="item09AA" Value="灯籠"/>
         <local:Item Key="item09AB" Value="プーギーランプ"/>
         <local:Item Key="item09AC" Value="行燈①"/>
-        <local:Item Key="item09AD" Value="Unavailable"/>
+        <local:Item Key="item09AD" Value="かぼちゃランタン"/>
         <local:Item Key="item09AE" Value="研究セット"/>
         <local:Item Key="item09AF" Value="キッチンセット"/>
         <local:Item Key="item09B0" Value="石像【火竜】"/>
@@ -2601,12 +2601,12 @@
         <local:Item Key="item09FB" Value="フィギュア【眩鳥】"/>
         <local:Item Key="item09FC" Value="フィギュア【金獅子】"/>
         <local:Item Key="item09FD" Value="フィギュア【幻獣】"/>
-        <local:Item Key="item09FE" Value="Unavailable"/>
+        <local:Item Key="item09FE" Value="フィギュア【炎妃龍】"/>
         <local:Item Key="item09FF" Value="フィギュア【屍套龍】"/>
         <local:Item Key="item0A00" Value="フィギュア【炎王龍】"/>
         <local:Item Key="item0A01" Value="フィギュア【奇面族】"/>
         <local:Item Key="item0A02" Value="フィギュア【砕竜】"/>
-        <local:Item Key="item0A03" Value="Unavailable"/>
+        <local:Item Key="item0A03" Value="フィギュア【爆鎚竜】"/>
         <local:Item Key="item0A04" Value="フィギュア【溶岩竜】"/>
         <local:Item Key="item0A05" Value="フィギュア【大感謝】"/>
         <local:Item Key="item0A06" Value="大理石の壁【白】"/>
@@ -2622,17 +2622,17 @@
         <local:Item Key="item0A10" Value="S.T.A.R.S.の壁掛け②"/>
         <local:Item Key="item0A11" Value="タイプライター"/>
         <local:Item Key="item0A12" Value="アイテムボックス"/>
-        <local:Item Key="item0A13" Value="Unavailable"/>
+        <local:Item Key="item0A13" Value="ホラーな料理セット"/>
         <local:Item Key="item0A14" Value="プーギー黄金像"/>
         <local:Item Key="item0A15" Value="雪だるま【万福】"/>
         <local:Item Key="item0A16" Value="雪だるま【大感謝】"/>
         <local:Item Key="item0A17" Value="雪だるま【満開】"/>
         <local:Item Key="item0A18" Value="雪だるま【情熱】"/>
-        <local:Item Key="item0A19" Value="Unavailable"/>
+        <local:Item Key="item0A19" Value="雪だるま【ホラー】"/>
         <local:Item Key="item0A1A" Value="天燈"/>
         <local:Item Key="item0A1B" Value="豪華な旗飾り"/>
         <local:Item Key="item0A1C" Value="赤い花の吊り鉢"/>
-        <local:Item Key="item0A1D" Value="Unavailable"/>
+        <local:Item Key="item0A1D" Value="ホラーな吊り飾り②"/>
         <local:Item Key="item0A1E" Value="レリーフ"/>
         <local:Item Key="item0A1F" Value="絵画【大団長】"/>
         <local:Item Key="item0A20" Value="豪華な壁掛け"/>
@@ -2642,7 +2642,7 @@
         <local:Item Key="item0A24" Value="華やかな絨毯（1階）"/>
         <local:Item Key="item0A25" Value="華やかな絨毯（2階）"/>
         <local:Item Key="item0A26" Value="プケプケの置物"/>
-        <local:Item Key="item0A27" Value="Unavailable"/>
+        <local:Item Key="item0A27" Value="ホラーなかかし"/>
         <local:Item Key="item0A28" Value="フィギュア【泥魚竜】"/>
         <local:Item Key="item0A29" Value="フィギュア【土砂竜】"/>
         <local:Item Key="item0A2A" Value="フィギュア【角竜】"/>
@@ -2650,13 +2650,13 @@
         <local:Item Key="item0A2C" Value="フィギュア【冥灯龍】"/>
         <local:Item Key="item0A2D" Value="フィギュア【ウルグ】"/>
         <local:Item Key="item0A2E" Value="フィギュア【草食】"/>
-        <local:Item Key="item0A2F" Value="Unavailable"/>
-        <local:Item Key="item0A30" Value="Unavailable"/>
-        <local:Item Key="item0A31" Value="Unavailable"/>
-        <local:Item Key="item0A32" Value="Unavailable"/>
-        <local:Item Key="item0A33" Value="Unavailable"/>
-        <local:Item Key="item0A34" Value="Unavailable"/>
-        <local:Item Key="item0A35" Value="Unavailable"/>
+        <local:Item Key="item0A2F" Value="フィギュア【爛輝龍】"/>
+        <local:Item Key="item0A30" Value="フィギュア【爆鱗竜】"/>
+        <local:Item Key="item0A31" Value="フィギュア【恐暴竜】"/>
+        <local:Item Key="item0A32" Value="フィギュア【地啼龍①】"/>
+        <local:Item Key="item0A33" Value="フィギュア【地啼龍②】"/>
+        <local:Item Key="item0A34" Value="フィギュア【煌黒龍】"/>
+        <local:Item Key="item0A35" Value="フィギュア【黒龍】"/>
         <local:Item Key="item0A36" Value="雪村の盛り場(MH SWING)"/>
         <local:Item Key="item0A37" Value="Scat Cat Fever(MH SWING)"/>
         <local:Item Key="item0A38" Value="秘湯を求めて(MH SWING)"/>
@@ -2668,9 +2668,9 @@
         <local:Item Key="item0A3E" Value="狩人の集う秘湯(MH THE JAZZ)"/>
         <local:Item Key="item0A3F" Value="旅立ちの風(MH THE JAZZ)"/>
         <local:Item Key="item0A40" Value="英雄の証(MH THE JAZZ)"/>
-        <local:Item Key="item0A41" Value="Unavailable"/>
-        <local:Item Key="item0A42" Value="Unavailable"/>
-        <local:Item Key="item0A43" Value="Unavailable"/>
+        <local:Item Key="item0A41" Value="舞い降りる伝説/ミラボレアス：World version"/>
+        <local:Item Key="item0A42" Value="無限の勇気を持ちて"/>
+        <local:Item Key="item0A43" Value="最終決戦"/>
         <local:Item Key="item0A44" Value="ボワボワのゴチソウ"/>
         <local:Item Key="item0A45" Value="ポポハニワ"/>
         <local:Item Key="item0A46" Value="ボワボワのイカダ"/>
@@ -2683,22 +2683,22 @@
         <local:Item Key="item0A4D" Value="ネコの石像"/>
         <local:Item Key="item0A4E" Value="テトルーの泥人形"/>
         <local:Item Key="item0A4F" Value="ポポハニワ【群れ】"/>
-        <local:Item Key="item0A50" Value="Unavailable"/>
+        <local:Item Key="item0A50" Value="ブラントドスの頭骨"/>
         <local:Item Key="item0A51" Value="ボワボワのソウビ"/>
-        <local:Item Key="item0A52" Value="Unavailable"/>
-        <local:Item Key="item0A53" Value="Unavailable"/>
-        <local:Item Key="item0A54" Value="Unavailable"/>
-        <local:Item Key="item0A55" Value="Unavailable"/>
-        <local:Item Key="item0A56" Value="Unavailable"/>
-        <local:Item Key="item0A57" Value="Unavailable"/>
-        <local:Item Key="item0A58" Value="Unavailable"/>
-        <local:Item Key="item0A59" Value="Unavailable"/>
-        <local:Item Key="item0A5A" Value="Unavailable"/>
-        <local:Item Key="item0A5B" Value="Unavailable"/>
-        <local:Item Key="item0A5C" Value="Unavailable"/>
-        <local:Item Key="item0A5D" Value="Unavailable"/>
-        <local:Item Key="item0A5E" Value="Unavailable"/>
-        <local:Item Key="item0A5F" Value="Unavailable"/>
+        <local:Item Key="item0A52" Value="獣人大集合！"/>
+        <local:Item Key="item0A53" Value="ウルムー人形【白】"/>
+        <local:Item Key="item0A54" Value="ウルムー人形【紫】"/>
+        <local:Item Key="item0A55" Value="モギー人形"/>
+        <local:Item Key="item0A56" Value="モギー人形【緑】"/>
+        <local:Item Key="item0A57" Value="モギー人形【黄】"/>
+        <local:Item Key="item0A58" Value="モギー人形【桃】"/>
+        <local:Item Key="item0A59" Value="モギー人形【黒】"/>
+        <local:Item Key="item0A5A" Value="モギー人形【赤】"/>
+        <local:Item Key="item0A5B" Value="モギー人形【白】"/>
+        <local:Item Key="item0A5C" Value="絵画【黒龍伝説】"/>
+        <local:Item Key="item0A5D" Value="ラージャン人形【黒】"/>
+        <local:Item Key="item0A5E" Value="ラージャン人形【金】"/>
+        <local:Item Key="item0A5F" Value="シュレイドの旗飾り"/>
         <local:Item Key="item0A60" Value="Unavailable"/>
         <local:Item Key="item0A61" Value="Unavailable"/>
         <local:Item Key="item0A62" Value="Unavailable"/>
@@ -2724,7 +2724,7 @@
         <local:Item Key="item0A76" Value="雪だるま"/>
         <local:Item Key="item0A77" Value="溟龍チケット"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
-        <local:Item Key="item0A79" Value="Unavailable"/>
+        <local:Item Key="item0A79" Value="冰龍チケット"/>
         <local:Item Key="item0A7A" Value="氷牙竜チケット"/>
         <local:Item Key="item0A7B" Value="グリーンハーブ"/>
         <local:Item Key="item0A7C" Value="レッドハーブ"/>
@@ -2768,11 +2768,11 @@
         <local:Item Key="item0AA2" Value="キレアジチケット"/>
         <local:Item Key="item0AA3" Value="フワフワチケットⅡ"/>
         <local:Item Key="item0AA4" Value="情熱チケット"/>
-        <local:Item Key="item0AA5" Value="ミチビキチケット"/>
+        <local:Item Key="item0AA5" Value="ヨリミチチケット"/>
         <local:Item Key="item0AA6" Value="食事場チケット【酒】"/>
-        <local:Item Key="item0AA7" Value="Unavailable"/>
-        <local:Item Key="item0AA8" Value="Unavailable"/>
-        <local:Item Key="item0AA9" Value="Unavailable"/>
+        <local:Item Key="item0AA7" Value="ホラーナイトチケット"/>
+        <local:Item Key="item0AA8" Value="黒色のバンダナ"/>
+        <local:Item Key="item0AA9" Value="エリマキチケット"/>
         <local:Item Key="item0AAA" Value="親友の証"/>
         <local:Item Key="item0AAB" Value="Unavailable"/>
         <local:Item Key="item0AAC" Value="キンセンチケット"/>
@@ -2782,7 +2782,7 @@
         <local:Item Key="item0AB0" Value="大感謝チケットＳＰ"/>
         <local:Item Key="item0AB1" Value="満開チケットＳＰ"/>
         <local:Item Key="item0AB2" Value="情熱チケットＳＰ"/>
-        <local:Item Key="item0AB3" Value="Unavailable"/>
+        <local:Item Key="item0AB3" Value="ホラーナイトチケットSP"/>
         <local:Item Key="item0AB4" Value="退散玉"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
         <local:Item Key="item0AB6" Value="龍力を秘めた塊・大剣"/>
@@ -2799,22 +2799,22 @@
         <local:Item Key="item0AC1" Value="龍力を秘めた塊・軽弩"/>
         <local:Item Key="item0AC2" Value="龍力を秘めた塊・重弩"/>
         <local:Item Key="item0AC3" Value="龍力を秘めた塊・弓"/>
-        <local:Item Key="item0AC4" Value="Unavailable"/>
-        <local:Item Key="item0AC5" Value="Unavailable"/>
-        <local:Item Key="item0AC6" Value="Unavailable"/>
-        <local:Item Key="item0AC7" Value="Unavailable"/>
-        <local:Item Key="item0AC8" Value="Unavailable"/>
-        <local:Item Key="item0AC9" Value="Unavailable"/>
+        <local:Item Key="item0AC4" Value="黒龍の厚鱗"/>
+        <local:Item Key="item0AC5" Value="黒龍の重殻"/>
+        <local:Item Key="item0AC6" Value="黒龍の重胸殻"/>
+        <local:Item Key="item0AC7" Value="黒龍の剛角"/>
+        <local:Item Key="item0AC8" Value="黒龍の邪眼"/>
+        <local:Item Key="item0AC9" Value="黒龍の剛翼"/>
         <local:Item Key="item0ACA" Value="草食獣チケットⅠ"/>
         <local:Item Key="item0ACB" Value="草食獣チケットⅡ"/>
         <local:Item Key="item0ACC" Value="三眼チケット"/>
-        <local:Item Key="item0ACD" Value="Unavailable"/>
+        <local:Item Key="item0ACD" Value="マッスルチケットＧ"/>
         <local:Item Key="item0ACE" Value="Unavailable"/>
         <local:Item Key="item0ACF" Value="Unavailable"/>
         <local:Item Key="item0AD0" Value="Unavailable"/>
         <local:Item Key="item0AD1" Value="Unavailable"/>
-        <local:Item Key="item0AD2" Value="Unavailable"/>
-        <local:Item Key="item0AD3" Value="Unavailable"/>
+        <local:Item Key="item0AD2" Value="雷狼竜チケット"/>
+        <local:Item Key="item0AD3" Value="黒轟竜チケット"/>
         <local:Item Key="item0AD4" Value="Unavailable"/>
         <local:Item Key="item0AD5" Value="Unavailable"/>
         <local:Item Key="item0AD6" Value="Unavailable"/>

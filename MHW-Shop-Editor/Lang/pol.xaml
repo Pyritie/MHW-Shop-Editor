@@ -971,9 +971,9 @@
         <local:Item Key="item039E" Value="HARDUMMY"/>
         <local:Item Key="item039F" Value="HARDUMMY"/>
         <local:Item Key="item03A0" Value="Kwit Mega Mana"/>
-        <local:Item Key="item03A1" Value="HARDUMMY"/>
-        <local:Item Key="item03A2" Value="HARDUMMY"/>
-        <local:Item Key="item03A3" Value="HARDUMMY"/>
+        <local:Item Key="item03A1" Value="Kwit SFV"/>
+        <local:Item Key="item03A2" Value="Kwit SFV: III"/>
+        <local:Item Key="item03A3" Value="Kwit SFV: II"/>
         <local:Item Key="item03A4" Value="Odłamek Lazurowej Gwiazdy"/>
         <local:Item Key="item03A5" Value="Klejnot Lazurowej Gwiazdy"/>
         <local:Item Key="item03A6" Value="Czerwona kula"/>
@@ -2315,9 +2315,9 @@
         <local:Item Key="item08DE" Value="Klejnot przetrwania 1"/>
         <local:Item Key="item08DF" Value="Unavailable"/>
         <local:Item Key="item08E0" Value="Klejnot ocieplenia 2"/>
-        <local:Item Key="item08E1" Value="Unavailable"/>
-        <local:Item Key="item08E2" Value="Unavailable"/>
-        <local:Item Key="item08E3" Value="Unavailable"/>
+        <local:Item Key="item08E1" Value="Klejnot dywersji 3"/>
+        <local:Item Key="item08E2" Value="Klejnot akrobacji 3"/>
+        <local:Item Key="item08E3" Value="Klejnot młokosa 3"/>
         <local:Item Key="item08E4" Value="Unavailable"/>
         <local:Item Key="item08E5" Value="Unavailable"/>
         <local:Item Key="item08E6" Value="Unavailable"/>
@@ -2460,7 +2460,7 @@
         <local:Item Key="item096F" Value="Ozdoba kwiatowa (mała)"/>
         <local:Item Key="item0970" Value="Ozdoba kwiatowa (duża)"/>
         <local:Item Key="item0971" Value="Rośliny tropikalne"/>
-        <local:Item Key="item0972" Value="Unavailable"/>
+        <local:Item Key="item0972" Value="Dynie Strasznej Zabawy"/>
         <local:Item Key="item0973" Value="Model statku Piątej Floty"/>
         <local:Item Key="item0974" Value="Model zmodyfikowanego statku"/>
         <local:Item Key="item0975" Value="Model Bazy badawczej"/>
@@ -2471,7 +2471,7 @@
         <local:Item Key="item097A" Value="Maska Rathalosa"/>
         <local:Item Key="item097B" Value="Maska Rathiany"/>
         <local:Item Key="item097C" Value="Maska Kulu-Ya-Ku"/>
-        <local:Item Key="item097D" Value="Unavailable"/>
+        <local:Item Key="item097D" Value="Upiorna ozdoba Strasz. Zabawy"/>
         <local:Item Key="item097E" Value="Balon – felin"/>
         <local:Item Key="item097F" Value="Balon – Grimalkin (biały)"/>
         <local:Item Key="item0980" Value="Balon – Grimalkin (czarny)"/>
@@ -2504,7 +2504,7 @@
         <local:Item Key="item099B" Value="Obraz Szronistego Brzegu 2"/>
         <local:Item Key="item099C" Value="Mapy Nowego Świata"/>
         <local:Item Key="item099D" Value="Portrety koleżkotów 5"/>
-        <local:Item Key="item099E" Value="Unavailable"/>
+        <local:Item Key="item099E" Value="Tkanina Strasznej Zabawy"/>
         <local:Item Key="item099F" Value="Sztandar 1. Floty"/>
         <local:Item Key="item09A0" Value="Sztandar 2. Floty"/>
         <local:Item Key="item09A1" Value="Sztandar 3. Floty"/>
@@ -2519,7 +2519,7 @@
         <local:Item Key="item09AA" Value="Papierowa latarnia"/>
         <local:Item Key="item09AB" Value="Świnkolampa"/>
         <local:Item Key="item09AC" Value="Okrągłe papierowe latarnie"/>
-        <local:Item Key="item09AD" Value="Unavailable"/>
+        <local:Item Key="item09AD" Value="Dyniowa latarnia"/>
         <local:Item Key="item09AE" Value="Zestaw badawczy"/>
         <local:Item Key="item09AF" Value="Zestaw kuchenny"/>
         <local:Item Key="item09B0" Value="Popiersie Rathalosa"/>
@@ -2600,12 +2600,12 @@
         <local:Item Key="item09FB" Value="Figura Tzitzi-Ya-Ku"/>
         <local:Item Key="item09FC" Value="Figura Rajanga"/>
         <local:Item Key="item09FD" Value="Figura Kirina"/>
-        <local:Item Key="item09FE" Value="Unavailable"/>
+        <local:Item Key="item09FE" Value="Figura Lunastry"/>
         <local:Item Key="item09FF" Value="Figura Vaal Hazaka"/>
         <local:Item Key="item0A00" Value="Figura Teostry"/>
         <local:Item Key="item0A01" Value="Figury Gajalaków"/>
         <local:Item Key="item0A02" Value="Figura Brachydiosa"/>
-        <local:Item Key="item0A03" Value="Unavailable"/>
+        <local:Item Key="item0A03" Value="Figura Uragaana"/>
         <local:Item Key="item0A04" Value="Figura Lavasiotha"/>
         <local:Item Key="item0A05" Value="Figura Wielkiej Wdzięczności"/>
         <local:Item Key="item0A06" Value="Marmurowa ściana (biała)"/>
@@ -2621,17 +2621,17 @@
         <local:Item Key="item0A10" Value="Ozdoba na ścianę S.T.A.R.S. 2"/>
         <local:Item Key="item0A11" Value="Maszyna do pisania"/>
         <local:Item Key="item0A12" Value="Skrzynka na przedmioty"/>
-        <local:Item Key="item0A13" Value="Unavailable"/>
+        <local:Item Key="item0A13" Value="Półmisek Strasz. Zabawy"/>
         <local:Item Key="item0A14" Value="Złota Świnka"/>
         <local:Item Key="item0A15" Value="Radosny bałwan"/>
         <local:Item Key="item0A16" Value="Dziękczynny bałwan"/>
         <local:Item Key="item0A17" Value="Kwitnący bałwan"/>
         <local:Item Key="item0A18" Value="Skwierczący bałwan"/>
-        <local:Item Key="item0A19" Value="Unavailable"/>
+        <local:Item Key="item0A19" Value="Przerażający bałwan"/>
         <local:Item Key="item0A1A" Value="Podniebne latarnie"/>
         <local:Item Key="item0A1B" Value="Wspaniała flaga"/>
         <local:Item Key="item0A1C" Value="Wiszące rozmaite kwiaty"/>
-        <local:Item Key="item0A1D" Value="Unavailable"/>
+        <local:Item Key="item0A1D" Value="Świecąca ozdoba Strasz. Zabawy"/>
         <local:Item Key="item0A1E" Value="Płaskorzeźba"/>
         <local:Item Key="item0A1F" Value="Obraz Admirała"/>
         <local:Item Key="item0A20" Value="Wspaniała ozdoba ścienna"/>
@@ -2641,7 +2641,7 @@
         <local:Item Key="item0A24" Value="Wystawne dywany (parter)"/>
         <local:Item Key="item0A25" Value="Wystawne dywany (1. piętro)"/>
         <local:Item Key="item0A26" Value="Ozdoba Pukei-Pukei"/>
-        <local:Item Key="item0A27" Value="Unavailable"/>
+        <local:Item Key="item0A27" Value="Marionetka Strasznej Zabawy"/>
         <local:Item Key="item0A28" Value="Figura Jyuratodusa"/>
         <local:Item Key="item0A29" Value="Figura Barrotha"/>
         <local:Item Key="item0A2A" Value="Figura Diablosa"/>
@@ -2649,13 +2649,13 @@
         <local:Item Key="item0A2C" Value="Figura Xeno'jiiva"/>
         <local:Item Key="item0A2D" Value="Figury Wulgów"/>
         <local:Item Key="item0A2E" Value="Figury roślinożerców"/>
-        <local:Item Key="item0A2F" Value="Unavailable"/>
-        <local:Item Key="item0A30" Value="Unavailable"/>
-        <local:Item Key="item0A31" Value="Unavailable"/>
-        <local:Item Key="item0A32" Value="Unavailable"/>
-        <local:Item Key="item0A33" Value="Unavailable"/>
-        <local:Item Key="item0A34" Value="Unavailable"/>
-        <local:Item Key="item0A35" Value="Unavailable"/>
+        <local:Item Key="item0A2F" Value="Figura Kulve Taroth"/>
+        <local:Item Key="item0A30" Value="Figura Bazelgeza"/>
+        <local:Item Key="item0A31" Value="Figura Deviljho"/>
+        <local:Item Key="item0A32" Value="Figura Shar Ishvalda 1"/>
+        <local:Item Key="item0A33" Value="Figura Shar Ishvalda 2"/>
+        <local:Item Key="item0A34" Value="Figura Alatreona"/>
+        <local:Item Key="item0A35" Value="Figura Fatalisa"/>
         <local:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
         <local:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
         <local:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
@@ -2667,9 +2667,9 @@
         <local:Item Key="item0A3E" Value="The Hunters' Secret Spring (MH The Jazz)"/>
         <local:Item Key="item0A3F" Value="Winds of Adventure (MH The Jazz)"/>
         <local:Item Key="item0A40" Value="Proof of a Hero (MH The Jazz)"/>
-        <local:Item Key="item0A41" Value="Unavailable"/>
-        <local:Item Key="item0A42" Value="Unavailable"/>
-        <local:Item Key="item0A43" Value="Unavailable"/>
+        <local:Item Key="item0A41" Value="The Legend Descends - Fatalis: World Version"/>
+        <local:Item Key="item0A42" Value="Limitless Courage"/>
+        <local:Item Key="item0A43" Value="The Final Confrontation"/>
         <local:Item Key="item0A44" Value="Uczta Boaboa"/>
         <local:Item Key="item0A45" Value="Rzeźba Popo"/>
         <local:Item Key="item0A46" Value="Tratwa Boaboa"/>
@@ -2682,22 +2682,22 @@
         <local:Item Key="item0A4D" Value="Posągi felinów"/>
         <local:Item Key="item0A4E" Value="Gliniane rzeźby Grimalkinów"/>
         <local:Item Key="item0A4F" Value="Rzeźby Popo"/>
-        <local:Item Key="item0A50" Value="Unavailable"/>
+        <local:Item Key="item0A50" Value="Czaszka Beotodusa"/>
         <local:Item Key="item0A51" Value="Sprzęt Boaboa"/>
-        <local:Item Key="item0A52" Value="Unavailable"/>
-        <local:Item Key="item0A53" Value="Unavailable"/>
-        <local:Item Key="item0A54" Value="Unavailable"/>
-        <local:Item Key="item0A55" Value="Unavailable"/>
-        <local:Item Key="item0A56" Value="Unavailable"/>
-        <local:Item Key="item0A57" Value="Unavailable"/>
-        <local:Item Key="item0A58" Value="Unavailable"/>
-        <local:Item Key="item0A59" Value="Unavailable"/>
-        <local:Item Key="item0A5A" Value="Unavailable"/>
-        <local:Item Key="item0A5B" Value="Unavailable"/>
-        <local:Item Key="item0A5C" Value="Unavailable"/>
-        <local:Item Key="item0A5D" Value="Unavailable"/>
-        <local:Item Key="item0A5E" Value="Unavailable"/>
-        <local:Item Key="item0A5F" Value="Unavailable"/>
+        <local:Item Key="item0A52" Value="Zgromadzenie Lynianów!"/>
+        <local:Item Key="item0A53" Value="Lalka Lumu (biała)"/>
+        <local:Item Key="item0A54" Value="Lalka Lumu (fioletowa)"/>
+        <local:Item Key="item0A55" Value="Lalka krecik"/>
+        <local:Item Key="item0A56" Value="Lalka krecik (zielona)"/>
+        <local:Item Key="item0A57" Value="Lalka krecik (żółta)"/>
+        <local:Item Key="item0A58" Value="Lalka krecik (brzoskwiniowa)"/>
+        <local:Item Key="item0A59" Value="Lalka krecik (czarna)"/>
+        <local:Item Key="item0A5A" Value="Lalka krecik (czerwona)"/>
+        <local:Item Key="item0A5B" Value="Lalka krecik (biała)"/>
+        <local:Item Key="item0A5C" Value="Obraz Fatalisa"/>
+        <local:Item Key="item0A5D" Value="Lalka Rajang (czarna)"/>
+        <local:Item Key="item0A5E" Value="Lalka Rajang (złota)"/>
+        <local:Item Key="item0A5F" Value="Sztandar Schrade"/>
         <local:Item Key="item0A60" Value="Unavailable"/>
         <local:Item Key="item0A61" Value="Unavailable"/>
         <local:Item Key="item0A62" Value="Unavailable"/>
@@ -2723,7 +2723,7 @@
         <local:Item Key="item0A76" Value="Bałwan"/>
         <local:Item Key="item0A77" Value="Kwit z Namiellem"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
-        <local:Item Key="item0A79" Value="Unavailable"/>
+        <local:Item Key="item0A79" Value="Kwit z Velkhanem"/>
         <local:Item Key="item0A7A" Value="Kwit Mrozokła"/>
         <local:Item Key="item0A7B" Value="Zielone zioło"/>
         <local:Item Key="item0A7C" Value="Czerwone zioło"/>
@@ -2767,11 +2767,11 @@
         <local:Item Key="item0AA2" Value="Kwit ostrzalnika"/>
         <local:Item Key="item0AA3" Value="Kwit derkacza puchatego II"/>
         <local:Item Key="item0AA4" Value="Kwit Skwierczącej Przyprawy"/>
-        <local:Item Key="item0AA5" Value="Kwit Zająca pilota"/>
+        <local:Item Key="item0AA5" Value="Kwit Zająca pasterskiego"/>
         <local:Item Key="item0AA6" Value="Pogodny kwit z Kantyny"/>
-        <local:Item Key="item0AA7" Value="Unavailable"/>
-        <local:Item Key="item0AA8" Value="Unavailable"/>
-        <local:Item Key="item0AA9" Value="Unavailable"/>
+        <local:Item Key="item0AA7" Value="Kwit Strasznej Zabawy"/>
+        <local:Item Key="item0AA8" Value="Czarna bandana"/>
+        <local:Item Key="item0AA9" Value="Kwit na szal"/>
         <local:Item Key="item0AAA" Value="Symbol jedności"/>
         <local:Item Key="item0AAB" Value="Unavailable"/>
         <local:Item Key="item0AAC" Value="Złoty kwit"/>
@@ -2779,9 +2779,9 @@
         <local:Item Key="item0AAE" Value="Wspaniała skórka"/>
         <local:Item Key="item0AAF" Value="Kwit VIP Radości"/>
         <local:Item Key="item0AB0" Value="Kwit VIP Podzięki"/>
-        <local:Item Key="item0AB1" Value="Kwity VIP Rozkwitu"/>
+        <local:Item Key="item0AB1" Value="Kwit VIP Rozkwitu"/>
         <local:Item Key="item0AB2" Value="Kwit VIP Skwier. Przyprawy"/>
-        <local:Item Key="item0AB3" Value="Unavailable"/>
+        <local:Item Key="item0AB3" Value="Kwit VIP Strasznej Zabawy"/>
         <local:Item Key="item0AB4" Value="Przeganiająca kula"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
         <local:Item Key="item0AB6" Value="Bryła smoczej mocy (miecz dwur.)"/>
@@ -2798,22 +2798,22 @@
         <local:Item Key="item0AC1" Value="Bryła smoczej mocy (strzał)"/>
         <local:Item Key="item0AC2" Value="Bryła smoczej mocy (działo)"/>
         <local:Item Key="item0AC3" Value="Bryła smoczej mocy (łuk)"/>
-        <local:Item Key="item0AC4" Value="Unavailable"/>
-        <local:Item Key="item0AC5" Value="Unavailable"/>
-        <local:Item Key="item0AC6" Value="Unavailable"/>
-        <local:Item Key="item0AC7" Value="Unavailable"/>
-        <local:Item Key="item0AC8" Value="Unavailable"/>
-        <local:Item Key="item0AC9" Value="Unavailable"/>
+        <local:Item Key="item0AC4" Value="Okruch Fatalisa"/>
+        <local:Item Key="item0AC5" Value="Kora Fatalisa"/>
+        <local:Item Key="item0AC6" Value="Klatka piersiowa Fatalisa"/>
+        <local:Item Key="item0AC7" Value="Twardoróg Fatalisa"/>
+        <local:Item Key="item0AC8" Value="Złe oko Fatalisa"/>
+        <local:Item Key="item0AC9" Value="Skrzydlisko Fatalisa"/>
         <local:Item Key="item0ACA" Value="Kwit roślinożercy I"/>
         <local:Item Key="item0ACB" Value="Kwit roślinożercy II"/>
         <local:Item Key="item0ACC" Value="Kwit wewnętrznego oka"/>
-        <local:Item Key="item0ACD" Value="Unavailable"/>
+        <local:Item Key="item0ACD" Value="Napakowany kwit+"/>
         <local:Item Key="item0ACE" Value="Unavailable"/>
         <local:Item Key="item0ACF" Value="Unavailable"/>
         <local:Item Key="item0AD0" Value="Unavailable"/>
         <local:Item Key="item0AD1" Value="Unavailable"/>
-        <local:Item Key="item0AD2" Value="Unavailable"/>
-        <local:Item Key="item0AD3" Value="Unavailable"/>
+        <local:Item Key="item0AD2" Value="Kwit z Zinogrem"/>
+        <local:Item Key="item0AD3" Value="Kwit ze Zwalistym Tigrexem"/>
         <local:Item Key="item0AD4" Value="Unavailable"/>
         <local:Item Key="item0AD5" Value="Unavailable"/>
         <local:Item Key="item0AD6" Value="Unavailable"/>

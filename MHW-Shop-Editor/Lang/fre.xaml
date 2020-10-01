@@ -971,9 +971,9 @@
         <local:Item Key="item039E" Value="HARDUMMY"/>
         <local:Item Key="item039F" Value="HARDUMMY"/>
         <local:Item Key="item03A0" Value="Ticket Mega Man"/>
-        <local:Item Key="item03A1" Value="HARDUMMY"/>
-        <local:Item Key="item03A2" Value="HARDUMMY"/>
-        <local:Item Key="item03A3" Value="HARDUMMY"/>
+        <local:Item Key="item03A1" Value="Ticket SFV"/>
+        <local:Item Key="item03A2" Value="Ticket SFV III"/>
+        <local:Item Key="item03A3" Value="Ticket SFV II"/>
         <local:Item Key="item03A4" Value="Fragment d'astre bleu"/>
         <local:Item Key="item03A5" Value="Gemme d'astre bleu"/>
         <local:Item Key="item03A6" Value="Orbe rouge"/>
@@ -2315,9 +2315,9 @@
         <local:Item Key="item08DE" Value="Joyau de la nature &lt;STYL MOJI_YELLOW_DEFAULT&gt;[1]&lt;/STYL&gt;"/>
         <local:Item Key="item08DF" Value="Unavailable"/>
         <local:Item Key="item08E0" Value="Joyau chauffant &lt;STYL MOJI_YELLOW_DEFAULT&gt;[2]&lt;/STYL&gt;"/>
-        <local:Item Key="item08E1" Value="Unavailable"/>
-        <local:Item Key="item08E2" Value="Unavailable"/>
-        <local:Item Key="item08E3" Value="Unavailable"/>
+        <local:Item Key="item08E1" Value="Joyau de la diversion &lt;STYL MOJI_YELLOW_DEFAULT&gt;[3]&lt;/STYL&gt;"/>
+        <local:Item Key="item08E2" Value="Joyau de l'acrobate &lt;STYL MOJI_YELLOW_DEFAULT&gt;[3]&lt;/STYL&gt;"/>
+        <local:Item Key="item08E3" Value="Joyau du rasoir &lt;STYL MOJI_YELLOW_DEFAULT&gt;[3]&lt;/STYL&gt;"/>
         <local:Item Key="item08E4" Value="Unavailable"/>
         <local:Item Key="item08E5" Value="Unavailable"/>
         <local:Item Key="item08E6" Value="Unavailable"/>
@@ -2460,7 +2460,7 @@
         <local:Item Key="item096F" Value="Bouquet de roses (petit)"/>
         <local:Item Key="item0970" Value="Bouquet de roses (grand)"/>
         <local:Item Key="item0971" Value="Plantes tropicales"/>
-        <local:Item Key="item0972" Value="Unavailable"/>
+        <local:Item Key="item0972" Value="Citrouilles terrifiantes"/>
         <local:Item Key="item0973" Value="Maquette - Navire de la Cinquième"/>
         <local:Item Key="item0974" Value="Maquette - Navire de combat"/>
         <local:Item Key="item0975" Value="Maquette - Poste de recherche"/>
@@ -2471,7 +2471,7 @@
         <local:Item Key="item097A" Value="Masque Rathalos"/>
         <local:Item Key="item097B" Value="Masque Rathian"/>
         <local:Item Key="item097C" Value="Masque Kulu-Ya-Ku"/>
-        <local:Item Key="item097D" Value="Unavailable"/>
+        <local:Item Key="item097D" Value="Drap fantôme"/>
         <local:Item Key="item097E" Value="Tête Felyne"/>
         <local:Item Key="item097F" Value="Tête Grimalkyne (blanc)"/>
         <local:Item Key="item0980" Value="Tête Grimalkyne (noir)"/>
@@ -2504,7 +2504,7 @@
         <local:Item Key="item099B" Value="Tableau Givre éternel 2"/>
         <local:Item Key="item099C" Value="Cartes du Nouveau Monde"/>
         <local:Item Key="item099D" Value="Portraits de Palico 5"/>
-        <local:Item Key="item099E" Value="Unavailable"/>
+        <local:Item Key="item099E" Value="Tissu terrifiant"/>
         <local:Item Key="item099F" Value="Bannière de la Première flotte"/>
         <local:Item Key="item09A0" Value="Bannière de la Deuxième flotte"/>
         <local:Item Key="item09A1" Value="Bannière de la Troisième flotte"/>
@@ -2519,7 +2519,7 @@
         <local:Item Key="item09AA" Value="Lampe de papier"/>
         <local:Item Key="item09AB" Value="Lampe Poogie"/>
         <local:Item Key="item09AC" Value="Lanternes de papier"/>
-        <local:Item Key="item09AD" Value="Unavailable"/>
+        <local:Item Key="item09AD" Value="Lanterne-citrouille"/>
         <local:Item Key="item09AE" Value="Laboratorium"/>
         <local:Item Key="item09AF" Value="Kitchenette"/>
         <local:Item Key="item09B0" Value="Buste Rathalos"/>
@@ -2600,12 +2600,12 @@
         <local:Item Key="item09FB" Value="Figurine - Tzitzi-Ya-Ku"/>
         <local:Item Key="item09FC" Value="Figurine - Rajang"/>
         <local:Item Key="item09FD" Value="Figurine - Kirin"/>
-        <local:Item Key="item09FE" Value="Unavailable"/>
+        <local:Item Key="item09FE" Value="Figurine - Lunastra"/>
         <local:Item Key="item09FF" Value="Figurine - Vaal Hazak"/>
         <local:Item Key="item0A00" Value="Figurine - Teostra"/>
         <local:Item Key="item0A01" Value="Figurines - Gajalaka"/>
         <local:Item Key="item0A02" Value="Figurine - Brachydios"/>
-        <local:Item Key="item0A03" Value="Unavailable"/>
+        <local:Item Key="item0A03" Value="Figurine - Uragaan"/>
         <local:Item Key="item0A04" Value="Figurine - Lavasioth"/>
         <local:Item Key="item0A05" Value="Figurines - Lune et Soleil"/>
         <local:Item Key="item0A06" Value="Mur en marbre (blanc)"/>
@@ -2621,17 +2621,17 @@
         <local:Item Key="item0A10" Value="Mur d'honneur S.T.A.R.S. 2"/>
         <local:Item Key="item0A11" Value="Machine à écrire"/>
         <local:Item Key="item0A12" Value="Coffre à objets"/>
-        <local:Item Key="item0A13" Value="Unavailable"/>
+        <local:Item Key="item0A13" Value="Friandises de l'épouvante"/>
         <local:Item Key="item0A14" Value="Poogie en or"/>
         <local:Item Key="item0A15" Value="Mini bonhomme de neige"/>
         <local:Item Key="item0A16" Value="Extra-terrestre de neige"/>
         <local:Item Key="item0A17" Value="Bonhomme de neige floral"/>
         <local:Item Key="item0A18" Value="Bonhomme de neige fêtard"/>
-        <local:Item Key="item0A19" Value="Unavailable"/>
+        <local:Item Key="item0A19" Value="Bonhomme de neige terrifiant"/>
         <local:Item Key="item0A1A" Value="Lanternes célestes"/>
         <local:Item Key="item0A1B" Value="Bannière somptueuse"/>
         <local:Item Key="item0A1C" Value="Assortiment de roses"/>
-        <local:Item Key="item0A1D" Value="Unavailable"/>
+        <local:Item Key="item0A1D" Value="Lueur spectrale"/>
         <local:Item Key="item0A1E" Value="Relief"/>
         <local:Item Key="item0A1F" Value="L'Amiral"/>
         <local:Item Key="item0A20" Value="Bannière murale somptueuse"/>
@@ -2641,7 +2641,7 @@
         <local:Item Key="item0A24" Value="Tapis floral (RC)"/>
         <local:Item Key="item0A25" Value="Tapis floral (ETG)"/>
         <local:Item Key="item0A26" Value="Char de carnaval Pukei-Pukei"/>
-        <local:Item Key="item0A27" Value="Unavailable"/>
+        <local:Item Key="item0A27" Value="Pantin terrifiant"/>
         <local:Item Key="item0A28" Value="Figurine - Jyuratodus"/>
         <local:Item Key="item0A29" Value="Figurine - Barroth"/>
         <local:Item Key="item0A2A" Value="Figurine - Diablos"/>
@@ -2649,13 +2649,13 @@
         <local:Item Key="item0A2C" Value="Figurine - Xeno'jiiva"/>
         <local:Item Key="item0A2D" Value="Figurines - Wulg"/>
         <local:Item Key="item0A2E" Value="Figurines - Herbivores"/>
-        <local:Item Key="item0A2F" Value="Unavailable"/>
-        <local:Item Key="item0A30" Value="Unavailable"/>
-        <local:Item Key="item0A31" Value="Unavailable"/>
-        <local:Item Key="item0A32" Value="Unavailable"/>
-        <local:Item Key="item0A33" Value="Unavailable"/>
-        <local:Item Key="item0A34" Value="Unavailable"/>
-        <local:Item Key="item0A35" Value="Unavailable"/>
+        <local:Item Key="item0A2F" Value="Figurine - Kulve Taroth"/>
+        <local:Item Key="item0A30" Value="Figurine - Bazelgeuse"/>
+        <local:Item Key="item0A31" Value="Figurine - Deviljho"/>
+        <local:Item Key="item0A32" Value="Figurine - Shara Ishvalda 1"/>
+        <local:Item Key="item0A33" Value="Figurine - Shara Ishvalda 2"/>
+        <local:Item Key="item0A34" Value="Figurine - Alatreon"/>
+        <local:Item Key="item0A35" Value="Figurine - Fatalis"/>
         <local:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
         <local:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
         <local:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
@@ -2667,9 +2667,9 @@
         <local:Item Key="item0A3E" Value="The Hunters' Secret Spring (MH The Jazz)"/>
         <local:Item Key="item0A3F" Value="Winds of Adventure (MH The Jazz)"/>
         <local:Item Key="item0A40" Value="Proof of a Hero (MH The Jazz)"/>
-        <local:Item Key="item0A41" Value="Unavailable"/>
-        <local:Item Key="item0A42" Value="Unavailable"/>
-        <local:Item Key="item0A43" Value="Unavailable"/>
+        <local:Item Key="item0A41" Value="The Legend Descends - Fatalis: World Version"/>
+        <local:Item Key="item0A42" Value="Limitless Courage"/>
+        <local:Item Key="item0A43" Value="The Final Confrontation"/>
         <local:Item Key="item0A44" Value="Festin Boaboa"/>
         <local:Item Key="item0A45" Value="Sculpture Popo"/>
         <local:Item Key="item0A46" Value="Radeau Boaboa"/>
@@ -2682,22 +2682,22 @@
         <local:Item Key="item0A4D" Value="Statues Felynes"/>
         <local:Item Key="item0A4E" Value="Statues Grimalkynes"/>
         <local:Item Key="item0A4F" Value="Sculptures Popo"/>
-        <local:Item Key="item0A50" Value="Unavailable"/>
+        <local:Item Key="item0A50" Value="Crâne de Beotodus"/>
         <local:Item Key="item0A51" Value="Équipement Boaboa"/>
-        <local:Item Key="item0A52" Value="Unavailable"/>
-        <local:Item Key="item0A53" Value="Unavailable"/>
-        <local:Item Key="item0A54" Value="Unavailable"/>
-        <local:Item Key="item0A55" Value="Unavailable"/>
-        <local:Item Key="item0A56" Value="Unavailable"/>
-        <local:Item Key="item0A57" Value="Unavailable"/>
-        <local:Item Key="item0A58" Value="Unavailable"/>
-        <local:Item Key="item0A59" Value="Unavailable"/>
-        <local:Item Key="item0A5A" Value="Unavailable"/>
-        <local:Item Key="item0A5B" Value="Unavailable"/>
-        <local:Item Key="item0A5C" Value="Unavailable"/>
-        <local:Item Key="item0A5D" Value="Unavailable"/>
-        <local:Item Key="item0A5E" Value="Unavailable"/>
-        <local:Item Key="item0A5F" Value="Unavailable"/>
+        <local:Item Key="item0A52" Value="Lyniens, rassemblement !"/>
+        <local:Item Key="item0A53" Value="Poupée Paolumu"/>
+        <local:Item Key="item0A54" Value="Poupée Paolumu belladone"/>
+        <local:Item Key="item0A55" Value="Poupée taupinette"/>
+        <local:Item Key="item0A56" Value="Poupée taupinette des mousses"/>
+        <local:Item Key="item0A57" Value="Poupée taupinette des roches"/>
+        <local:Item Key="item0A58" Value="Poupée taupinette soyeuse"/>
+        <local:Item Key="item0A59" Value="Poupée taupinette épineuse"/>
+        <local:Item Key="item0A5A" Value="Poupée taupinette bagarreuse"/>
+        <local:Item Key="item0A5B" Value="Poupée taupinette des neiges"/>
+        <local:Item Key="item0A5C" Value="Peinture Fatalis"/>
+        <local:Item Key="item0A5D" Value="Poupée Rajang"/>
+        <local:Item Key="item0A5E" Value="Poupée Rajang orage"/>
+        <local:Item Key="item0A5F" Value="Bannière de Schrade"/>
         <local:Item Key="item0A60" Value="Unavailable"/>
         <local:Item Key="item0A61" Value="Unavailable"/>
         <local:Item Key="item0A62" Value="Unavailable"/>
@@ -2723,7 +2723,7 @@
         <local:Item Key="item0A76" Value="Bonhomme de neige"/>
         <local:Item Key="item0A77" Value="Ticket Namielle"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
-        <local:Item Key="item0A79" Value="Unavailable"/>
+        <local:Item Key="item0A79" Value="Ticket Velkana"/>
         <local:Item Key="item0A7A" Value="Ticket Barioth crocgivre"/>
         <local:Item Key="item0A7B" Value="Plante verte"/>
         <local:Item Key="item0A7C" Value="Plante rouge"/>
@@ -2767,11 +2767,11 @@
         <local:Item Key="item0AA2" Value="Ticket Poissaiguiseur"/>
         <local:Item Key="item0AA3" Value="Ticket Marouette douce II"/>
         <local:Item Key="item0AA4" Value="Ticket Carnaval"/>
-        <local:Item Key="item0AA5" Value="Ticket Lièvre des steppes"/>
+        <local:Item Key="item0AA5" Value="Ticket Lièvre des prairies"/>
         <local:Item Key="item0AA6" Value="Ticket Cantine (liqueur)"/>
-        <local:Item Key="item0AA7" Value="Unavailable"/>
-        <local:Item Key="item0AA8" Value="Unavailable"/>
-        <local:Item Key="item0AA9" Value="Unavailable"/>
+        <local:Item Key="item0AA7" Value="Ticket Terreur"/>
+        <local:Item Key="item0AA8" Value="Bandana noir"/>
+        <local:Item Key="item0AA9" Value="Ticket Écharpe"/>
         <local:Item Key="item0AAA" Value="Symbole d'amitié"/>
         <local:Item Key="item0AAB" Value="Unavailable"/>
         <local:Item Key="item0AAC" Value="Ticket Macaque d'or"/>
@@ -2781,7 +2781,7 @@
         <local:Item Key="item0AB0" Value="Ticket Cosmos VIP"/>
         <local:Item Key="item0AB1" Value="Ticket Floraison VIP"/>
         <local:Item Key="item0AB2" Value="Ticket Carnaval VIP"/>
-        <local:Item Key="item0AB3" Value="Unavailable"/>
+        <local:Item Key="item0AB3" Value="Ticket Terreur VIP"/>
         <local:Item Key="item0AB4" Value="Capsule puante"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
         <local:Item Key="item0AB6" Value="Draconite - Trancheur"/>
@@ -2798,22 +2798,22 @@
         <local:Item Key="item0AC1" Value="Draconite - Fusil"/>
         <local:Item Key="item0AC2" Value="Draconite - Obusier"/>
         <local:Item Key="item0AC3" Value="Draconite - Arc"/>
-        <local:Item Key="item0AC4" Value="Unavailable"/>
-        <local:Item Key="item0AC5" Value="Unavailable"/>
-        <local:Item Key="item0AC6" Value="Unavailable"/>
-        <local:Item Key="item0AC7" Value="Unavailable"/>
-        <local:Item Key="item0AC8" Value="Unavailable"/>
-        <local:Item Key="item0AC9" Value="Unavailable"/>
+        <local:Item Key="item0AC4" Value="Éclat Fatalis"/>
+        <local:Item Key="item0AC5" Value="Cortex Fatalis"/>
+        <local:Item Key="item0AC6" Value="Pectus Fatalis"/>
+        <local:Item Key="item0AC7" Value="Vouge Fatalis"/>
+        <local:Item Key="item0AC8" Value="Œil maudit Fatalis"/>
+        <local:Item Key="item0AC9" Value="Égide Fatalis"/>
         <local:Item Key="item0ACA" Value="Ticket Herbivore"/>
         <local:Item Key="item0ACB" Value="Ticket Herbivore II"/>
         <local:Item Key="item0ACC" Value="Ticket Troisième œil"/>
-        <local:Item Key="item0ACD" Value="Unavailable"/>
+        <local:Item Key="item0ACD" Value="Ticket Musclor +"/>
         <local:Item Key="item0ACE" Value="Unavailable"/>
         <local:Item Key="item0ACF" Value="Unavailable"/>
         <local:Item Key="item0AD0" Value="Unavailable"/>
         <local:Item Key="item0AD1" Value="Unavailable"/>
-        <local:Item Key="item0AD2" Value="Unavailable"/>
-        <local:Item Key="item0AD3" Value="Unavailable"/>
+        <local:Item Key="item0AD2" Value="Ticket Zinogre"/>
+        <local:Item Key="item0AD3" Value="Ticket Tigrex berserk"/>
         <local:Item Key="item0AD4" Value="Unavailable"/>
         <local:Item Key="item0AD5" Value="Unavailable"/>
         <local:Item Key="item0AD6" Value="Unavailable"/>

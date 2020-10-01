@@ -971,9 +971,9 @@
         <local:Item Key="item039E" Value="HARDUMMY"/>
         <local:Item Key="item039F" Value="HARDUMMY"/>
         <local:Item Key="item03A0" Value="록맨 티켓"/>
-        <local:Item Key="item03A1" Value="HARDUMMY"/>
-        <local:Item Key="item03A2" Value="HARDUMMY"/>
-        <local:Item Key="item03A3" Value="HARDUMMY"/>
+        <local:Item Key="item03A1" Value="SF V 티켓"/>
+        <local:Item Key="item03A2" Value="SF V 티켓Ⅱ'"/>
+        <local:Item Key="item03A3" Value="SF V 티켓Ⅱ"/>
         <local:Item Key="item03A4" Value="파란별의 조각"/>
         <local:Item Key="item03A5" Value="파란별의 보옥"/>
         <local:Item Key="item03A6" Value="레드 오브"/>
@@ -2315,9 +2315,9 @@
         <local:Item Key="item08DE" Value="환경주【1】"/>
         <local:Item Key="item08DF" Value="Unavailable"/>
         <local:Item Key="item08E0" Value="추위 내성주【２】"/>
-        <local:Item Key="item08E1" Value="Unavailable"/>
-        <local:Item Key="item08E2" Value="Unavailable"/>
-        <local:Item Key="item08E3" Value="Unavailable"/>
+        <local:Item Key="item08E1" Value="양동주【３】"/>
+        <local:Item Key="item08E2" Value="낙법주【３】"/>
+        <local:Item Key="item08E3" Value="삭격주【３】"/>
         <local:Item Key="item08E4" Value="Unavailable"/>
         <local:Item Key="item08E5" Value="Unavailable"/>
         <local:Item Key="item08E6" Value="Unavailable"/>
@@ -2460,7 +2460,7 @@
         <local:Item Key="item096F" Value="꽃장식【소】"/>
         <local:Item Key="item0970" Value="꽃장식【대】"/>
         <local:Item Key="item0971" Value="열대 화분"/>
-        <local:Item Key="item0972" Value="Unavailable"/>
+        <local:Item Key="item0972" Value="오싹한 호박"/>
         <local:Item Key="item0973" Value="모형【5기단 배】"/>
         <local:Item Key="item0974" Value="모형【개조한 배】"/>
         <local:Item Key="item0975" Value="모형【연구기지】"/>
@@ -2471,7 +2471,7 @@
         <local:Item Key="item097A" Value="가면【화룡】"/>
         <local:Item Key="item097B" Value="가면【자화룡】"/>
         <local:Item Key="item097C" Value="가면【소조】"/>
-        <local:Item Key="item097D" Value="Unavailable"/>
+        <local:Item Key="item097D" Value="오싹한 줄 장식①"/>
         <local:Item Key="item097E" Value="아이루 풍선"/>
         <local:Item Key="item097F" Value="테토루 풍선-흰색"/>
         <local:Item Key="item0980" Value="테토루 풍선-검은색"/>
@@ -2504,7 +2504,7 @@
         <local:Item Key="item099B" Value="그림【바다 건너 극한지②】"/>
         <local:Item Key="item099C" Value="대형 지도"/>
         <local:Item Key="item099D" Value="그림【아이루⑤】"/>
-        <local:Item Key="item099E" Value="Unavailable"/>
+        <local:Item Key="item099E" Value="오싹한 천"/>
         <local:Item Key="item099F" Value="단기【1기단】"/>
         <local:Item Key="item09A0" Value="단기【2기단】"/>
         <local:Item Key="item09A1" Value="단기【3기단】"/>
@@ -2519,7 +2519,7 @@
         <local:Item Key="item09AA" Value="등롱"/>
         <local:Item Key="item09AB" Value="푸기 램프"/>
         <local:Item Key="item09AC" Value="등불①"/>
-        <local:Item Key="item09AD" Value="Unavailable"/>
+        <local:Item Key="item09AD" Value="호박 랜턴"/>
         <local:Item Key="item09AE" Value="연구 세트"/>
         <local:Item Key="item09AF" Value="키친 세트"/>
         <local:Item Key="item09B0" Value="석상【화룡】"/>
@@ -2600,12 +2600,12 @@
         <local:Item Key="item09FB" Value="피규어【현조】"/>
         <local:Item Key="item09FC" Value="피규어【금사자】"/>
         <local:Item Key="item09FD" Value="피규어【환수】"/>
-        <local:Item Key="item09FE" Value="Unavailable"/>
+        <local:Item Key="item09FE" Value="피규어【염비룡】"/>
         <local:Item Key="item09FF" Value="피규어【시투룡】"/>
         <local:Item Key="item0A00" Value="피규어【염왕룡】"/>
         <local:Item Key="item0A01" Value="피규어【기면족】"/>
         <local:Item Key="item0A02" Value="피규어【쇄룡】"/>
-        <local:Item Key="item0A03" Value="Unavailable"/>
+        <local:Item Key="item0A03" Value="피규어【폭추룡】"/>
         <local:Item Key="item0A04" Value="피규어【용암룡】"/>
         <local:Item Key="item0A05" Value="피규어【대감사】"/>
         <local:Item Key="item0A06" Value="대리석 벽【백】"/>
@@ -2621,17 +2621,17 @@
         <local:Item Key="item0A10" Value="S.T.A.R.S. 벽걸이②"/>
         <local:Item Key="item0A11" Value="타자기"/>
         <local:Item Key="item0A12" Value="아이템 박스"/>
-        <local:Item Key="item0A13" Value="Unavailable"/>
+        <local:Item Key="item0A13" Value="오싹한 요리 세트"/>
         <local:Item Key="item0A14" Value="푸기 황금 동상"/>
         <local:Item Key="item0A15" Value="눈사람【만복】"/>
         <local:Item Key="item0A16" Value="눈사람【대감사】"/>
         <local:Item Key="item0A17" Value="눈사람【만개】"/>
         <local:Item Key="item0A18" Value="눈사람【정열】"/>
-        <local:Item Key="item0A19" Value="Unavailable"/>
+        <local:Item Key="item0A19" Value="눈사람【호러】"/>
         <local:Item Key="item0A1A" Value="풍등"/>
         <local:Item Key="item0A1B" Value="호화로운 깃발 장식"/>
         <local:Item Key="item0A1C" Value="붉은 꽃 화분"/>
-        <local:Item Key="item0A1D" Value="Unavailable"/>
+        <local:Item Key="item0A1D" Value="오싹한 줄 장식②"/>
         <local:Item Key="item0A1E" Value="돋을새김"/>
         <local:Item Key="item0A1F" Value="그림【대단장】"/>
         <local:Item Key="item0A20" Value="호화로운 벽걸이"/>
@@ -2641,7 +2641,7 @@
         <local:Item Key="item0A24" Value="화려한 융단(1층)"/>
         <local:Item Key="item0A25" Value="화려한 융단(2층)"/>
         <local:Item Key="item0A26" Value="푸케푸케 장식품"/>
-        <local:Item Key="item0A27" Value="Unavailable"/>
+        <local:Item Key="item0A27" Value="오싹한 허수아비"/>
         <local:Item Key="item0A28" Value="피규어【이어룡】"/>
         <local:Item Key="item0A29" Value="피규어【토사룡】"/>
         <local:Item Key="item0A2A" Value="피규어【각룡】"/>
@@ -2649,13 +2649,13 @@
         <local:Item Key="item0A2C" Value="피규어【명등룡】"/>
         <local:Item Key="item0A2D" Value="피규어【우르그】"/>
         <local:Item Key="item0A2E" Value="피규어【초식】"/>
-        <local:Item Key="item0A2F" Value="Unavailable"/>
-        <local:Item Key="item0A30" Value="Unavailable"/>
-        <local:Item Key="item0A31" Value="Unavailable"/>
-        <local:Item Key="item0A32" Value="Unavailable"/>
-        <local:Item Key="item0A33" Value="Unavailable"/>
-        <local:Item Key="item0A34" Value="Unavailable"/>
-        <local:Item Key="item0A35" Value="Unavailable"/>
+        <local:Item Key="item0A2F" Value="피규어【난휘룡】"/>
+        <local:Item Key="item0A30" Value="피규어【폭린룡】"/>
+        <local:Item Key="item0A31" Value="피규어【공폭룡】"/>
+        <local:Item Key="item0A32" Value="피규어【지제룡①】"/>
+        <local:Item Key="item0A33" Value="피규어【지제룡②】"/>
+        <local:Item Key="item0A34" Value="피규어【황흑룡】"/>
+        <local:Item Key="item0A35" Value="피규어【흑룡】"/>
         <local:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
         <local:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
         <local:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
@@ -2667,9 +2667,9 @@
         <local:Item Key="item0A3E" Value="The Hunters' Secret Spring (MH The Jazz)"/>
         <local:Item Key="item0A3F" Value="Winds of Adventure (MH The Jazz)"/>
         <local:Item Key="item0A40" Value="Proof of a Hero (MH The Jazz)"/>
-        <local:Item Key="item0A41" Value="Unavailable"/>
-        <local:Item Key="item0A42" Value="Unavailable"/>
-        <local:Item Key="item0A43" Value="Unavailable"/>
+        <local:Item Key="item0A41" Value="The Legend Descends - Fatalis: World version"/>
+        <local:Item Key="item0A42" Value="Limitless Courage"/>
+        <local:Item Key="item0A43" Value="The Final Confrontation"/>
         <local:Item Key="item0A44" Value="보와보와 스페셜"/>
         <local:Item Key="item0A45" Value="포포 모형"/>
         <local:Item Key="item0A46" Value="보와보와 뗏목"/>
@@ -2682,22 +2682,22 @@
         <local:Item Key="item0A4D" Value="고양이 석상"/>
         <local:Item Key="item0A4E" Value="테토루 진흙인형"/>
         <local:Item Key="item0A4F" Value="포포 모형【무리】"/>
-        <local:Item Key="item0A50" Value="Unavailable"/>
+        <local:Item Key="item0A50" Value="브란토도스의 머리뼈"/>
         <local:Item Key="item0A51" Value="보와보와의 장비"/>
-        <local:Item Key="item0A52" Value="Unavailable"/>
-        <local:Item Key="item0A53" Value="Unavailable"/>
-        <local:Item Key="item0A54" Value="Unavailable"/>
-        <local:Item Key="item0A55" Value="Unavailable"/>
-        <local:Item Key="item0A56" Value="Unavailable"/>
-        <local:Item Key="item0A57" Value="Unavailable"/>
-        <local:Item Key="item0A58" Value="Unavailable"/>
-        <local:Item Key="item0A59" Value="Unavailable"/>
-        <local:Item Key="item0A5A" Value="Unavailable"/>
-        <local:Item Key="item0A5B" Value="Unavailable"/>
-        <local:Item Key="item0A5C" Value="Unavailable"/>
-        <local:Item Key="item0A5D" Value="Unavailable"/>
-        <local:Item Key="item0A5E" Value="Unavailable"/>
-        <local:Item Key="item0A5F" Value="Unavailable"/>
+        <local:Item Key="item0A52" Value="수인 대집합!"/>
+        <local:Item Key="item0A53" Value="우르무 인형【백】"/>
+        <local:Item Key="item0A54" Value="우르무 인형【보라】"/>
+        <local:Item Key="item0A55" Value="모그이 인형"/>
+        <local:Item Key="item0A56" Value="모그이 인형【녹】"/>
+        <local:Item Key="item0A57" Value="모그이 인형【황】"/>
+        <local:Item Key="item0A58" Value="모그이 인형【분홍】"/>
+        <local:Item Key="item0A59" Value="모그이 인형【흑】"/>
+        <local:Item Key="item0A5A" Value="모그이 인형【적】"/>
+        <local:Item Key="item0A5B" Value="모그이 인형【백】"/>
+        <local:Item Key="item0A5C" Value="그림【흑룡전설】"/>
+        <local:Item Key="item0A5D" Value="라잔 인형【흑】"/>
+        <local:Item Key="item0A5E" Value="라잔 인형【금】"/>
+        <local:Item Key="item0A5F" Value="슈레이드의 깃발 장식"/>
         <local:Item Key="item0A60" Value="Unavailable"/>
         <local:Item Key="item0A61" Value="Unavailable"/>
         <local:Item Key="item0A62" Value="Unavailable"/>
@@ -2723,7 +2723,7 @@
         <local:Item Key="item0A76" Value="눈사람"/>
         <local:Item Key="item0A77" Value="명룡 티켓"/>
         <local:Item Key="item0A78" Value="Unavailable"/>
-        <local:Item Key="item0A79" Value="Unavailable"/>
+        <local:Item Key="item0A79" Value="빙룡 티켓"/>
         <local:Item Key="item0A7A" Value="빙아룡 티켓"/>
         <local:Item Key="item0A7B" Value="녹색 약초"/>
         <local:Item Key="item0A7C" Value="빨간 약초"/>
@@ -2767,11 +2767,11 @@
         <local:Item Key="item0AA2" Value="예리어 티켓"/>
         <local:Item Key="item0AA3" Value="폭신폭신 티켓Ⅱ"/>
         <local:Item Key="item0AA4" Value="정열 티켓"/>
-        <local:Item Key="item0AA5" Value="길안내 티켓"/>
+        <local:Item Key="item0AA5" Value="딴길 티켓"/>
         <local:Item Key="item0AA6" Value="식당 티켓【술】"/>
-        <local:Item Key="item0AA7" Value="Unavailable"/>
-        <local:Item Key="item0AA8" Value="Unavailable"/>
-        <local:Item Key="item0AA9" Value="Unavailable"/>
+        <local:Item Key="item0AA7" Value="호러나이트 티켓"/>
+        <local:Item Key="item0AA8" Value="검은색 밴대너"/>
+        <local:Item Key="item0AA9" Value="목도리 티켓"/>
         <local:Item Key="item0AAA" Value="절친의 증표"/>
         <local:Item Key="item0AAB" Value="Unavailable"/>
         <local:Item Key="item0AAC" Value="금천 티켓"/>
@@ -2781,7 +2781,7 @@
         <local:Item Key="item0AB0" Value="대감사 티켓 SP"/>
         <local:Item Key="item0AB1" Value="만개 티켓 SP"/>
         <local:Item Key="item0AB2" Value="정열 티켓 SP"/>
-        <local:Item Key="item0AB3" Value="Unavailable"/>
+        <local:Item Key="item0AB3" Value="호러나이트 티켓 SP"/>
         <local:Item Key="item0AB4" Value="탈주옥"/>
         <local:Item Key="item0AB5" Value="Unavailable"/>
         <local:Item Key="item0AB6" Value="용력이 깃든 덩어리-대검"/>
@@ -2798,22 +2798,22 @@
         <local:Item Key="item0AC1" Value="용력이 깃든 덩어리-라이트보우건"/>
         <local:Item Key="item0AC2" Value="용력이 깃든 덩어리-헤비보우건"/>
         <local:Item Key="item0AC3" Value="용력이 깃든 덩어리-활"/>
-        <local:Item Key="item0AC4" Value="Unavailable"/>
-        <local:Item Key="item0AC5" Value="Unavailable"/>
-        <local:Item Key="item0AC6" Value="Unavailable"/>
-        <local:Item Key="item0AC7" Value="Unavailable"/>
-        <local:Item Key="item0AC8" Value="Unavailable"/>
-        <local:Item Key="item0AC9" Value="Unavailable"/>
+        <local:Item Key="item0AC4" Value="흑룡의 두툼비늘"/>
+        <local:Item Key="item0AC5" Value="흑룡의 중갑각"/>
+        <local:Item Key="item0AC6" Value="흑룡의 중흉각"/>
+        <local:Item Key="item0AC7" Value="흑룡의 억센뿔"/>
+        <local:Item Key="item0AC8" Value="흑룡의 사안"/>
+        <local:Item Key="item0AC9" Value="흑룡의 억센날개"/>
         <local:Item Key="item0ACA" Value="초식동물 티켓Ⅰ"/>
         <local:Item Key="item0ACB" Value="초식동물 티켓Ⅱ"/>
         <local:Item Key="item0ACC" Value="삼안 티켓"/>
-        <local:Item Key="item0ACD" Value="Unavailable"/>
+        <local:Item Key="item0ACD" Value="머슬 티켓G"/>
         <local:Item Key="item0ACE" Value="Unavailable"/>
         <local:Item Key="item0ACF" Value="Unavailable"/>
         <local:Item Key="item0AD0" Value="Unavailable"/>
         <local:Item Key="item0AD1" Value="Unavailable"/>
-        <local:Item Key="item0AD2" Value="Unavailable"/>
-        <local:Item Key="item0AD3" Value="Unavailable"/>
+        <local:Item Key="item0AD2" Value="뇌랑룡 티켓"/>
+        <local:Item Key="item0AD3" Value="흑굉룡 티켓"/>
         <local:Item Key="item0AD4" Value="Unavailable"/>
         <local:Item Key="item0AD5" Value="Unavailable"/>
         <local:Item Key="item0AD6" Value="Unavailable"/>
