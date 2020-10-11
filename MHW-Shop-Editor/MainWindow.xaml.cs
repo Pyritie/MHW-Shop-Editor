@@ -3,17 +3,10 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Runtime.CompilerServices;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace MHWShopEditor
 {
@@ -23,7 +16,7 @@ namespace MHWShopEditor
     public partial class MainWindow : Window, INotifyPropertyChanged
     {
 
-        public static readonly string[] DEFAULT_ITEMS = {"0001", "0005", "000D", "0011", "001C", "0046", "0047", "0048", "004A", "004B", "004F", "0055", "0056", "0057", "0058", "0059", "005A", "005C", "0066", "0067", "008A", "008B", "008C", "008D", "008E", "008F", "0090", "0091", "0092", "0093", "0095", "0096", "0098", "0099", "009A", "009B", "009D", "009E", "009F", "00A0", "00A1", "00A2", "00A3", "00A4", "00A5", "00A6", "00A7", "00A8", "00A9", "00AE", "00AF", "00B0", "00B1", "00B2", "00B4", "03E8" };
+        public static readonly string[] DEFAULT_ITEMS = { "0001", "0005", "000D", "0011", "001C", "0046", "0047", "0048", "004A", "004B", "004F", "0055", "0056", "0057", "0058", "0059", "005A", "005C", "0066", "0067", "008A", "008B", "008C", "008D", "008E", "008F", "0090", "0091", "0092", "0093", "0095", "0096", "0098", "0099", "009A", "009B", "009D", "009E", "009F", "00A0", "00A1", "00A2", "00A3", "00A4", "00A5", "00A6", "00A7", "00A8", "00A9", "00AE", "00AF", "00B0", "00B1", "00B2", "00B4", "03E8" };
         public static readonly string[] CONSUMABLES = { "0001", "0002", "0003", "0004", "0005", "0006", "0007", "0008", "0009", "000A", "000B", "000C", "000D", "000E", "000F", "0010", "0011", "0012", "0013", "0014", "0015", "0016", "0017", "0018", "0019", "001A", "001B", "001C", "001D", "001E", "001F", "0020", "0021", "0022", "0023", "0024", "0025", "0026", "0027", "0028", "0029", "002A", "002B", "002C", "002D", "002E", "002F", "0030", "0031", "0032", "0033", "0034", "0035", "0036", "0037", "0038", "0039", "003A", "003B", "003C", "003D", "003E", "003F", "0040", "0041", "0042", "0043", "0044", "0045", "0046", "0047", "0048", "0049", "004A", "004B", "004C", "004D", "004F", "0050", "0051", "0052", "0053", "0054", "0055", "0056", "0057", "0058", "0059", "005A", "005B", "005C", "005D", "005E", "005F", "0060", "0061", "0062", "0063", "0064", "0065", "0066", "0067", "0068", "0069", "006A", "006B", "006C", "006D", "006E", "006F", "0070", "0071", "008A", "008B", "008C", "008D", "008E", "008F", "0090", "0091", "0092", "0093", "0094", "0095", "0096", "0097", "0098", "0099", "009A", "009B", "009C", "009D", "009E", "009F", "00A0", "00A1", "00A2", "00A3", "00A4", "00A5", "00A6", "00A7", "00A8", "00A9", "00AA", "00AB", "00AE", "00AF", "00B0", "00B1", "00B2", "00B3", "00B4", "00B5", "00B6", "00B7", "00B8", "00B9", "00BA", "00BB", "00BC", "00BD", "00BE", "00BF", "00C0", "00C1", "00C2", "00C3", "00C4", "00C5", "00C6", "00C7", "00C8", "00C9", "03AC", "03AD", "03AE", "03AF", "03B0", "03E8", "03EE", "03EF", "03F0", "05AE", "0AB4" };
         public static readonly string[] HRGEMS = { "02D7", "02D8", "02D9", "02DA", "02DB", "02DC", "02DD", "02DE", "02DF", "02E0", "02E1", "02E2", "02E3", "02E4", "02E5", "02E6", "02E7", "02E8", "02E9", "02EA", "02EB", "02EC", "02ED", "02EE", "02EF", "02F0", "02F1", "02F2", "02F3", "02F4", "02F5", "02F6", "02F7", "02F8", "02F9", "02FA", "02FB", "02FC", "02FD", "02FE", "02FF", "0300", "0301", "0302", "0303", "0304", "0305", "0306", "0307", "0308", "0309", "030A", "030B", "030C", "030D", "030E", "030F", "0310", "0311", "0312", "0313", "0314", "0315", "0316", "0317", "0318", "0319", "031A", "031B", "031C", "031D", "031E", "031F", "0320", "0321", "0322", "0323", "0324", "0325", "0326", "0327", "0328", "0329", "032A", "032B", "032C", "032D", "032E", "032F", "0330", "0331", "0332", "0333", "0334", "0335", "0336", "0337", "0338", "0339", "033A", "033B", "033C", "033D", "033E", "033F", "0340", "0341", "0342", "0343", "0344", "0345", "0346", "0347", "0348", "0349", "034A", "036A", "036B", "036C", "036D", "036E", "07B0", "07B1", "07B2", "08DE", "08E0" };
         public static readonly string[] PLUSGEMS = { "07B3", "07B4", "07B5", "07B6", "07B7", "07B8", "07B9", "07BA", "07BB", "07BC", "07BD", "07BE", "07BF", "07C0", "07C6", "07C7", "07C8", "07C9", "07CA", "07CB", "07CC", "07CD", "07CE", "07CF", "07D0", "07D1", "07D2", "07D6", "07D7", "07D8", "07D9", "07DA", "07DB", "07DC", "07DD", "07DE", "07E2", "07E3", "07E6", "07E7", "07E8", "07E9", "07EA", "07EB", "07EC", "07ED", "07EE", "07EF", "07F0", "07F1", "07F2", "07F3" };
@@ -37,8 +30,8 @@ namespace MHWShopEditor
         public static readonly string[] TICKETS = { "0243", "038C", "038D", "038E", "038F", "0390", "0391", "0392", "0393", "0394", "0395", "0396", "0397", "0398", "0399", "039A", "039B", "039C", "039D", "03A0", "03A4", "03A5", "03A6", "03A7", "03AB", "03BB", "03C1", "03C2", "03C3", "03C4", "03C5", "03C9", "03CA", "03CB", "03CC", "0599", "05A5", "06FE", "07AE", "0A73", "0A74", "0A77", "0A7A", "0A7E", "0A7F", "0A82", "0A83", "0A90", "0A91", "0A92", "0A96", "0A97", "0A98", "0A99", "0A9A", "0A9B", "0A9C", "0A9D", "0A9E", "0AA1", "0AA2", "0AA3", "0AA4", "0AA5", "0AA6", "0AAA", "0AAC", "0AAF", "0AB0", "0AB1", "0AB2", "0ACA", "0ACB", "0ACC" };
         public static readonly string[] DLC_PARTS = { "0506", "0507", "0508", "0509", "0519", "051A", "051B", "051C", "051D", "051E", "051F", "0520", "0530", "0531", "0532", "0533", "0534", "0535", "0536", "0537", "0538", "056B", "056C", "056D", "056E", "056F", "0570", "0571", "0572", "057A", "057B", "057C", "057D", "057E", "057F", "0580", "0587", "0594", "07A4", "07A5", "07A6", "07A7", "0A8D", "0A8E", "0A8F" };
         public static readonly string[] AUGMENT_MATS = { "0703", "0704", "0705", "0706", "0707", "0708", "0709", "070A", "070B", "070C", "070D", "070E", "070F", "0710", "0711", "0712", "0713", "0714", "0715", "0716", "0717", "0718", "0719", "071A", "071B", "071C", "071D", "071E", "071F", "0720", "0721", "0722", "0723", "0724", "0725", "0726", "0727", "0728", "0729", "072A", "072B", "072C", "072D", "072E", "072F", "0730", "0731", "0732", "0733", "0734", "0735", "0736", "0738", "0739", "073A", "073C", "073D", "073E", "0740", "0742", "0743", "0744", "0746", "0747", "074D", "074E", "074F", "0750", "0751", "0752", "0753", "0754", "0755", "0756", "0757", "0759", "075A", "075C", "075E", "075F", "0760", "0762", "0763", "0764", "0766", "0767", "0768", "0769", "076A", "076B", "076C", "076D", "076E", "076F", "0770", "0771", "0772", "0773", "0774", "0775", "0776", "0777", "0779", "077A", "077B", "077C", "077D", "077E", "077F", "0780", "0782", "0783", "0784", "0785", "0786", "0787", "0788", "078A", "078C", "078D", "078E", "078F", "0790", "0791", "0792", "0793", "0794", "0795", "0796", "0797", "0798", "0799", "079A", "079B", "079C", "079D", "079E", "079F", "07A0", "07A1", "07A2", "07A3", "07A4", "07A5", "07A6", "07A7" };
-        public static readonly string UNAVAILABLE = "UNAVAILABLE";
-        public static readonly string HARDUMMY = "HARDUMMY";
+        public const string UNAVAILABLE = "UNAVAILABLE";
+        public const string HARDUMMY = "HARDUMMY";
         private static Item[] hiddenList = (Item[]) Application.Current.FindResource("itemsList");
         private static List<Item> listBoxIn = new List<Item>();
         private static List<Item> listBoxOut = new List<Item>();
@@ -50,15 +43,15 @@ namespace MHWShopEditor
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = this;
+
             Title = Title + " v" + getVersion();
             if (Properties.Settings.Default.SaveDirectory == "")
             {
                 Properties.Settings.Default.SaveDirectory = AppDomain.CurrentDomain.BaseDirectory;
             }
-            InsertMethod.SelectedIndex = Properties.Settings.Default.InsertMethod;
-            SortMethod.SelectedIndex = Properties.Settings.Default.SortMethod;
+
             Lang.SelectedIndex = Properties.Settings.Default.Language;
-            FilterMethod.SelectedIndex = Properties.Settings.Default.FilterMethod;
             InitBoxes();
         }
 
@@ -127,7 +120,8 @@ namespace MHWShopEditor
                         buffer[1] = input[i];
                         items.Add(BitConverter.ToString(buffer).Replace("-", ""));  // New File Format
                     }
-                } else
+                }
+                else
                 {
                     for (int i = 10; i < input.Length - 1; i += 12)
                     {
@@ -136,7 +130,7 @@ namespace MHWShopEditor
                         items.Add(BitConverter.ToString(buffer).Replace("-", ""));  // Legacy File Format
                     }
                 }
-                
+
                 PopulateBoxes(items);
             }
         }
@@ -180,63 +174,64 @@ namespace MHWShopEditor
 
         private void LanguageChanged(object sender, SelectionChangedEventArgs e)
         {
-                ResourceDictionary dict = new ResourceDictionary();
+            ResourceDictionary dict = new ResourceDictionary();
 
-                switch (((sender as ComboBox).SelectedItem as ComboBoxItem).Tag.ToString())
-                {
-                    case "ara":
-                        dict.Source = new Uri("Lang/ara.xaml", UriKind.Relative);
-                        break;
-                    case "chS":
-                        dict.Source = new Uri("Lang/chS.xaml", UriKind.Relative);
-                        break;
-                    case "chT":
-                        dict.Source = new Uri("Lang/chT.xaml", UriKind.Relative);
-                        break;
-                    case "eng":
-                        dict.Source = new Uri("Lang/eng.xaml", UriKind.Relative);
-                        break;
-                    case "fre":
-                        dict.Source = new Uri("Lang/fre.xaml", UriKind.Relative);
-                        break;
-                    case "ger":
-                        dict.Source = new Uri("Lang/ger.xaml", UriKind.Relative);
-                        break;
-                    case "ita":
-                        dict.Source = new Uri("Lang/ita.xaml", UriKind.Relative);
-                        break;
-                    case "jpn":
-                        dict.Source = new Uri("Lang/jpn.xaml", UriKind.Relative);
-                        break;
-                    case "kor":
-                        dict.Source = new Uri("Lang/kor.xaml", UriKind.Relative);
-                        break;
-                    case "pol":
-                        dict.Source = new Uri("Lang/pol.xaml", UriKind.Relative);
-                        break;
-                    case "ptB":
-                        dict.Source = new Uri("Lang/ptB.xaml", UriKind.Relative);
-                        break;
-                    case "rus":
-                        dict.Source = new Uri("Lang/rus.xaml", UriKind.Relative);
-                        break;
-                    case "spa":
-                        dict.Source = new Uri("Lang/spa.xaml", UriKind.Relative);
-                        break;
-                    default:
-                            break;
-                }
-                Application.Current.Resources.MergedDictionaries.Add(dict);
-                hiddenList = (Item[])Application.Current.FindResource("itemsList");
-                Clear();
-                InitBoxes();
-                Properties.Settings.Default.Language = Lang.SelectedIndex;
-                Properties.Settings.Default.Save();
+            switch (((sender as ComboBox).SelectedItem as ComboBoxItem).Tag.ToString())
+            {
+                case "ara":
+                    dict.Source = new Uri("Lang/ara.xaml", UriKind.Relative);
+                    break;
+                case "chS":
+                    dict.Source = new Uri("Lang/chS.xaml", UriKind.Relative);
+                    break;
+                case "chT":
+                    dict.Source = new Uri("Lang/chT.xaml", UriKind.Relative);
+                    break;
+                case "eng":
+                    dict.Source = new Uri("Lang/eng.xaml", UriKind.Relative);
+                    break;
+                case "fre":
+                    dict.Source = new Uri("Lang/fre.xaml", UriKind.Relative);
+                    break;
+                case "ger":
+                    dict.Source = new Uri("Lang/ger.xaml", UriKind.Relative);
+                    break;
+                case "ita":
+                    dict.Source = new Uri("Lang/ita.xaml", UriKind.Relative);
+                    break;
+                case "jpn":
+                    dict.Source = new Uri("Lang/jpn.xaml", UriKind.Relative);
+                    break;
+                case "kor":
+                    dict.Source = new Uri("Lang/kor.xaml", UriKind.Relative);
+                    break;
+                case "pol":
+                    dict.Source = new Uri("Lang/pol.xaml", UriKind.Relative);
+                    break;
+                case "ptB":
+                    dict.Source = new Uri("Lang/ptB.xaml", UriKind.Relative);
+                    break;
+                case "rus":
+                    dict.Source = new Uri("Lang/rus.xaml", UriKind.Relative);
+                    break;
+                case "spa":
+                    dict.Source = new Uri("Lang/spa.xaml", UriKind.Relative);
+                    break;
+                default:
+                    break;
+            }
+
+            Application.Current.Resources.MergedDictionaries.Add(dict);
+            hiddenList = (Item[]) Application.Current.FindResource("itemsList");
+            Clear();
+            InitBoxes();
+            Properties.Settings.Default.Language = Lang.SelectedIndex;
+            Properties.Settings.Default.Save();
         }
 
         private void AddPreset(object sender, RoutedEventArgs e)
         {
-            switch(presetList.SelectedIndex)
+            switch (presetList.SelectedIndex)
             {
                 case 0:
                     PopulateBoxes(DEFAULT_ITEMS.ToList());
@@ -320,7 +315,7 @@ namespace MHWShopEditor
 
         private void Sort()
         {
-            if (SortMethod.SelectedIndex == 0)
+            if (SortByID)
             {
                 listBoxIn.Sort((x, y) => x.Hex.CompareTo(y.Hex));
 #if DEBUG
@@ -410,55 +405,39 @@ namespace MHWShopEditor
             }
         }
 
-        private void InsertMethodChanged(object sender, SelectionChangedEventArgs e)
-        {
-                Properties.Settings.Default.InsertMethod = InsertMethod.SelectedIndex;
-                Properties.Settings.Default.Save();
-        }
-
-        private void SortMethodChanged(object  sender, SelectionChangedEventArgs e)
-        {
-            Properties.Settings.Default.SortMethod = SortMethod.SelectedIndex;
-            Properties.Settings.Default.Save();
-            Sort();
-        }
-
-        private void FilterMethodChanged(object sender, SelectionChangedEventArgs e)
-        {
-            Properties.Settings.Default.FilterMethod = FilterMethod.SelectedIndex;
-            Properties.Settings.Default.Save();
-            Refresh();
-        }
-
         private void TooManyItemsError()
         {
-            MessageBox.Show((String)Application.Current.FindResource("tooManyItems"), (String)Application.Current.FindResource("error"));
+            MessageBox.Show((String) Application.Current.FindResource("tooManyItems"), (String) Application.Current.FindResource("error"));
         }
 
         public ObservableCollection<Item> filteredInput
         {
             get
             {
+                // use StringComparison.OrdinalIgnoreCase instead of making everything uppercase! it's much faster!
+                // also I know there's better ways to filter things when you're handling multiple languages but I don't know them
                 if (String.IsNullOrEmpty(inputFilterText))
                 {
-                    results.Text = listBoxIn.Count().ToString();
-                    return new ObservableCollection<Item>(listBoxIn.Where(x => !x.Value.ToUpper().Contains(UNAVAILABLE))  // Do not show unavailable items
-                        .Where(x => !x.Value.ToUpper().Contains(HARDUMMY)));  // Do not show HARDUMMY items
+                    return new ObservableCollection<Item>(listBoxIn
+                        .Where(x => x.Value.IndexOf(UNAVAILABLE, StringComparison.OrdinalIgnoreCase) < 0  // Do not show unavailable items
+                                 && x.Value.IndexOf(HARDUMMY, StringComparison.OrdinalIgnoreCase) < 0));  // Do not show HARDUMMY items
                 }
-                var filtered = listBoxIn.Where(x => true);
-                if (FilterMethod.SelectedIndex == 0)
+                IEnumerable<Item> filtered;
+                if (FilterContains)
                 {
-                    filtered = listBoxIn.Where(x => x.Value.ToUpper().Contains(inputFilterText.ToUpper())); // Contains Word
-                } else if (FilterMethod.SelectedIndex == 1)
-                {
-                    filtered = listBoxIn.Where(x => x.Value.ToUpper().StartsWith(inputFilterText.ToUpper()));  // Match Word
-                } else
-                {
-                    filtered = listBoxIn.Where(x => !x.Value.ToUpper().Contains(inputFilterText.ToUpper()));  // Exclude Word
+                    filtered = listBoxIn.Where(x => x.Value.IndexOf(inputFilterText, StringComparison.OrdinalIgnoreCase) >= 0); // Contains Word
                 }
-                filtered = filtered.Where(x => !x.Value.ToUpper().Contains(UNAVAILABLE))
-                    .Where(x => !x.Value.ToUpper().Contains(HARDUMMY));  // Do not match unavailable or HARDUMMY
-                results.Text = filtered.Count().ToString();
+                else if (FilterWhole)
+                {
+                    filtered = listBoxIn.Where(x => x.Value.StartsWith(inputFilterText, StringComparison.OrdinalIgnoreCase));  // Match Word
+                }
+                else
+                {
+                    filtered = listBoxIn.Where(x => x.Value.IndexOf(inputFilterText, StringComparison.OrdinalIgnoreCase) < 0);  // Exclude Word
+                }
+                filtered = filtered.Where(x => x.Value.IndexOf(UNAVAILABLE, StringComparison.OrdinalIgnoreCase) < 0
+                                            && x.Value.IndexOf(HARDUMMY, StringComparison.OrdinalIgnoreCase) < 0);  // Do not match unavailable or HARDUMMY
+
                 return new ObservableCollection<Item>(filtered);
             }
         }
@@ -468,12 +447,9 @@ namespace MHWShopEditor
             get { return inputFilterText; }
             set
             {
-                inputFilterText = value;
-                if (PropertyChanged != null)
-                {
-                    PropertyChanged(this, new PropertyChangedEventArgs("filteredInput"));
-                    PropertyChanged(this, new PropertyChangedEventArgs("filteredOutput"));
-                }
+                SetProperty(ref inputFilterText, value);
+                RaisePropertyChanged(nameof(filteredInput));
+                RaisePropertyChanged(nameof(filteredOutput));
             }
         }
 
@@ -485,18 +461,18 @@ namespace MHWShopEditor
                 {
                     return new ObservableCollection<Item>(listBoxOut);
                 }
-                var filtered = listBoxOut.Where(x => true);
-                if (FilterMethod.SelectedIndex == 0)
+                IEnumerable<Item> filtered;
+                if (FilterContains)
                 {
-                    filtered = listBoxOut.Where(x => x.Value.ToUpper().Contains(outputFilterText.ToUpper())); // Contains Word
+                    filtered = listBoxOut.Where(x => x.Value.IndexOf(outputFilterText, StringComparison.OrdinalIgnoreCase) >= 0); // Contains Word
                 }
-                else if (FilterMethod.SelectedIndex == 1)
+                else if (FilterWhole)
                 {
-                    filtered = listBoxOut.Where(x => x.Value.ToUpper().StartsWith(outputFilterText.ToUpper()));  // Match Word
+                    filtered = listBoxOut.Where(x => x.Value.StartsWith(outputFilterText, StringComparison.OrdinalIgnoreCase));  // Match Word
                 }
                 else
                 {
-                    filtered = listBoxOut.Where(x => !x.Value.ToUpper().Contains(outputFilterText.ToUpper()));
+                    filtered = listBoxOut.Where(x => x.Value.IndexOf(outputFilterText, StringComparison.OrdinalIgnoreCase) < 0);
                 }
                 return new ObservableCollection<Item>(filtered);
             }
@@ -507,20 +483,20 @@ namespace MHWShopEditor
             get { return outputFilterText; }
             set
             {
-                outputFilterText = value;
-                if (PropertyChanged != null)
-                {
-                    PropertyChanged(this, new PropertyChangedEventArgs("filteredInput"));
-                    PropertyChanged(this, new PropertyChangedEventArgs("filteredOutput"));
-                }
+                SetProperty(ref outputFilterText, value);
+                RaisePropertyChanged(nameof(filteredInput));
+                RaisePropertyChanged(nameof(filteredOutput));
             }
         }
 
+        public string filterOutputCount => listBoxOut.Count.ToString();
+
         public void Refresh()
         {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredInput"));
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredOutput"));
-            itemCount.Text = listBoxOut.Count.ToString();
+            // use nameof() instead of strings so that way if you rename your properties you'll get these automatically updated too
+            RaisePropertyChanged(nameof(filteredInput));
+            RaisePropertyChanged(nameof(filteredOutput));
+            RaisePropertyChanged(nameof(filterOutputCount));
         }
 
         private void InputDoubleClick(object sender, MouseButtonEventArgs e)
@@ -538,6 +514,35 @@ namespace MHWShopEditor
             return System.Diagnostics.FileVersionInfo.GetVersionInfo(System.Reflection.Assembly.GetExecutingAssembly().Location).FileVersion;
         }
 
+
+        // use these for doing more bindings! they'll make your code a lot tidier and using them is a huge strength of WPF over something like winforms
+
+        // the [CallerMemberName] thing means that if this argument isn't provided, it'll automatically be filled in by the name of the method/property
+        // that called it
+        private void RaisePropertyChanged([CallerMemberName] string propertyName = null)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+
+        /*
+         * use this like this:
+         * 
+         * private string myField;
+         * 
+         * public string MyField {
+         *     get => myField;
+         *     set => SetProperty(ref myField, value);
+         * }
+         */
+        private bool SetProperty<T>(ref T storage, T newValue, [CallerMemberName] string propertyName = null)
+        {
+            if (EqualityComparer<T>.Default.Equals(storage, newValue))
+                return false;
+
+            storage = newValue;
+            RaisePropertyChanged(propertyName);
+            return true;
+        }
     }
 
     public class Item
